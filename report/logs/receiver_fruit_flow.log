@@ -1,0 +1,58 @@
+水果检测：http://127.0.0.1:5000
+模型： D:\fruit_ai\runs\ir_damage_v4\weights\best.pt 存在： True
+结果目录： D:\fruit_project\fruit_flow_results
+彩色识别登记→入料触发→人工翻面拍摄
+ * Serving Flask app 'receiver_fruit_flow'
+ * Debug mode: off
+水果检测：http://127.0.0.1:5000
+模型： D:\fruit_ai\runs\ir_damage_v4\weights\best.pt 存在： True
+结果目录： D:\fruit_project\fruit_flow_results
+ * Serving Flask app 'receiver_fruit_flow'
+ * Debug mode: off
+水果检测：http://127.0.0.1:5000
+模型： D:\fruit_ai\runs\ir_damage_v4\weights\best.pt 存在： True
+结果目录： D:\fruit_project\fruit_flow_results
+ * Serving Flask app 'receiver_fruit_flow'
+ * Debug mode: off
+水果检测：http://127.0.0.1:5000
+模型： D:\fruit_ai\runs\ir_damage_v4\weights\best.pt 存在： True
+结果目录： D:\fruit_project\fruit_flow_results
+ * Serving Flask app 'receiver_fruit_flow'
+ * Debug mode: off
+[2026-11-01 19:28:13,265] ERROR in app: Exception on /entry-task [GET]
+Traceback (most recent call last):
+  File "D:\fruit_ai\.venv\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\fruit_ai\.venv\Lib\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\fruit_ai\.venv\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\fruit_ai\.venv\Lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\fruit_project\receiver_fruit_flow.py", line 889, in entry_task
+    save_record(record)
+  File "D:\fruit_project\receiver_fruit_flow.py", line 236, in save_record
+    write_bytes(
+  File "D:\fruit_project\receiver_fruit_flow.py", line 83, in write_bytes
+    os.replace(temporary, path)
+PermissionError: [WinError 5] 拒绝访问。: 'D:\\fruit_project\\fruit_flow_results\\55b45fb3d5024de7991da159db33cbb0\\record.json.6f82b6f940c14002855dc49dfc81142e.tmp' -> 'D:\\fruit_project\\fruit_flow_results\\55b45fb3d5024de7991da159db33cbb0\\record.json'
+ERROR:root:后台处理异常
+Traceback (most recent call last):
+  File "D:\fruit_project\receiver_fruit_flow.py", line 608, in processing_loop
+    process_one(*pending)
+  File "D:\fruit_project\receiver_fruit_flow.py", line 566, in process_one
+    save_record(record)
+  File "D:\fruit_project\receiver_fruit_flow.py", line 236, in save_record
+    write_bytes(
+  File "D:\fruit_project\receiver_fruit_flow.py", line 83, in write_bytes
+    os.replace(temporary, path)
+PermissionError: [WinError 5] 拒绝访问。: 'D:\\fruit_project\\fruit_flow_results\\55b45fb3d5024de7991da159db33cbb0\\record.json.b68f121456634acdac1af2927bdfbd79.tmp' -> 'D:\\fruit_project\\fruit_flow_results\\55b45fb3d5024de7991da159db33cbb0\\record.json'
+水果检测：http://127.0.0.1:5000
+模型： D:\fruit_ai\runs\ir_damage_v5_trainonly\weights\best.pt 存在： True
+结果目录： D:\fruit_project\fruit_flow_results
+ * Serving Flask app 'receiver_fruit_flow'
+ * Debug mode: off

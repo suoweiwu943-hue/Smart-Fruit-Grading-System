@@ -1,0 +1,3007 @@
+{
+  "stats": {
+    "train": {
+      "images": 343,
+      "background": 10,
+      "boxes": [
+        24,
+        142,
+        72,
+        26,
+        45,
+        25
+      ]
+    },
+    "val": {
+      "images": 153,
+      "background": 21,
+      "boxes": [
+        15,
+        43,
+        14,
+        15,
+        21,
+        24
+      ]
+    }
+  },
+  "duplicate_new_images_skipped": 10,
+  "files": [
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00128_apple_20261030_100734_ef1cbd39_001.jpg",
+      "split": "train",
+      "filename": "old_00000_a0036abeb061.jpg",
+      "sha256": "a0036abeb06160e9fd9ff57f650b103b2c4dd1d8ac1451637cbefcff3554ebeb"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00129_apple_20261030_100734_ef1cbd39_002.jpg",
+      "split": "train",
+      "filename": "old_00001_5fee85d66e2f.jpg",
+      "sha256": "5fee85d66e2f819cbf2e83eca07b14ccd2bed0b69fec504d8cd5abc7828068ca"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00130_apple_20261030_100734_ef1cbd39_003.jpg",
+      "split": "train",
+      "filename": "old_00002_b814f93fd827.jpg",
+      "sha256": "b814f93fd82701b07d1f798b7b520de7596f19c5d350aeb136f9d5362ddcbb50"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00131_apple_20261030_100734_ef1cbd39_005.jpg",
+      "split": "train",
+      "filename": "old_00003_321ca7526eb6.jpg",
+      "sha256": "321ca7526eb6929e4763c8b154403440173a8a5890f6d24284d5a9e7fe0c9df5"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00132_apple_20261030_100734_ef1cbd39_006.jpg",
+      "split": "train",
+      "filename": "old_00004_0fd7867f9d38.jpg",
+      "sha256": "0fd7867f9d38ef3d3f299daf2a52775282e8d9f81db6ed54f887b6d6406884c4"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00133_apple_20261030_100734_ef1cbd39_007.jpg",
+      "split": "train",
+      "filename": "old_00005_942ee2ac2f06.jpg",
+      "sha256": "942ee2ac2f06813005eaa288f01142417fa5b68e5b1e4d9103570d51180909aa"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00134_apple_20261030_100734_ef1cbd39_008.jpg",
+      "split": "train",
+      "filename": "old_00006_986210de5ab5.jpg",
+      "sha256": "986210de5ab5fa44756903d233d7382fa476d486a24fe69d5bd42cef24d8cb4f"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00135_apple_20261030_100734_ef1cbd39_009.jpg",
+      "split": "train",
+      "filename": "old_00007_c3cd47ea00dc.jpg",
+      "sha256": "c3cd47ea00dc18f47e82940f4d1e9b30c963155a11019801e6496c27811cdd27"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00147_cherry_tomato_20261030_102243_c275b9ab_001.jpg",
+      "split": "train",
+      "filename": "old_00008_8d3908a11930.jpg",
+      "sha256": "8d3908a11930a82420c85489baa6d5b46be92557489503da3f51b2ae3fe111a0"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00148_cherry_tomato_20261030_102243_c275b9ab_002.jpg",
+      "split": "train",
+      "filename": "old_00009_09a25df8dcaa.jpg",
+      "sha256": "09a25df8dcaa5c4c716f88b8c0f7777059549d89cc2d001a4d1fa3909ff62205"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00149_cherry_tomato_20261030_102243_c275b9ab_003.jpg",
+      "split": "train",
+      "filename": "old_00010_7d825d9b8afa.jpg",
+      "sha256": "7d825d9b8afa450c93f42270f9b680bb70b00d5b652db6a32ca1ae291f539b95"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00150_cherry_tomato_20261030_102243_c275b9ab_004.jpg",
+      "split": "train",
+      "filename": "old_00011_fadf17634d4b.jpg",
+      "sha256": "fadf17634d4ba98a56cd21e0a95b8ca8ea929aaabb9843e38a118dd4698943ce"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00151_cherry_tomato_20261030_102243_c275b9ab_005.jpg",
+      "split": "train",
+      "filename": "old_00012_62ee5f869f05.jpg",
+      "sha256": "62ee5f869f050aa1fbaed6391055d1567364cbf1325cf7deb54ee9ee3e51e38b"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00152_cherry_tomato_20261030_102243_c275b9ab_006.jpg",
+      "split": "train",
+      "filename": "old_00013_79f06b1b44a3.jpg",
+      "sha256": "79f06b1b44a35fc97ec21d21693bce9bc09dc25d63febc4b532107af5f8d063f"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00153_cherry_tomato_20261030_102243_c275b9ab_007.jpg",
+      "split": "train",
+      "filename": "old_00014_59ab736099b5.jpg",
+      "sha256": "59ab736099b5cc07b58ae267936a22228de2f77f35f5f1a40213c9c728137768"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00154_cherry_tomato_20261030_102243_c275b9ab_008.jpg",
+      "split": "train",
+      "filename": "old_00015_edf841c5a4a7.jpg",
+      "sha256": "edf841c5a4a75a16fd74beef7f4168a316a0d5184b8d5af3ae7ce3cf4dbb8cc9"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00155_cherry_tomato_20261030_102243_c275b9ab_009.jpg",
+      "split": "train",
+      "filename": "old_00016_2e9e80bfba2f.jpg",
+      "sha256": "2e9e80bfba2fb1c29572e16d52ee5fc3b3953f54ff67027c92fbfd036cc648b5"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00156_cherry_tomato_20261030_102243_c275b9ab_010.jpg",
+      "split": "train",
+      "filename": "old_00017_9170b9268e2e.jpg",
+      "sha256": "9170b9268e2e0cd21585af267b0c111c240c3e9c5b7da4165c033bd85ba30d16"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00157_cherry_tomato_20261030_102243_c275b9ab_011.jpg",
+      "split": "train",
+      "filename": "old_00018_44362bfe5196.jpg",
+      "sha256": "44362bfe5196425a2302bfa9644e402e45b539cf9d833dcc2db6b6ffd5487209"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00158_cherry_tomato_20261030_102243_c275b9ab_012.jpg",
+      "split": "train",
+      "filename": "old_00019_8490f9098215.jpg",
+      "sha256": "8490f9098215498bdf5ade8517ebf93fa6a527a661e5bac72238b37bf8dd6d25"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00159_cherry_tomato_20261030_102243_c275b9ab_013.jpg",
+      "split": "train",
+      "filename": "old_00020_7130234da3e0.jpg",
+      "sha256": "7130234da3e0567348d0461c1fbebf97699be61a48831e299d2ee3c22b3e56df"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00160_cherry_tomato_20261030_102243_c275b9ab_014.jpg",
+      "split": "train",
+      "filename": "old_00021_0a137aa4a184.jpg",
+      "sha256": "0a137aa4a18477e2c4f5a1c82d578b1aec4594a0afc8d1246fa5539813082736"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00161_cherry_tomato_20261030_102243_c275b9ab_015.jpg",
+      "split": "train",
+      "filename": "old_00022_6801a7332fac.jpg",
+      "sha256": "6801a7332fac3bc2b643e1382a78be0b600b60b091a73b8a5baab523e4236a6c"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00162_cherry_tomato_20261030_102243_c275b9ab_016.jpg",
+      "split": "train",
+      "filename": "old_00023_34ff28452a68.jpg",
+      "sha256": "34ff28452a6885e3ed1a054a6eb3bf8055441af27955df0fae98f5b143ed8232"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00163_cherry_tomato_20261030_102243_c275b9ab_017.jpg",
+      "split": "train",
+      "filename": "old_00024_6133ca84909a.jpg",
+      "sha256": "6133ca84909a5365ca35ac1b70fb0e62c0e1b796c5913a12cc48644f768deab6"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00164_cherry_tomato_20261030_102317_f318a03b_001.jpg",
+      "split": "train",
+      "filename": "old_00025_540437eb55f0.jpg",
+      "sha256": "540437eb55f04751db4a7593c8f65185570f5afd23f5a821688111f2b7a2be3d"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00165_cherry_tomato_20261030_102317_f318a03b_002.jpg",
+      "split": "train",
+      "filename": "old_00026_2e921d088c39.jpg",
+      "sha256": "2e921d088c39a22d9932e1b3187dc06020dbb665873317ef3b67355c35149241"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00166_cherry_tomato_20261030_102317_f318a03b_003.jpg",
+      "split": "train",
+      "filename": "old_00027_722702ccb934.jpg",
+      "sha256": "722702ccb9345d3a70597ae9d9e7930b6f989597bfd14ebbcd08ea57906333f5"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00167_cherry_tomato_20261030_102317_f318a03b_004.jpg",
+      "split": "train",
+      "filename": "old_00028_5d833f87b911.jpg",
+      "sha256": "5d833f87b9115b955a111b7b6d8e636b48d16d180b888df4ec3de8d44d0eb879"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00168_cherry_tomato_20261030_102317_f318a03b_005.jpg",
+      "split": "train",
+      "filename": "old_00029_c5f7a90ba042.jpg",
+      "sha256": "c5f7a90ba0425b769819529253bfc921a69b022d702520a1af0f858609ad43ce"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00169_cherry_tomato_20261030_102317_f318a03b_006.jpg",
+      "split": "train",
+      "filename": "old_00030_a05f3253a842.jpg",
+      "sha256": "a05f3253a8422ac3179ecac6fe4eb5f322953bf0ce0271eaac7be9d7e5ebe35c"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00170_cherry_tomato_20261030_102317_f318a03b_007.jpg",
+      "split": "train",
+      "filename": "old_00031_668eaf22eef6.jpg",
+      "sha256": "668eaf22eef6fcbf566c643a588879245c519f2f0753c7180258dbdfdaabc4b0"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00171_cherry_tomato_20261030_102317_f318a03b_008.jpg",
+      "split": "train",
+      "filename": "old_00032_bf35833ea641.jpg",
+      "sha256": "bf35833ea641cee3fd780cc6d59a10dc628ee6c58d039ba8272bb1b5472a59ba"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00172_cherry_tomato_20261030_102317_f318a03b_009.jpg",
+      "split": "train",
+      "filename": "old_00033_f2930974c165.jpg",
+      "sha256": "f2930974c16527c0f137f1541652a9adda6507b7e6dabea37044f6ac240a8e7f"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00173_cherry_tomato_20261030_102317_f318a03b_010.jpg",
+      "split": "train",
+      "filename": "old_00034_b345b64e82b7.jpg",
+      "sha256": "b345b64e82b7cf1180b5536bd0a14f44436663390f39efc1ebfbf4128a20825b"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00174_cherry_tomato_20261030_102317_f318a03b_011.jpg",
+      "split": "train",
+      "filename": "old_00035_afd83f23a69b.jpg",
+      "sha256": "afd83f23a69b1213d3339b712d0061630fe0b19c910627be0da9b6e9ef8b8509"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00175_cherry_tomato_20261030_102317_f318a03b_012.jpg",
+      "split": "train",
+      "filename": "old_00036_13c4abc7a500.jpg",
+      "sha256": "13c4abc7a500085247e11b28011e7bce2ff8faa66ed8a7cc9696d91ed43a0fe7"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00176_cherry_tomato_20261030_102317_f318a03b_013.jpg",
+      "split": "train",
+      "filename": "old_00037_8dca6e6c5f5f.jpg",
+      "sha256": "8dca6e6c5f5f43e8f3a9f9be7bffb488219ad7924075db5838d63319171f1c45"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00177_cherry_tomato_20261030_102317_f318a03b_014.jpg",
+      "split": "train",
+      "filename": "old_00038_f86cd6aa9ba9.jpg",
+      "sha256": "f86cd6aa9ba9372d4b3de452769d53d6e855fc30c376b4d63b4102e37dcaa132"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00178_cherry_tomato_20261030_102317_f318a03b_015.jpg",
+      "split": "train",
+      "filename": "old_00039_78f047741745.jpg",
+      "sha256": "78f047741745aaec8416090314e9efb38e574555251448489a68efbc0c6382b2"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00179_cherry_tomato_20261030_102204_23beca9d_001.jpg",
+      "split": "train",
+      "filename": "old_00040_5a701de64815.jpg",
+      "sha256": "5a701de648157bd59807004bc800745aacf23d47a7b91e844248b0bf865eb4a0"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00180_cherry_tomato_20261030_102204_23beca9d_002.jpg",
+      "split": "train",
+      "filename": "old_00041_587818ac2e18.jpg",
+      "sha256": "587818ac2e18c03228d705e17478be6d3510192ee7f5c87283aa8abf7a4bd971"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00181_cherry_tomato_20261030_102204_23beca9d_003.jpg",
+      "split": "train",
+      "filename": "old_00042_bd596d1fa5b2.jpg",
+      "sha256": "bd596d1fa5b293cf3393f2211f5b17e905476d1bb57b2916af8f8e8c4e44de3b"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00182_cherry_tomato_20261030_102204_23beca9d_004.jpg",
+      "split": "train",
+      "filename": "old_00043_24e71b270990.jpg",
+      "sha256": "24e71b2709905d706f8a455b71526d884193fe45b7fa5909e137bec46974bff0"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00183_cherry_tomato_20261030_102204_23beca9d_005.jpg",
+      "split": "train",
+      "filename": "old_00044_e64e370fc464.jpg",
+      "sha256": "e64e370fc46447c08d2d48de8dcb179a51a88ea05b3ef13822e2b52fd1adcb17"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00184_cherry_tomato_20261030_102204_23beca9d_006.jpg",
+      "split": "train",
+      "filename": "old_00045_b7fda0bbddbc.jpg",
+      "sha256": "b7fda0bbddbcb7f1f737943addc9d773c6cf100f48ee8b9a036716507cd54489"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00185_cherry_tomato_20261030_102204_23beca9d_007.jpg",
+      "split": "train",
+      "filename": "old_00046_36eae86f3325.jpg",
+      "sha256": "36eae86f3325834c8428e7c43c0661f4a80dbf9f84dbe2e7294a86daf0f99c56"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00186_cherry_tomato_20261030_102204_23beca9d_008.jpg",
+      "split": "train",
+      "filename": "old_00047_de59163aed06.jpg",
+      "sha256": "de59163aed06d12924ca31bca517e79c0eca0d83260c464ed7071ed3ed016677"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00187_cherry_tomato_20261030_102204_23beca9d_009.jpg",
+      "split": "train",
+      "filename": "old_00048_c6bf9e7560ec.jpg",
+      "sha256": "c6bf9e7560ec7d55a90ff3a75edd7a5e86aa14fb7a2dad6bf601455dd2080461"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00188_cherry_tomato_20261030_102204_23beca9d_010.jpg",
+      "split": "train",
+      "filename": "old_00049_1839c2f6d6d0.jpg",
+      "sha256": "1839c2f6d6d075fe784208d46a02782891fafa05d92b8de999a70d670e3ff138"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00189_cherry_tomato_20261030_102204_23beca9d_011.jpg",
+      "split": "train",
+      "filename": "old_00050_4ee45a32dab0.jpg",
+      "sha256": "4ee45a32dab0d904409c91437b1bfc2bc345ff84ea6b116745001d61693e5c64"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00190_cherry_tomato_20261030_102204_23beca9d_012.jpg",
+      "split": "train",
+      "filename": "old_00051_c2ec00c87041.jpg",
+      "sha256": "c2ec00c870419fdf37f18e2596cdac123f4e0282c79611d854ac78e7ea994bd8"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00191_cherry_tomato_20261030_102204_23beca9d_013.jpg",
+      "split": "train",
+      "filename": "old_00052_ff57874e1e4f.jpg",
+      "sha256": "ff57874e1e4f161485776b7ae27290430a93a75a8ca171d807b1ec5ba4cb3a42"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00192_cherry_tomato_20261030_102204_23beca9d_014.jpg",
+      "split": "train",
+      "filename": "old_00053_8cf4065c2217.jpg",
+      "sha256": "8cf4065c2217abf0d9630e55791dac87561954b7a20a069f562bc50c8b17f0e6"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00193_cherry_tomato_20261030_102204_23beca9d_015.jpg",
+      "split": "train",
+      "filename": "old_00054_dfe43bafb0c5.jpg",
+      "sha256": "dfe43bafb0c59157763ed0bd5f2e32bf2a114a969eb5b44d5fd1b475a5ee3b49"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00194_cherry_tomato_20261030_102204_23beca9d_016.jpg",
+      "split": "train",
+      "filename": "old_00055_9118d9c94597.jpg",
+      "sha256": "9118d9c94597c4c816e620bcfa614ad243f0239859a3621a3523d8e62a4907c6"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00195_cherry_tomato_20261030_102023_be2e4965_001.jpg",
+      "split": "train",
+      "filename": "old_00056_7e9c68538c4a.jpg",
+      "sha256": "7e9c68538c4a140ecacd994398d75f3fba51c89637e1a70563a2c724b198ef8f"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00196_cherry_tomato_20261030_102023_be2e4965_002.jpg",
+      "split": "train",
+      "filename": "old_00057_992220a197f6.jpg",
+      "sha256": "992220a197f618919d03d1c71f7a1e4f2731a7885bec3de0cac34f46800e4989"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00197_cherry_tomato_20261030_102023_be2e4965_003.jpg",
+      "split": "train",
+      "filename": "old_00058_748f1c326a06.jpg",
+      "sha256": "748f1c326a0629a988c2d201c7148e1e77f4d1cca13f1fc122e88e56965ae5a0"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00198_cherry_tomato_20261030_102023_be2e4965_004.jpg",
+      "split": "train",
+      "filename": "old_00059_3d14ba59c48b.jpg",
+      "sha256": "3d14ba59c48b1c2bc5de930e1a9480a26ec4647d75d93a1fc8443d0a27e21ca1"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00199_cherry_tomato_20261030_102023_be2e4965_005.jpg",
+      "split": "train",
+      "filename": "old_00060_b935c79565b8.jpg",
+      "sha256": "b935c79565b8eeeb72e834558e6f305d8d143c9db49ebfe08ff6647fe6e1f5cc"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00200_cherry_tomato_20261030_102023_be2e4965_006.jpg",
+      "split": "train",
+      "filename": "old_00061_4d7280d8e4f2.jpg",
+      "sha256": "4d7280d8e4f202b9ae8d2e3290d4e7d780705bf66d6fc50c4655b683dcdb3d27"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00201_cherry_tomato_20261030_102023_be2e4965_007.jpg",
+      "split": "train",
+      "filename": "old_00062_bcc2521baeb2.jpg",
+      "sha256": "bcc2521baeb2f892149e071164a99a20a1877c5ae4f6f2783569b184e7b125fa"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00202_cherry_tomato_20261030_102023_be2e4965_008.jpg",
+      "split": "train",
+      "filename": "old_00063_862e876b5abb.jpg",
+      "sha256": "862e876b5abbdb33c9a745660a074e80b1067c96a936ab59f9de72b7be7882d3"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00203_cherry_tomato_20261030_102023_be2e4965_009.jpg",
+      "split": "train",
+      "filename": "old_00064_e4d463f22e8c.jpg",
+      "sha256": "e4d463f22e8cb9db021ede500d2ebe9d1e460968af1e8032b6475c7b7dbbc8e0"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00204_cherry_tomato_20261030_102023_be2e4965_010.jpg",
+      "split": "train",
+      "filename": "old_00065_cd366bce2d4d.jpg",
+      "sha256": "cd366bce2d4d9c121583393998cc7ac499cea88a64d0c94f9b154f701d4866d5"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00205_cherry_tomato_20261030_102023_be2e4965_011.jpg",
+      "split": "train",
+      "filename": "old_00066_1be5684b2bc5.jpg",
+      "sha256": "1be5684b2bc5ed1c089625db9fb821655c1bf9279e55bf343eff12310051a26e"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00218_kiwi_20261030_101412_dd854e38_001.jpg",
+      "split": "train",
+      "filename": "old_00067_948f1845a753.jpg",
+      "sha256": "948f1845a753e9e0e03d5a56c2d2bd759aca035680c8e4b9224534a8e1908e9c"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00219_kiwi_20261030_101412_dd854e38_002.jpg",
+      "split": "train",
+      "filename": "old_00068_03e567f77e51.jpg",
+      "sha256": "03e567f77e51e5c98b1a489253549c2a3bf056179061c578bbeaa702fc21847c"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00220_kiwi_20261030_101412_dd854e38_003.jpg",
+      "split": "train",
+      "filename": "old_00069_988018247fe3.jpg",
+      "sha256": "988018247fe32a7812bec14163d47ec12fc1b0d24c5be99a2e013e0639f45ec5"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00221_kiwi_20261030_101412_dd854e38_004.jpg",
+      "split": "train",
+      "filename": "old_00070_306baa66450e.jpg",
+      "sha256": "306baa66450eff535b689b7128e3d4bcc54ff12171500c75f5d19d9c5cd6b11c"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00222_kiwi_20261030_101412_dd854e38_005.jpg",
+      "split": "train",
+      "filename": "old_00071_27f728935d27.jpg",
+      "sha256": "27f728935d276b9dca65d162d9f0c2fd73351daa2445dbf7a153f8699116ffd9"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00223_kiwi_20261030_101412_dd854e38_006.jpg",
+      "split": "train",
+      "filename": "old_00072_0586c34ce19e.jpg",
+      "sha256": "0586c34ce19ec99b056eacf9fc8309895f76944210161c793774a0a793b02e81"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00224_kiwi_20261030_101412_dd854e38_007.jpg",
+      "split": "train",
+      "filename": "old_00073_53bea7fb6f3a.jpg",
+      "sha256": "53bea7fb6f3a18dd64e4693a523f6c7e268908a113803e83d0368a3a369c6fe3"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00225_kiwi_20261030_101412_dd854e38_008.jpg",
+      "split": "train",
+      "filename": "old_00074_b2c0a78c8f4d.jpg",
+      "sha256": "b2c0a78c8f4dbac739c5f09ae0494a7fa0690ab77101b7163033ac2afe9296e9"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00226_kiwi_20261030_101412_dd854e38_009.jpg",
+      "split": "train",
+      "filename": "old_00075_17c1c3f5cece.jpg",
+      "sha256": "17c1c3f5ceced1549e98f55083de4069b4591c38b0e085380f51f7f9f91f7e4b"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00227_kiwi_20261030_101412_dd854e38_010.jpg",
+      "split": "train",
+      "filename": "old_00076_3fedc4ccb196.jpg",
+      "sha256": "3fedc4ccb196546b401bfd4cc51770dbc79f9df33ecede54a6e9560e19b21e6d"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00228_kiwi_20261030_101412_dd854e38_011.jpg",
+      "split": "train",
+      "filename": "old_00077_11475a26153d.jpg",
+      "sha256": "11475a26153d3612b4c70080cd2615f3f46fe57dcaa8d8757b35a99af3c193b3"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00229_kiwi_20261030_101412_dd854e38_012.jpg",
+      "split": "train",
+      "filename": "old_00078_61a2a3368011.jpg",
+      "sha256": "61a2a336801151748b3dc728c0f3877f564ce936f14547345183369b9e97a698"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00230_kiwi_20261030_101412_dd854e38_013.jpg",
+      "split": "train",
+      "filename": "old_00079_ebe3fc56854d.jpg",
+      "sha256": "ebe3fc56854d7848e31c5213372496b1d854faeb33d976104a971aafa1bb885f"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00245_mandarin_20261030_101131_d198acf2_001.jpg",
+      "split": "train",
+      "filename": "old_00080_53ef1c6685ea.jpg",
+      "sha256": "53ef1c6685eae377ac521385067bfe37a8748a9232ec85a694af8e462357c9ca"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00246_mandarin_20261030_101131_d198acf2_002.jpg",
+      "split": "train",
+      "filename": "old_00081_d4bbf7785707.jpg",
+      "sha256": "d4bbf778570769a81be23c0b482863948fcfa5280fed873d628ffbf11daaa449"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00247_mandarin_20261030_101131_d198acf2_003.jpg",
+      "split": "train",
+      "filename": "old_00082_f82ecca2132c.jpg",
+      "sha256": "f82ecca2132c136f00ecc65afcb40b3f2010f864ae5e708c801cb4549ecf9333"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00248_mandarin_20261030_101131_d198acf2_004.jpg",
+      "split": "train",
+      "filename": "old_00083_a8d64e5e0135.jpg",
+      "sha256": "a8d64e5e0135202ff19b5aa0d0a6335eb11a0a4268e04da09ba8a0976cf1c313"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00249_mandarin_20261030_101131_d198acf2_005.jpg",
+      "split": "train",
+      "filename": "old_00084_e3556c350b11.jpg",
+      "sha256": "e3556c350b118adc06d90133a890d844c3444ef26e2944995bb894c9aa2e112b"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00250_mandarin_20261030_101131_d198acf2_006.jpg",
+      "split": "train",
+      "filename": "old_00085_8ec46d54301e.jpg",
+      "sha256": "8ec46d54301edff42c8d684de9c5371a068f1ffad035885c22d885da3b02c7e9"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00251_mandarin_20261030_101131_d198acf2_007.jpg",
+      "split": "train",
+      "filename": "old_00086_b7ddcc1ad82d.jpg",
+      "sha256": "b7ddcc1ad82dfd561ae0a128e247da3ef8f15d0a7a92202c09b31c433d78b458"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00252_mandarin_20261030_101131_d198acf2_008.jpg",
+      "split": "train",
+      "filename": "old_00087_588990e76793.jpg",
+      "sha256": "588990e76793b2f3fa99e2ae187dc4346d3872e8414557a406f7e699d77f1ff5"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00253_mandarin_20261030_101131_d198acf2_009.jpg",
+      "split": "train",
+      "filename": "old_00088_504165ff094a.jpg",
+      "sha256": "504165ff094a0ecb949feaeca970fc33fa038e684b4baf19e2a6cc300a01193e"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00254_mandarin_20261030_101131_d198acf2_010.jpg",
+      "split": "train",
+      "filename": "old_00089_7ad679980ae6.jpg",
+      "sha256": "7ad679980ae644dd95e97bff9e8b06863d5cf2796dba5624a3d77dfcbabb61a0"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00255_mandarin_20261030_101131_d198acf2_011.jpg",
+      "split": "train",
+      "filename": "old_00090_56ee31262817.jpg",
+      "sha256": "56ee31262817b8ce9a8abb8a8737ee20d36deaf46d8787d86d898358a90a9635"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00256_mandarin_20261030_101131_d198acf2_012.jpg",
+      "split": "train",
+      "filename": "old_00091_7aa36390e156.jpg",
+      "sha256": "7aa36390e1563687124db6294026f08f9d12409a5d2f14168c5d3c1f7922080c"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00257_mandarin_20261030_101131_d198acf2_013.jpg",
+      "split": "train",
+      "filename": "old_00092_4a4d039c3cbb.jpg",
+      "sha256": "4a4d039c3cbbfacac83ffd61eb1e505b2e499ffd083a32b8eee9c2eaefee337a"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00258_mandarin_20261030_101131_d198acf2_014.jpg",
+      "split": "train",
+      "filename": "old_00093_f512923de94d.jpg",
+      "sha256": "f512923de94dfae2cbbe48a5c78116fb134921ba028d22c41847a270c7a77e1a"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00281_xiang_pear_20261030_101617_6706d512_001.jpg",
+      "split": "train",
+      "filename": "old_00094_7fba70e81631.jpg",
+      "sha256": "7fba70e81631fd15953185cb3bbd181f5154fc6854e68d395c850890c87411b4"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00282_xiang_pear_20261030_101617_6706d512_002.jpg",
+      "split": "train",
+      "filename": "old_00095_8d14d959911e.jpg",
+      "sha256": "8d14d959911e2a4ef2027ca00256ac7097667ff391f97a6c05b2203ce5055f3f"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00283_xiang_pear_20261030_101617_6706d512_003.jpg",
+      "split": "train",
+      "filename": "old_00096_84a717c2d9aa.jpg",
+      "sha256": "84a717c2d9aa0cb7631bab898768c9b07d747c1a1af26d7794bc4380bf7b8d96"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00284_xiang_pear_20261030_101617_6706d512_004.jpg",
+      "split": "train",
+      "filename": "old_00097_5f3d3367e712.jpg",
+      "sha256": "5f3d3367e71218c841421a3944bda4c18cc83f21eb1be542b4d25fca4e28c706"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00285_xiang_pear_20261030_101617_6706d512_005.jpg",
+      "split": "train",
+      "filename": "old_00098_85d17a8e3e43.jpg",
+      "sha256": "85d17a8e3e4362d7345ff419ec0f3f2409d5742885629dc3150d71aa361cdd07"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00286_xiang_pear_20261030_101617_6706d512_006.jpg",
+      "split": "train",
+      "filename": "old_00099_8f7469b1c16b.jpg",
+      "sha256": "8f7469b1c16b2ef3f6bb15ae27252ba43b7d2bd61687e32fc8c47df3d8a3d9a4"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00287_xiang_pear_20261030_101617_6706d512_007.jpg",
+      "split": "train",
+      "filename": "old_00100_afbdd9bb23ea.jpg",
+      "sha256": "afbdd9bb23eaeda172bfc0797c33027ea70bd10e54be50ec7ca0ae1a3110d84b"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00288_xiang_pear_20261030_101617_6706d512_008.jpg",
+      "split": "train",
+      "filename": "old_00101_763de8f558dc.jpg",
+      "sha256": "763de8f558dc8596cd07d764c92d3cb201560435814ad3ebfa1f7d8ebe7a9fe6"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00289_xiang_pear_20261030_101617_6706d512_009.jpg",
+      "split": "train",
+      "filename": "old_00102_540404755f81.jpg",
+      "sha256": "540404755f818380fe308d8c694a1308a5220b72aa7b80c8da451e0ee646624f"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00290_xiang_pear_20261030_101617_6706d512_010.jpg",
+      "split": "train",
+      "filename": "old_00103_f2922b68a789.jpg",
+      "sha256": "f2922b68a7895e06d5bbe233836ab54e06d545b96260ea2b6d406cdc48075729"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00291_xiang_pear_20261030_101617_6706d512_011.jpg",
+      "split": "train",
+      "filename": "old_00104_1529c42566f3.jpg",
+      "sha256": "1529c42566f38333e8b29b3734ea5b5172cf3bc771dc2a1079bed07421273e8b"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00292_xiang_pear_20261030_101617_6706d512_012.jpg",
+      "split": "train",
+      "filename": "old_00105_8c2dc59c11f1.jpg",
+      "sha256": "8c2dc59c11f19ae975d205d285f5cdded0bf23d4d58ac69e948fbf6c4179c5ce"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00293_xiang_pear_20261030_101617_6706d512_013.jpg",
+      "split": "train",
+      "filename": "old_00106_da1b597a7915.jpg",
+      "sha256": "da1b597a791532bc7885c28b46df6b725a6bf4bbcc8a02eae7d362f3849120e5"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00294_xiang_pear_20261030_101617_6706d512_014.jpg",
+      "split": "train",
+      "filename": "old_00107_ee2a893f337e.jpg",
+      "sha256": "ee2a893f337eca43104d864ea5df9c5ce48c21733675d52efb33bb224ac99135"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00295_xiang_pear_20261030_101617_6706d512_015.jpg",
+      "split": "train",
+      "filename": "old_00108_df0d350605e4.jpg",
+      "sha256": "df0d350605e41422083162eeadcec6e4e8c10d6120587103d7260ead0dd0845b"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00296_xiang_pear_20261030_101617_6706d512_016.jpg",
+      "split": "train",
+      "filename": "old_00109_23283e5be11a.jpg",
+      "sha256": "23283e5be11a8156beae38f5729d05a0107167273585297af2a3de118d69ad10"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00297_background_20261030_102600_d42e970e_001.jpg",
+      "split": "train",
+      "filename": "old_00110_05509e7e6a3c.jpg",
+      "sha256": "05509e7e6a3c028aa1fd489d5a21443974f8d473b5e1d06c344ae419fb20dade"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00298_background_20261030_102600_d42e970e_002.jpg",
+      "split": "train",
+      "filename": "old_00111_63d9d3d4e72d.jpg",
+      "sha256": "63d9d3d4e72d73a3decd1de1547b8641a70c62314cb31cc8381d2f90585b0bd3"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00299_background_20261030_102600_d42e970e_003.jpg",
+      "split": "train",
+      "filename": "old_00112_13a6779549aa.jpg",
+      "sha256": "13a6779549aa48cc884876186ba967761339cb7f67610656faf091fd6134da60"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00300_background_20261030_102600_d42e970e_004.jpg",
+      "split": "train",
+      "filename": "old_00113_9e31c9b59a21.jpg",
+      "sha256": "9e31c9b59a2159c27082fefca23b1bb18c9b9a71678acc7a62695d1f7aa60baa"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00301_background_20261030_102600_d42e970e_005.jpg",
+      "split": "train",
+      "filename": "old_00114_e2f87fd8ac5c.jpg",
+      "sha256": "e2f87fd8ac5caf89722f231486c5312f5e589c69fedea5edc792b48fef40da55"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00302_background_20261030_102600_d42e970e_006.jpg",
+      "split": "train",
+      "filename": "old_00115_7f3c6e19f6b7.jpg",
+      "sha256": "7f3c6e19f6b7965e74321cdf103edca188a55a831ac7c64f5d59721c981e0ad8"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00303_background_20261030_102600_d42e970e_007.jpg",
+      "split": "train",
+      "filename": "old_00116_05d2e5bf8b36.jpg",
+      "sha256": "05d2e5bf8b36be616d619006cc7ff5be52dfb8a2d0eb1eb5a2ed5a5b30e66f3c"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00304_background_20261030_102600_d42e970e_008.jpg",
+      "split": "train",
+      "filename": "old_00117_11aa50a67a30.jpg",
+      "sha256": "11aa50a67a30876f2b6ca231c4b4501b64d2a74459cbbb93d9ff7cd3ad9954fb"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00305_background_20261030_102600_d42e970e_009.jpg",
+      "split": "train",
+      "filename": "old_00118_20013d718285.jpg",
+      "sha256": "20013d718285455d7e690edfdc8dc25024455228fca9c80aaff3ddf14606d383"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\new_00306_background_20261030_102600_d42e970e_010.jpg",
+      "split": "train",
+      "filename": "old_00119_e221013695ec.jpg",
+      "sha256": "e221013695ec26317e6009a72d319e448780681da325b8dc881622ba5f7b361c"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00001_apple_002_001.jpg",
+      "split": "train",
+      "filename": "old_00120_74e45357ac3d.jpg",
+      "sha256": "74e45357ac3d4ebd8a75a938407d1deeb38132607b7cec8943179a21c210f609"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00002_apple_002_002.jpg",
+      "split": "train",
+      "filename": "old_00121_d5a4eb16501e.jpg",
+      "sha256": "d5a4eb16501eabb875ebfa33fdc97e971d54bfcdad0700a37928c8753b654952"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00003_apple_002_003.jpg",
+      "split": "train",
+      "filename": "old_00122_9d0e9cc52d7a.jpg",
+      "sha256": "9d0e9cc52d7a2c3a079421f02ca9f0046fdacf4420bc0dbd6b8e8cf8876697e1"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00004_apple_002_004.jpg",
+      "split": "train",
+      "filename": "old_00123_f4aab963fdd0.jpg",
+      "sha256": "f4aab963fdd0cab13626f2e54ddc8c34caac587c8bcb91ab28d32434a105c2d1"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00005_apple_002_007.jpg",
+      "split": "train",
+      "filename": "old_00124_524f475cf461.jpg",
+      "sha256": "524f475cf461351310b0a795175b9e5d7dc1a1cdb3c47a9209784811a6e1484a"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00006_apple_002_008.jpg",
+      "split": "train",
+      "filename": "old_00125_18b7973d743e.jpg",
+      "sha256": "18b7973d743e9ce861ee11d38f297551e429dfeaa9d0035f577137a1a054e4c2"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00007_apple_002_009.jpg",
+      "split": "train",
+      "filename": "old_00126_0ef8127ccf06.jpg",
+      "sha256": "0ef8127ccf068704acf78cf09695aa6e35a337965cb7301c782f06614a6f4d7b"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00008_apple_002_012.jpg",
+      "split": "train",
+      "filename": "old_00127_e3abe549814f.jpg",
+      "sha256": "e3abe549814f374d77096b2c82ef99f49d282483fe1c82564f24f062128e8f22"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00009_apple_002_013.jpg",
+      "split": "train",
+      "filename": "old_00128_54818ecee956.jpg",
+      "sha256": "54818ecee956993edf853f9df4790b7da510b4f3b8049109a99676657ddfa3fe"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00010_apple_002_014.jpg",
+      "split": "train",
+      "filename": "old_00129_4297cc7dc758.jpg",
+      "sha256": "4297cc7dc758b87f44a3d388b0306823661f9dab92be5b2aa0a4c78a7c46e2dc"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00011_apple_002_015.jpg",
+      "split": "train",
+      "filename": "old_00130_b3a0df515323.jpg",
+      "sha256": "b3a0df5153231b10c04c147d5b7115e17ec831bc193512a004b2d7b1c750f2ac"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00012_apple_002_016.jpg",
+      "split": "train",
+      "filename": "old_00131_f42e1ce195ba.jpg",
+      "sha256": "f42e1ce195baa83d3715c128220f7f25cd52ac7e34c30f0356530adbb808ff18"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00013_apple_002_018.jpg",
+      "split": "train",
+      "filename": "old_00132_bee3779401de.jpg",
+      "sha256": "bee3779401de7ec93c5be43ded7b2cd4ba37643f837873c954a786de7cfa4cb4"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00014_apple_002_019.jpg",
+      "split": "train",
+      "filename": "old_00133_a0e0c513f831.jpg",
+      "sha256": "a0e0c513f831bd36075153ca934f6c4631daaf451239bc49183c7e9ebd53abcd"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00015_apple_002_020.jpg",
+      "split": "train",
+      "filename": "old_00134_60482c5cc16d.jpg",
+      "sha256": "60482c5cc16d226a8dd2098cfdec082bd6e9c794647c5ff87b857536ca7b48c0"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00016_apple_002_023.jpg",
+      "split": "train",
+      "filename": "old_00135_297fb432d8e1.jpg",
+      "sha256": "297fb432d8e16aa99d9a06aeb4af115bf66fb87d84c7989c5d1c092e9315184e"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00017_banana_001_001.jpg",
+      "split": "train",
+      "filename": "old_00136_0ac9132c66af.jpg",
+      "sha256": "0ac9132c66af7b472f7d4f95ff2d7c3492158cdd8b214ab01356f077105a9dee"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00018_banana_001_002.jpg",
+      "split": "train",
+      "filename": "old_00137_a5bf67bed5f5.jpg",
+      "sha256": "a5bf67bed5f509da5083ac3e7f48c117869f946c2f41d1ca5b1e212b62e899de"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00019_banana_001_004.jpg",
+      "split": "train",
+      "filename": "old_00138_543f9f5f47f2.jpg",
+      "sha256": "543f9f5f47f201f36ef0b2366987e0e84298fa92d251ff41c46fff96bc568a41"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00020_banana_001_005.jpg",
+      "split": "train",
+      "filename": "old_00139_c6bb417a8beb.jpg",
+      "sha256": "c6bb417a8beb58220f9d60d1b82e531fe94fc47f63dff176bed4f82ff98378ae"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00021_banana_001_007.jpg",
+      "split": "train",
+      "filename": "old_00140_f9ffce86cb65.jpg",
+      "sha256": "f9ffce86cb65b7cefc69e0d76c72cfb231d12307537a6679b6193f967049d539"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00022_banana_001_008.jpg",
+      "split": "train",
+      "filename": "old_00141_02c1e4976f83.jpg",
+      "sha256": "02c1e4976f839177d33c5d1647103a704f53ca66a9da8453495d657f7fe5b605"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00023_banana_001_009.jpg",
+      "split": "train",
+      "filename": "old_00142_c5ceb47e25fc.jpg",
+      "sha256": "c5ceb47e25fcd19a8e82e44006f0c87333d257867c35d8c8d5841035531e8972"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00024_banana_001_010.jpg",
+      "split": "train",
+      "filename": "old_00143_943a33774f89.jpg",
+      "sha256": "943a33774f8960fcf1e4987f93540a16a68210b0b92deab9c3054256c01bc6e3"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00025_banana_001_011.jpg",
+      "split": "train",
+      "filename": "old_00144_cd36d07fd49e.jpg",
+      "sha256": "cd36d07fd49e3a4b158cb6586a828d1e46c7667b493d10f2e7c2594353cee597"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00026_banana_001_012.jpg",
+      "split": "train",
+      "filename": "old_00145_8c99ea3a4b45.jpg",
+      "sha256": "8c99ea3a4b4552c7dea76657c3a8d3630651499b26a5868042fc322a0f243eac"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00027_banana_001_014.jpg",
+      "split": "train",
+      "filename": "old_00146_370be1a04480.jpg",
+      "sha256": "370be1a0448082a49522397f25c7089337d6a6f05054bd6dd1861e3666cf5c99"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00028_banana_001_015.jpg",
+      "split": "train",
+      "filename": "old_00147_42f9c808daee.jpg",
+      "sha256": "42f9c808daee8cb6ee323bce90c33b8596da158c7a94ab60c164f531fb5bdabb"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00029_banana_001_016.jpg",
+      "split": "train",
+      "filename": "old_00148_09d3b9e7772e.jpg",
+      "sha256": "09d3b9e7772ec2adc73e62030bfcc8f310178a907ea356a0b28bc7fb92c29d61"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00030_cherry_tomato_002_002.jpg",
+      "split": "train",
+      "filename": "old_00149_5f0d8b615d8c.jpg",
+      "sha256": "5f0d8b615d8c1bc57fd02f893f0e234d2ab2db9442e63d058d5b1ab414e4c674"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00031_cherry_tomato_002_003.jpg",
+      "split": "train",
+      "filename": "old_00150_eeaebe8aaaa1.jpg",
+      "sha256": "eeaebe8aaaa178bef8eeeec9570161e31dede5226c21baddbf1689e9d7b1e8e2"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00032_cherry_tomato_002_004.jpg",
+      "split": "train",
+      "filename": "old_00151_c340153d6fbb.jpg",
+      "sha256": "c340153d6fbb1b706836fc4bdf0a6a4447db405dbe03dcd6eb30b5e62f7bdc84"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00033_cherry_tomato_002_005.jpg",
+      "split": "train",
+      "filename": "old_00152_69490a1fda0d.jpg",
+      "sha256": "69490a1fda0d12811d7201e061f428342f5c57456a7a665706575832ffc035f9"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00034_cherry_tomato_002_006.jpg",
+      "split": "train",
+      "filename": "old_00153_3215e6a84998.jpg",
+      "sha256": "3215e6a84998732af7e7d95bd07ff5192fbf05490f7ae44c2f100be24af5a9c9"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00035_cherry_tomato_002_007.jpg",
+      "split": "train",
+      "filename": "old_00154_a94032779902.jpg",
+      "sha256": "a94032779902186e606fac4d45abdca6dee3a33b9df298ab7dd6f20eb4ae2f66"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00036_cherry_tomato_005_001.jpg",
+      "split": "train",
+      "filename": "old_00155_0c75c6aea0f0.jpg",
+      "sha256": "0c75c6aea0f0f5b3676d0f99313b74980fa255e5e129e4dcc4cd4c6ce44aa866"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00037_cherry_tomato_005_003.jpg",
+      "split": "train",
+      "filename": "old_00156_3e824b8e5fda.jpg",
+      "sha256": "3e824b8e5fda630c230a18d1118f3172210c365d070cc2a02cc6dd8e2a7330c7"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00038_cherry_tomato_005_004.jpg",
+      "split": "train",
+      "filename": "old_00157_23a359914a2f.jpg",
+      "sha256": "23a359914a2fd012b6f46bf0e220f2d1dd888741e7269d1cdb83dc7f236b37af"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00039_cherry_tomato_005_005.jpg",
+      "split": "train",
+      "filename": "old_00158_276d251291f7.jpg",
+      "sha256": "276d251291f7760111810d2e52d5ef431ed9389d39daf64759c1cfa6ce70eed2"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00040_cherry_tomato_005_006.jpg",
+      "split": "train",
+      "filename": "old_00159_b7551ccea938.jpg",
+      "sha256": "b7551ccea938fd364cadd566b708614bcac0144d717fba1f06e93f910fb2e242"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00041_cherry_tomato_005_007.jpg",
+      "split": "train",
+      "filename": "old_00160_5d028dc11185.jpg",
+      "sha256": "5d028dc1118510ed5c36a87cb01cdf6e51e00c890a83d7e9aa137411814ce6a8"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00042_cherry_tomato_005_010.jpg",
+      "split": "train",
+      "filename": "old_00161_749efecd3b30.jpg",
+      "sha256": "749efecd3b304cf9e7f92a301e5e88028ad6dd20593d19a6da5e2919fb0682d7"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00043_kiwi_003_001.jpg",
+      "split": "train",
+      "filename": "old_00162_8de70af3df5a.jpg",
+      "sha256": "8de70af3df5a3307532cc9595f7efa5275dc234c996a89ac988f4babac5b6361"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00044_kiwi_003_002.jpg",
+      "split": "train",
+      "filename": "old_00163_08b251ecc9fc.jpg",
+      "sha256": "08b251ecc9fc23da0b18059b45901786924d8dfd296893da371dd2679ea68f1a"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00045_kiwi_003_004.jpg",
+      "split": "train",
+      "filename": "old_00164_e0ebb3147f31.jpg",
+      "sha256": "e0ebb3147f3176aa6f433cdae2146dc058a831c034a18691e318bb1a256efeba"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00046_kiwi_003_005.jpg",
+      "split": "train",
+      "filename": "old_00165_1915c0f8db2a.jpg",
+      "sha256": "1915c0f8db2a133d3cf119ead490891899cfe4c59cfa68c0960a62ac660387d7"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00047_kiwi_003_006.jpg",
+      "split": "train",
+      "filename": "old_00166_e5c9cb0b4f6b.jpg",
+      "sha256": "e5c9cb0b4f6b9327545fa332ee354b2d582863e0a765cc99214e4647793f4aee"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00048_kiwi_003_007.jpg",
+      "split": "train",
+      "filename": "old_00167_6962cdd0a243.jpg",
+      "sha256": "6962cdd0a243ee23a5a94206e5e7376ba02aa85d5dbaa2b66ff7929c683ca410"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00049_kiwi_003_009.jpg",
+      "split": "train",
+      "filename": "old_00168_87409913f03e.jpg",
+      "sha256": "87409913f03e9b43c968b1c5872df2c614e0bd992ebde4c1c64cb3f8286d3151"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00050_kiwi_003_010.jpg",
+      "split": "train",
+      "filename": "old_00169_d8ed67f350fb.jpg",
+      "sha256": "d8ed67f350fb3e046e32e19cf6518236c177b0770917cb48b1190deaf56c7e5f"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00051_kiwi_003_012.jpg",
+      "split": "train",
+      "filename": "old_00170_a9397534f6e4.jpg",
+      "sha256": "a9397534f6e451d4432a983ed46e5439e5f2c53ad0a8a8e3fa72d6951a6de996"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00052_kiwi_003_013.jpg",
+      "split": "train",
+      "filename": "old_00171_68128201255a.jpg",
+      "sha256": "68128201255a2c1df1947d119f1b4894ebeddce0bdb89690f9b923d94b648327"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00053_kiwi_003_014.jpg",
+      "split": "train",
+      "filename": "old_00172_d87c98eee83f.jpg",
+      "sha256": "d87c98eee83f5fadf784756b5acf3e7580ac5474abddc870e9f7527e1b318a7d"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00054_kiwi_003_015.jpg",
+      "split": "train",
+      "filename": "old_00173_3968ecd14198.jpg",
+      "sha256": "3968ecd141983bfcd5709b50a400087979cbcf72ad760fbc08221e1d56eefc35"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00055_kiwi_003_016.jpg",
+      "split": "train",
+      "filename": "old_00174_5675f0bce962.jpg",
+      "sha256": "5675f0bce962fda94cdf21b19c076d8abd103965d7554c0b4754e161d7ca5fde"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00056_mandarin_002_001.jpg",
+      "split": "train",
+      "filename": "old_00175_04dc9e61059e.jpg",
+      "sha256": "04dc9e61059e4f430d2a9cba28a8ee1264be58a80c45487937edfe631148a817"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00057_mandarin_002_003.jpg",
+      "split": "train",
+      "filename": "old_00176_3a857b97dde3.jpg",
+      "sha256": "3a857b97dde38e8e33c4869c42fd548edd43cb4dba4e8a0d785f5496425210ba"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00058_mandarin_002_004.jpg",
+      "split": "train",
+      "filename": "old_00177_b293371418cc.jpg",
+      "sha256": "b293371418ccb5fb0e52ae5b6f20d8041f72c819829c04399809442fe4b256ff"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00059_mandarin_002_005.jpg",
+      "split": "train",
+      "filename": "old_00178_b3ecea9ddc2d.jpg",
+      "sha256": "b3ecea9ddc2d58317f19c1842a32b67f799b9f76069fb60650aa1cf6f35264c2"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00060_mandarin_002_006.jpg",
+      "split": "train",
+      "filename": "old_00179_4c7e4e10bbfd.jpg",
+      "sha256": "4c7e4e10bbfda86ddee306f65caaf31092c9f2cfecc3ae40b087f68ac87702a0"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00061_mandarin_002_007.jpg",
+      "split": "train",
+      "filename": "old_00180_cfc2f70d839d.jpg",
+      "sha256": "cfc2f70d839d421cc5ee50fd5e0e2024838a870ebe3c75498cb2150e405ab1ab"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00062_mandarin_002_008.jpg",
+      "split": "train",
+      "filename": "old_00181_1db3c722d21f.jpg",
+      "sha256": "1db3c722d21fd32968f23abd354d05c501ee401a1db9251e16969b2e3207b29b"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00063_mandarin_002_009.jpg",
+      "split": "train",
+      "filename": "old_00182_75356cac3943.jpg",
+      "sha256": "75356cac3943f7e572b1126b35b24816989f1724a083c6f1734f376a6d81d745"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00064_mandarin_002_011.jpg",
+      "split": "train",
+      "filename": "old_00183_03d068fb59d2.jpg",
+      "sha256": "03d068fb59d210cae00a39923b0f0e2e7031d5911485774ff2c9a5e177ded439"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00065_mandarin_002_012.jpg",
+      "split": "train",
+      "filename": "old_00184_31ded5fec9d6.jpg",
+      "sha256": "31ded5fec9d6a1443bd70c9108ab142695fe5413c38dbc40da005d68a60d245e"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00066_mandarin_004_002.jpg",
+      "split": "train",
+      "filename": "old_00185_cdf815dfbc49.jpg",
+      "sha256": "cdf815dfbc49241ecd7ca0f10ae208fb0e85c0bc847a7a1e1c54bf29937bc8ef"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00067_mandarin_004_004.jpg",
+      "split": "train",
+      "filename": "old_00186_e64303661f7f.jpg",
+      "sha256": "e64303661f7f14df42d293325538f20e3c3b281e82aa77c252b168bb8fd90f0d"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00068_mandarin_004_005.jpg",
+      "split": "train",
+      "filename": "old_00187_51f4f78ee98a.jpg",
+      "sha256": "51f4f78ee98af1bc21951c1f911c902789e688e923de6131169318f03464149b"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00069_mandarin_004_007.jpg",
+      "split": "train",
+      "filename": "old_00188_8f1ab81c8d39.jpg",
+      "sha256": "8f1ab81c8d3948f772261e999f57dbae3f4712a4a29f271b52b4ef40ce67f10d"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00070_mandarin_004_008.jpg",
+      "split": "train",
+      "filename": "old_00189_6358ecd6c88a.jpg",
+      "sha256": "6358ecd6c88a6c60f002b8351f695a986b3f6fd0acd2cdeff955b25ebd989eb6"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00071_mandarin_004_009.jpg",
+      "split": "train",
+      "filename": "old_00190_28f6812bdea7.jpg",
+      "sha256": "28f6812bdea7e285b1144f5a9d3cf1ae27607625ecb87d0da9927dfb2900f5b9"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00072_mandarin_004_010.jpg",
+      "split": "train",
+      "filename": "old_00191_5bf88f32a3a4.jpg",
+      "sha256": "5bf88f32a3a43cccbc98ae1069d53213bf0fd20c357095a467f110f78ac43b5e"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00073_mandarin_004_011.jpg",
+      "split": "train",
+      "filename": "old_00192_0768e70552cf.jpg",
+      "sha256": "0768e70552cf47eb7bab6c6f455d02b90bbc8f415d8421c18c00e3cae18351c2"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00074_mandarin_004_012.jpg",
+      "split": "train",
+      "filename": "old_00193_ee42266d04b2.jpg",
+      "sha256": "ee42266d04b2efd970095bf40548f7b87df455a5e148ac9442a29d6a6ab47b05"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00075_mandarin_005_001.jpg",
+      "split": "train",
+      "filename": "old_00194_f4b94a29432e.jpg",
+      "sha256": "f4b94a29432ea5778ef57f33b3310f60b79c69e6a02a8c3e4c89c9a92665a993"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00076_mandarin_005_002.jpg",
+      "split": "train",
+      "filename": "old_00195_8f28f39ff16a.jpg",
+      "sha256": "8f28f39ff16ad6263b71164c312329b43fcb524cb53c76b2f434b6c0ef13dedc"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00077_mandarin_005_003.jpg",
+      "split": "train",
+      "filename": "old_00196_1de8daeabe0f.jpg",
+      "sha256": "1de8daeabe0f7d2ba13b955acc4698ee76b9374066f431acd87b1f9d847363c7"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00078_mandarin_005_004.jpg",
+      "split": "train",
+      "filename": "old_00197_600de4de8a69.jpg",
+      "sha256": "600de4de8a69c9d32485d2cd2cf5100d31c321466ad496663cd32933811c8fef"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00079_mandarin_005_005.jpg",
+      "split": "train",
+      "filename": "old_00198_42ef3d8e705d.jpg",
+      "sha256": "42ef3d8e705d26dfda462ec71a95163eb6dcd8ad463b517e4434542ee5356086"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00080_mandarin_005_006.jpg",
+      "split": "train",
+      "filename": "old_00199_016f3facff29.jpg",
+      "sha256": "016f3facff29b228f98fade1241d2f6162bc0595e1c7ae9e91ad0ae6b9789169"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00081_mandarin_005_008.jpg",
+      "split": "train",
+      "filename": "old_00200_d1c223899d69.jpg",
+      "sha256": "d1c223899d69dd7a53a98ab9bc06f3ae1acf014aca9cff7c6e19653d7a76c79f"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00082_mandarin_005_009.jpg",
+      "split": "train",
+      "filename": "old_00201_a854b9abc4b1.jpg",
+      "sha256": "a854b9abc4b136cffae00b747c4383a75220b008edcad0e78197e45fac9578f1"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00083_mandarin_005_010.jpg",
+      "split": "train",
+      "filename": "old_00202_4265ca3cc1e4.jpg",
+      "sha256": "4265ca3cc1e4b474e43cf122a8730bd1c341d4366eb7b8fabbf8b944dc97bebe"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00084_mandarin_005_011.jpg",
+      "split": "train",
+      "filename": "old_00203_7fd2639d074e.jpg",
+      "sha256": "7fd2639d074e03d8ed3abbd5a68041e6b3ab74959bd237fae196ab3209ffaff1"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00085_mandarin_005_012.jpg",
+      "split": "train",
+      "filename": "old_00204_1e92b3730fdc.jpg",
+      "sha256": "1e92b3730fdcea73b7afba14c75e744b41a22ca6187586d0b39b9b8d3fa69751"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00086_xiang_pear_004_001.jpg",
+      "split": "train",
+      "filename": "old_00205_bf207f10e4e0.jpg",
+      "sha256": "bf207f10e4e00e3791973a86fcb3941b1d946d7a74e74612cb4640de4fe706c8"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00087_xiang_pear_004_004.jpg",
+      "split": "train",
+      "filename": "old_00206_1bb7e59de536.jpg",
+      "sha256": "1bb7e59de536c9b404ee98af8efdc12258f1c0d14ba8f9a0a0b82deba75ed849"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00088_xiang_pear_004_005.jpg",
+      "split": "train",
+      "filename": "old_00207_d824622375d5.jpg",
+      "sha256": "d824622375d54254bffe37c11f55892ed90b53f0c04b327699d225ca81213ba2"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00089_xiang_pear_004_006.jpg",
+      "split": "train",
+      "filename": "old_00208_76de05fd5b7a.jpg",
+      "sha256": "76de05fd5b7a9fb1379527c85b1d4419699092ab4319755c0d05efeec9ec3bce"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00090_xiang_pear_004_007.jpg",
+      "split": "train",
+      "filename": "old_00209_125e741e66c9.jpg",
+      "sha256": "125e741e66c99d2338c49d29d6927698f0ee9e72b9c9baaed430a9c46c6e9e06"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00091_xiang_pear_004_008.jpg",
+      "split": "train",
+      "filename": "old_00210_d5ae85bcbd91.jpg",
+      "sha256": "d5ae85bcbd913c51260441763e1868e7b99d78ba2596c274ffddeea2a3a8d689"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00092_xiang_pear_004_009.jpg",
+      "split": "train",
+      "filename": "old_00211_a4d14f3e528f.jpg",
+      "sha256": "a4d14f3e528fcd48ba79cf778de79b43466b91980823b9d0e83b37ad73897efd"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00093_xiang_pear_004_010.jpg",
+      "split": "train",
+      "filename": "old_00212_494985554478.jpg",
+      "sha256": "4949855544787fe2a59864018f376c5b6e8fa3835f78678f1cf2bce0ad7fec21"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\train\\old_00094_xiang_pear_004_011.jpg",
+      "split": "train",
+      "filename": "old_00213_170585b21a7e.jpg",
+      "sha256": "170585b21a7e5d6428af814be8361d44c6826ce383d22148a9d4edb0299f5709"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\new_00117_apple_20261030_100942_44a98c58_001.jpg",
+      "split": "val",
+      "filename": "old_00214_de14ecfa5cde.jpg",
+      "sha256": "de14ecfa5cdec7374bbdd50b9718c8f2c758953051121e0824076f6e6be40c57"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\new_00118_apple_20261030_100942_44a98c58_002.jpg",
+      "split": "val",
+      "filename": "old_00215_d85043eb5801.jpg",
+      "sha256": "d85043eb580127d10e5cd892221456cb6780e78318a3e25f854e9383599c5793"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\new_00119_apple_20261030_100942_44a98c58_003.jpg",
+      "split": "val",
+      "filename": "old_00216_0daea4009c55.jpg",
+      "sha256": "0daea4009c554f7ab198fd942f39ed30d0c96f06adfc3d52fed57e34926a649f"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\new_00120_apple_20261030_100942_44a98c58_004.jpg",
+      "split": "val",
+      "filename": "old_00217_2fe3748a8a78.jpg",
+      "sha256": "2fe3748a8a78ce0c2707252e73e6d5302a8dc6a695e601ad79e910b71f4d7444"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\new_00121_apple_20261030_100942_44a98c58_005.jpg",
+      "split": "val",
+      "filename": "old_00218_5e70bc418290.jpg",
+      "sha256": "5e70bc418290f011d47981c30f249d6f1d595e10d86c0cb14dc6fe70b503fe4f"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\new_00122_apple_20261030_100942_44a98c58_006.jpg",
+      "split": "val",
+      "filename": "old_00219_f457c5d26b68.jpg",
+      "sha256": "f457c5d26b686f3a28d146917849289fb8744c67cd2b5ccaca3ea831deef40ac"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\new_00123_apple_20261030_100942_44a98c58_007.jpg",
+      "split": "val",
+      "filename": "old_00220_8ce7efc9aa83.jpg",
+      "sha256": "8ce7efc9aa837ee081dbe79d82c39cdc39b1555a2490a61b553756a96a87831f"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\new_00124_apple_20261030_100942_44a98c58_008.jpg",
+      "split": "val",
+      "filename": "old_00221_d64412a03a40.jpg",
+      "sha256": "d64412a03a40b56f3e07f1c8e7bf011002d84315a6c164a82d93abf045b68f14"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\new_00125_apple_20261030_100942_44a98c58_009.jpg",
+      "split": "val",
+      "filename": "old_00222_ba260536dca1.jpg",
+      "sha256": "ba260536dca1d783a5e8594fe4319ded3f7bbd3442e3c492daa4a5e191521c62"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\new_00126_apple_20261030_100942_44a98c58_010.jpg",
+      "split": "val",
+      "filename": "old_00223_2747c66741c7.jpg",
+      "sha256": "2747c66741c7dc272ffdbcfb01f1597770083c81e4087ff228739faef175293e"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\new_00127_apple_20261030_100942_44a98c58_011.jpg",
+      "split": "val",
+      "filename": "old_00224_8947f9debd04.jpg",
+      "sha256": "8947f9debd04547ada67829b2a4e4552b692c333fbbea7858b890d61affd8167"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\new_00136_cherry_tomato_20261030_102125_ca11af61_001.jpg",
+      "split": "val",
+      "filename": "old_00225_e653dbd27f56.jpg",
+      "sha256": "e653dbd27f56bcd0f8be503720bf3d57b9c69f8bed06fa781dcb83699ec06be7"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\new_00137_cherry_tomato_20261030_102125_ca11af61_002.jpg",
+      "split": "val",
+      "filename": "old_00226_ef41cecac672.jpg",
+      "sha256": "ef41cecac67288ca6a31ec311ddb108b232f6088c85ef4a82b9819bec4a7ba2e"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\new_00138_cherry_tomato_20261030_102125_ca11af61_003.jpg",
+      "split": "val",
+      "filename": "old_00227_dbd2c6444f62.jpg",
+      "sha256": "dbd2c6444f62f7b41a2555925fce1dd937d24ae0d1f38b94b360283defa18d8f"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\new_00139_cherry_tomato_20261030_102125_ca11af61_004.jpg",
+      "split": "val",
+      "filename": "old_00228_c62da63f2141.jpg",
+      "sha256": "c62da63f214135c979c1f61fb47b7e3c6476faddb7d42af86e78b088bea95d21"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\new_00140_cherry_tomato_20261030_102125_ca11af61_005.jpg",
+      "split": "val",
+      "filename": "old_00229_9a78e2e7d8f9.jpg",
+      "sha256": "9a78e2e7d8f97876780465e94828d481360a59007b75378b0f85fc018c24ee8f"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\new_00141_cherry_tomato_20261030_102125_ca11af61_006.jpg",
+      "split": "val",
+      "filename": "old_00230_bc40a9827d0c.jpg",
+      "sha256": "bc40a9827d0cf886de10802ad46deb530d19b21b95c59df62401e74a68f9baaa"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\new_00142_cherry_tomato_20261030_102125_ca11af61_007.jpg",
+      "split": "val",
+      "filename": "old_00231_0b70e6bd08ce.jpg",
+      "sha256": "0b70e6bd08ce900b79b49b066686adedf91ef248ea63b892f7644b52ca1f73f4"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\new_00143_cherry_tomato_20261030_102125_ca11af61_008.jpg",
+      "split": "val",
+      "filename": "old_00232_2d4a31a9053b.jpg",
+      "sha256": "2d4a31a9053bd0d604318835ece8ecce6cb368eef50386618d945b257a951b24"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\new_00144_cherry_tomato_20261030_102125_ca11af61_009.jpg",
+      "split": "val",
+      "filename": "old_00233_2e1394c9a939.jpg",
+      "sha256": "2e1394c9a93983e70dee59ed8529bf6b773a82ac793db83a0d82082a6608c4c1"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\new_00145_cherry_tomato_20261030_102125_ca11af61_010.jpg",
+      "split": "val",
+      "filename": "old_00234_0eba6621032a.jpg",
+      "sha256": "0eba6621032a89f6b5e60f16c5558a58a0f3f538ae0ed9dbde25adfb59b6c986"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\new_00146_cherry_tomato_20261030_102125_ca11af61_011.jpg",
+      "split": "val",
+      "filename": "old_00235_179979bf2584.jpg",
+      "sha256": "179979bf2584fa8e07d546abb9e87d32eee7c963908704a4d70e5a5088d2d468"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\new_00206_kiwi_20261030_101509_008b245c_001.jpg",
+      "split": "val",
+      "filename": "old_00236_a6748ff0e479.jpg",
+      "sha256": "a6748ff0e479cbd6c1df663f784679b99134b5ced71ca2458a15932a578d361a"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\new_00207_kiwi_20261030_101509_008b245c_002.jpg",
+      "split": "val",
+      "filename": "old_00237_9aba0e74bd40.jpg",
+      "sha256": "9aba0e74bd40fde8320c82caaa72ed88eccf62df0f4d9e0d4689bfc2bd99444b"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\new_00208_kiwi_20261030_101509_008b245c_003.jpg",
+      "split": "val",
+      "filename": "old_00238_e59f2c715930.jpg",
+      "sha256": "e59f2c715930a6945e7b4bae8914bbc1b72ec887d72469cb2c5d33ecb6cffd67"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\new_00209_kiwi_20261030_101509_008b245c_004.jpg",
+      "split": "val",
+      "filename": "old_00239_ee0182282a11.jpg",
+      "sha256": "ee0182282a11fcea4ecff7f1406bde122abe5969012a845ef6d411e4795582b1"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\new_00210_kiwi_20261030_101509_008b245c_005.jpg",
+      "split": "val",
+      "filename": "old_00240_e3e8bcc94132.jpg",
+      "sha256": "e3e8bcc94132a87d18cd144517905aa556e988e675cc8a14c069c6d66fe36d46"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\new_00211_kiwi_20261030_101509_008b245c_006.jpg",
+      "split": "val",
+      "filename": "old_00241_f49bbd924384.jpg",
+      "sha256": "f49bbd92438485511f72c86c6c39c10913abbe2d7360b054040304d89517d134"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\new_00212_kiwi_20261030_101509_008b245c_007.jpg",
+      "split": "val",
+      "filename": "old_00242_ea98c48ef27f.jpg",
+      "sha256": "ea98c48ef27f169e5e8307c2bc0c85d135e24bdfff86779993083008a51c0b75"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\new_00213_kiwi_20261030_101509_008b245c_008.jpg",
+      "split": "val",
+      "filename": "old_00243_3268b0d820e9.jpg",
+      "sha256": "3268b0d820e936e0bab40ed749230100deeb6030726bc6f1532b3ebe7dfbb558"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\new_00214_kiwi_20261030_101509_008b245c_009.jpg",
+      "split": "val",
+      "filename": "old_00244_319d9bea0a94.jpg",
+      "sha256": "319d9bea0a942ff22529ba66c04fa69144148c17267a939f07fa22fc883c1e2d"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\new_00215_kiwi_20261030_101509_008b245c_010.jpg",
+      "split": "val",
+      "filename": "old_00245_118a17eb022d.jpg",
+      "sha256": "118a17eb022d74fc66f59652b714531467ba759493292ed751345a52fab07e38"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\new_00216_kiwi_20261030_101509_008b245c_011.jpg",
+      "split": "val",
+      "filename": "old_00246_a0b8c9c90c18.jpg",
+      "sha256": "a0b8c9c90c182736e65cbebfa2b1a8e436b19850c5cdbd3cfbe884756ce39f0c"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\new_00217_kiwi_20261030_101509_008b245c_012.jpg",
+      "split": "val",
+      "filename": "old_00247_495bc8fd1e97.jpg",
+      "sha256": "495bc8fd1e97f4ffffdfa0ee39894ecce44d9e6d1443922af861032add9243eb"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\new_00231_mandarin_20261030_101303_feeb9ffb_001.jpg",
+      "split": "val",
+      "filename": "old_00248_3ef43af9081d.jpg",
+      "sha256": "3ef43af9081d299ca7f9922e68edce8e41e52a1aa8211246c2d8a3930329c3d0"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\new_00232_mandarin_20261030_101303_feeb9ffb_002.jpg",
+      "split": "val",
+      "filename": "old_00249_1520d216bca1.jpg",
+      "sha256": "1520d216bca16a7f95c9fcdd85495ee7295b4541e39e90993c949d46d19703fd"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\new_00233_mandarin_20261030_101303_feeb9ffb_003.jpg",
+      "split": "val",
+      "filename": "old_00250_4a76995856ca.jpg",
+      "sha256": "4a76995856caa1f310f25b4f7101997bf9b86f9ced2c0ba1fbb4e83a302ef2f2"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\new_00234_mandarin_20261030_101303_feeb9ffb_004.jpg",
+      "split": "val",
+      "filename": "old_00251_ebe8f8b8064f.jpg",
+      "sha256": "ebe8f8b8064fff9f514712755c865e91c0c28ec002c954162378f94ab83d83a3"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\new_00235_mandarin_20261030_101303_feeb9ffb_005.jpg",
+      "split": "val",
+      "filename": "old_00252_260302c366bd.jpg",
+      "sha256": "260302c366bd09d8dfdee509731256203fe0e3fe96883733c4bfa3774fd5ec7b"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\new_00236_mandarin_20261030_101303_feeb9ffb_006.jpg",
+      "split": "val",
+      "filename": "old_00253_7a17d0e25272.jpg",
+      "sha256": "7a17d0e25272aebf9e87330b50bd5c0a6ae2316bd5885503efc8d2e7c0fc85d8"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\new_00237_mandarin_20261030_101303_feeb9ffb_007.jpg",
+      "split": "val",
+      "filename": "old_00254_1d60cc8b4962.jpg",
+      "sha256": "1d60cc8b4962e295ee3701f29c298ac2ae22a6623c7f9fc1476362d480b8be6f"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\new_00238_mandarin_20261030_101303_feeb9ffb_008.jpg",
+      "split": "val",
+      "filename": "old_00255_ce5fd22b5cea.jpg",
+      "sha256": "ce5fd22b5cea51725fe4991d4f60e1d1e9c67bd9dcd2ef53b1498b6e6d886052"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\new_00239_mandarin_20261030_101303_feeb9ffb_009.jpg",
+      "split": "val",
+      "filename": "old_00256_386bc086e0f2.jpg",
+      "sha256": "386bc086e0f22c4fd30bdb991e1f0523ad19c4a38a599f5d22c658d24b83827a"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\new_00240_mandarin_20261030_101303_feeb9ffb_010.jpg",
+      "split": "val",
+      "filename": "old_00257_42f549cfa25b.jpg",
+      "sha256": "42f549cfa25b4d605127f1ebee0479b0f10b428a4b2b0efe58172394793550fa"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\new_00241_mandarin_20261030_101303_feeb9ffb_011.jpg",
+      "split": "val",
+      "filename": "old_00258_aeae6269415d.jpg",
+      "sha256": "aeae6269415d442d7d75e19d5d66ce91596d57ce6fbe23628ab1f2af27e743b6"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\new_00242_mandarin_20261030_101303_feeb9ffb_012.jpg",
+      "split": "val",
+      "filename": "old_00259_1ff99cbe0a05.jpg",
+      "sha256": "1ff99cbe0a05b2cfff0e2e0386bce88ad8a69bade153df66ef31cd10e393d1e1"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\new_00243_mandarin_20261030_101303_feeb9ffb_013.jpg",
+      "split": "val",
+      "filename": "old_00260_302842e14ed2.jpg",
+      "sha256": "302842e14ed25d4122406b0a53256cf2f09c907411ef870e78dbe7b6336f807e"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\new_00244_mandarin_20261030_101303_feeb9ffb_014.jpg",
+      "split": "val",
+      "filename": "old_00261_9b6f6f83cce9.jpg",
+      "sha256": "9b6f6f83cce9efb711823f72fa4e6a3e3c19b91473584113919508443052485e"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\new_00259_xiang_pear_20261030_101732_189d6d8c_001.jpg",
+      "split": "val",
+      "filename": "old_00262_2c52adfbcb94.jpg",
+      "sha256": "2c52adfbcb94b2184a72f102fd8bd2a60148e7de92de90ae2f57820ede2c3b54"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\new_00260_xiang_pear_20261030_101732_189d6d8c_002.jpg",
+      "split": "val",
+      "filename": "old_00263_8619f3b95bf0.jpg",
+      "sha256": "8619f3b95bf00b4b1faacc72561da013096cb3c7460ea9f63251d847c3ecd95d"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\new_00261_xiang_pear_20261030_101732_189d6d8c_003.jpg",
+      "split": "val",
+      "filename": "old_00264_72e60a30d016.jpg",
+      "sha256": "72e60a30d016203c171c0b5ca7f2c84cc0f308926ef897b3a1831010f123a89f"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\new_00262_xiang_pear_20261030_101732_189d6d8c_004.jpg",
+      "split": "val",
+      "filename": "old_00265_94af0e143d0b.jpg",
+      "sha256": "94af0e143d0b4b3ecf4b65e48826a7b80077b0993c35be99e57fc70407ecdb11"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\new_00263_xiang_pear_20261030_101732_189d6d8c_005.jpg",
+      "split": "val",
+      "filename": "old_00266_e97b525bc886.jpg",
+      "sha256": "e97b525bc886d6be24e78b6d843559a47eef17fc957677b59acddeb0ed4eecc2"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\new_00264_xiang_pear_20261030_101732_189d6d8c_006.jpg",
+      "split": "val",
+      "filename": "old_00267_e1ef0a12d7a3.jpg",
+      "sha256": "e1ef0a12d7a3136211cbefbee65bbf984388bf3121f30c7c08e4e7fa4eb91e5a"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\new_00265_xiang_pear_20261030_101732_189d6d8c_007.jpg",
+      "split": "val",
+      "filename": "old_00268_8928f8e89296.jpg",
+      "sha256": "8928f8e89296ac73f6aa1b656e0df5857ae6ab46ecc7f61159c6b132ce08f140"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\new_00266_xiang_pear_20261030_101732_189d6d8c_008.jpg",
+      "split": "val",
+      "filename": "old_00269_1c96d6b33c7c.jpg",
+      "sha256": "1c96d6b33c7c0931d743e6321956b505e43ad21f2660d70bbc699d352d6cae84"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\new_00267_xiang_pear_20261030_101732_189d6d8c_009.jpg",
+      "split": "val",
+      "filename": "old_00270_5eb55d79e802.jpg",
+      "sha256": "5eb55d79e80274b3228fa4d4f224027e37c4c8fa823efa224171632db9ad71e5"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\new_00268_xiang_pear_20261030_101732_189d6d8c_010.jpg",
+      "split": "val",
+      "filename": "old_00271_16545b34cfb6.jpg",
+      "sha256": "16545b34cfb612aa369d8887f292885f10fa1842d5041225703424be9aabd5e8"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\new_00269_xiang_pear_20261030_101732_189d6d8c_011.jpg",
+      "split": "val",
+      "filename": "old_00272_f230353bf134.jpg",
+      "sha256": "f230353bf134905434f7940393d2fb10cb73a58a5ae74199037e079d5e7961f3"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\new_00270_xiang_pear_20261030_101732_189d6d8c_012.jpg",
+      "split": "val",
+      "filename": "old_00273_3b2a24ba0d0f.jpg",
+      "sha256": "3b2a24ba0d0f4cac0457e523af4e1950cfa4f8afaa338aaa080191c110207fc2"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\new_00271_xiang_pear_20261030_101732_189d6d8c_013.jpg",
+      "split": "val",
+      "filename": "old_00274_e7999b40f546.jpg",
+      "sha256": "e7999b40f5469ac226a69686da6ddac08912c33e999ae8d847d139f64ad814ab"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\new_00272_xiang_pear_20261030_101732_189d6d8c_014.jpg",
+      "split": "val",
+      "filename": "old_00275_d62f0ee1c89d.jpg",
+      "sha256": "d62f0ee1c89d925c950d1ec25a007e647275e21944ffe9ba7ac8b7bc006a5b39"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\new_00273_xiang_pear_20261030_101732_189d6d8c_015.jpg",
+      "split": "val",
+      "filename": "old_00276_d1e0c790ea8a.jpg",
+      "sha256": "d1e0c790ea8a35ef77d881a498020bd54eb463f1d7e54407828eef2c194b7e8b"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\new_00274_xiang_pear_20261030_101732_189d6d8c_016.jpg",
+      "split": "val",
+      "filename": "old_00277_fa11ad95ba64.jpg",
+      "sha256": "fa11ad95ba64fd886aaef9130f99d515cecf5052606da1c33060aabab6189328"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\new_00275_xiang_pear_20261030_101732_189d6d8c_017.jpg",
+      "split": "val",
+      "filename": "old_00278_8f231cb0d98a.jpg",
+      "sha256": "8f231cb0d98a66986f00f8a0c31971d944830262f8fe5e46f24eb2ab79e31527"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\new_00276_xiang_pear_20261030_101732_189d6d8c_018.jpg",
+      "split": "val",
+      "filename": "old_00279_05906b708bf2.jpg",
+      "sha256": "05906b708bf2bf1f156186bc04853f72fc470b95597e5bdea48ef31ebde9751e"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\new_00277_xiang_pear_20261030_101732_189d6d8c_019.jpg",
+      "split": "val",
+      "filename": "old_00280_9e52d0cda0ec.jpg",
+      "sha256": "9e52d0cda0ece6d74ad74df24884702e9af834d262b9d39a97133c5d5cbcccc1"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\new_00278_xiang_pear_20261030_101732_189d6d8c_020.jpg",
+      "split": "val",
+      "filename": "old_00281_3ffc51ca70fa.jpg",
+      "sha256": "3ffc51ca70fa1677d1e5728682f3207858eace16257a08db5c30d3b1063a102e"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\new_00279_xiang_pear_20261030_101732_189d6d8c_021.jpg",
+      "split": "val",
+      "filename": "old_00282_3c90e4ffb276.jpg",
+      "sha256": "3c90e4ffb27645d88b14ba56fc4497a3e8443eb2590b027532c198936c0cb518"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\new_00280_xiang_pear_20261030_101732_189d6d8c_022.jpg",
+      "split": "val",
+      "filename": "old_00283_67104cb52dc2.jpg",
+      "sha256": "67104cb52dc2e9a151cc0c3c04ad6b06e61b872c6cd32a925dc00947ecd76be9"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\old_00095_apple_002_005.jpg",
+      "split": "val",
+      "filename": "old_00284_51db8a33d07c.jpg",
+      "sha256": "51db8a33d07c56ec97196aacd968eae2a44d0906c8727fb185f956cd36701b42"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\old_00096_apple_002_006.jpg",
+      "split": "val",
+      "filename": "old_00285_ce26834afa1d.jpg",
+      "sha256": "ce26834afa1d1360a874e64820f2ed40b64a487b675969f587fcde8677b17699"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\old_00097_apple_002_017.jpg",
+      "split": "val",
+      "filename": "old_00286_825a4007999f.jpg",
+      "sha256": "825a4007999f4b147bd016f7a5484f233f79b6c1fdd834aedfcdfc703b1279b1"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\old_00098_apple_002_024.jpg",
+      "split": "val",
+      "filename": "old_00287_cde2ae00e241.jpg",
+      "sha256": "cde2ae00e2414f745d6671ae50b7ce63ef5eba040195846f24ec1225a272395e"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\old_00099_banana_001_003.jpg",
+      "split": "val",
+      "filename": "old_00288_b79129efc31b.jpg",
+      "sha256": "b79129efc31bd2014b510ee91a022a918b8f70bd3634f9660a668de16d6ef757"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\old_00100_banana_001_006.jpg",
+      "split": "val",
+      "filename": "old_00289_81c86cba8511.jpg",
+      "sha256": "81c86cba8511b61a3404c17c59bfc802916799a2ae685210ec20e8c2a25c35dd"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\old_00101_banana_001_013.jpg",
+      "split": "val",
+      "filename": "old_00290_61186ad68eb6.jpg",
+      "sha256": "61186ad68eb67bc379c721fce5f56b45b33cea74986b5f8af803f98bc81b89f9"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\old_00102_cherry_tomato_002_001.jpg",
+      "split": "val",
+      "filename": "old_00291_65df90ba3338.jpg",
+      "sha256": "65df90ba333867e141aa3cacb9658d4e28cc7c9f395480e21f283e5330e6b6b5"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\old_00103_cherry_tomato_005_002.jpg",
+      "split": "val",
+      "filename": "old_00292_ce7aa03acacd.jpg",
+      "sha256": "ce7aa03acacddabd86ec0dcbf817efd4f9c93b6f04b77d74bfbf709b584faf9b"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\old_00104_cherry_tomato_005_008.jpg",
+      "split": "val",
+      "filename": "old_00293_2e605be4f6f5.jpg",
+      "sha256": "2e605be4f6f53bf71b325d2d826899e45dd24f715f61398e5b6fd068e1ec7c85"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\old_00105_kiwi_003_003.jpg",
+      "split": "val",
+      "filename": "old_00294_8e654ad88bc6.jpg",
+      "sha256": "8e654ad88bc6164222935030bd8cccd438e06303e340fed33246aed2569e555e"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\old_00106_kiwi_003_008.jpg",
+      "split": "val",
+      "filename": "old_00295_fa30b36bfc38.jpg",
+      "sha256": "fa30b36bfc38520b5e15a8eaa87bbe1f33cb48fc4438abf0a00da7e25185b15a"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\old_00107_kiwi_003_011.jpg",
+      "split": "val",
+      "filename": "old_00296_beaeae16e9e4.jpg",
+      "sha256": "beaeae16e9e4329b8fa58d934aaa0476f7a365be991a152f79fbef685902249f"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\old_00108_mandarin_002_002.jpg",
+      "split": "val",
+      "filename": "old_00297_c1a1118c9963.jpg",
+      "sha256": "c1a1118c99631cb799eec64d4b134958efe87350ba927fe06cf92989466f26b4"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\old_00109_mandarin_002_010.jpg",
+      "split": "val",
+      "filename": "old_00298_f7b4c81c54a9.jpg",
+      "sha256": "f7b4c81c54a98714b600e6159251b7be6427cd1608c249b4ea5a06e6663605ce"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\old_00110_mandarin_002_013.jpg",
+      "split": "val",
+      "filename": "old_00299_f9bffde01cd2.jpg",
+      "sha256": "f9bffde01cd25fe165126a5e2d2b8856e664c1783b625bce01ece1450d608be5"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\old_00111_mandarin_004_001.jpg",
+      "split": "val",
+      "filename": "old_00300_5a874e767398.jpg",
+      "sha256": "5a874e76739850ad2fe0b36b6313617a4e12a0a1ec612ac1c809a9a5a7224e84"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\old_00112_mandarin_004_003.jpg",
+      "split": "val",
+      "filename": "old_00301_910934f1c8c8.jpg",
+      "sha256": "910934f1c8c89e3c001a03ed3a7214e8aa7b32ea10a3873d632110cba015ee99"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\old_00113_mandarin_004_006.jpg",
+      "split": "val",
+      "filename": "old_00302_04430cebe3a7.jpg",
+      "sha256": "04430cebe3a7d73b0b647a8367d389f273337c4a169e32368d8d7ec63b86a326"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\old_00114_mandarin_005_007.jpg",
+      "split": "val",
+      "filename": "old_00303_cc58d6899108.jpg",
+      "sha256": "cc58d689910853f21644cfff2e14eab5796d050a7b402cc721686cd38ca6ce6c"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\old_00115_xiang_pear_004_002.jpg",
+      "split": "val",
+      "filename": "old_00304_4b91f0ffeb2c.jpg",
+      "sha256": "4b91f0ffeb2c4a5380b019d49b6bba44a35278ee27199dfa15d64110fc49313c"
+    },
+    {
+      "source": "D:\\fruit_ai\\detect_dataset_v3\\images\\val\\old_00116_xiang_pear_004_003.jpg",
+      "split": "val",
+      "filename": "old_00305_9efc25634a83.jpg",
+      "sha256": "9efc25634a8397969d57ebc8149cb9413e030210ea430f7560f9ba0363daff91"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\val\\background_20261030_165305_6dbb154a_001.jpg",
+      "split": "val",
+      "filename": "background_00306_5563ee2d3c0f.jpg",
+      "sha256": "5563ee2d3c0f6623757a0676101a684b13005e03e54c31c83148252f01f9e478"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\val\\background_20261030_165305_6dbb154a_002.jpg",
+      "split": "val",
+      "filename": "background_00307_0cbf435fbb75.jpg",
+      "sha256": "0cbf435fbb752a00cb35b196bb945b86b0ebe0f95b1a4142c94456520eee66e3"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\val\\background_20261030_165305_6dbb154a_003.jpg",
+      "split": "val",
+      "filename": "background_00308_a9b7ad6bb12e.jpg",
+      "sha256": "a9b7ad6bb12ed450a14546a6d4865b228692315dd284605a65694faa54117d0a"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\val\\background_20261030_165305_6dbb154a_004.jpg",
+      "split": "val",
+      "filename": "background_00309_3c7eb36c69bf.jpg",
+      "sha256": "3c7eb36c69bfe36f5072a1c87699d09e68145fe89b65584bac806a20b29039f8"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\val\\background_20261030_165305_6dbb154a_005.jpg",
+      "split": "val",
+      "filename": "background_00310_ffe839814a13.jpg",
+      "sha256": "ffe839814a1325ef9c7b4bfc6ead3af9c5ce48303b621630e4b49c3d462ecda2"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\val\\background_20261030_165305_6dbb154a_006.jpg",
+      "split": "val",
+      "filename": "background_00311_361334cae240.jpg",
+      "sha256": "361334cae240b02d7dbe33fc3b7345439d956a9c5850fca5d38817bb0ff13a8d"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\val\\background_20261030_165305_6dbb154a_007.jpg",
+      "split": "val",
+      "filename": "background_00312_83a388eb387c.jpg",
+      "sha256": "83a388eb387c5f5b6c3ecebcdc8bef83dd248f11581224c677ddfa5820d3c804"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\val\\background_20261030_165305_6dbb154a_008.jpg",
+      "split": "val",
+      "filename": "background_00313_1b71e763323b.jpg",
+      "sha256": "1b71e763323b9608cf64e095e08da58121cc3f83b5d8bc006a8a97b16612163e"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\val\\background_20261030_165305_6dbb154a_009.jpg",
+      "split": "val",
+      "filename": "background_00314_3575dc18a17b.jpg",
+      "sha256": "3575dc18a17b6cf93ba6cce9ea29299a9e9169f1a842696c3aea956fd06528b4"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\val\\background_20261030_165305_6dbb154a_010.jpg",
+      "split": "val",
+      "filename": "background_00315_52fd07881096.jpg",
+      "sha256": "52fd07881096e653412976b1dc5338b30853cf9083214cde964b5ab8e38bc09a"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\val\\background_20261030_165305_6dbb154a_011.jpg",
+      "split": "val",
+      "filename": "background_00316_06cec3848b4c.jpg",
+      "sha256": "06cec3848b4c664534b7ccefb064cdf17774668ddf43706293668ecb259de65e"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\val\\background_20261030_165305_6dbb154a_012.jpg",
+      "split": "val",
+      "filename": "background_00317_b38656445563.jpg",
+      "sha256": "b38656445563f01ec847a1dc093d596d6643d444bc48f9bfe4b523adf9c0a01a"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\val\\background_20261030_165305_6dbb154a_013.jpg",
+      "split": "val",
+      "filename": "background_00318_5e27e122d9ad.jpg",
+      "sha256": "5e27e122d9adc3fad239719e9f2b32e763687ae8d01723dc65a4f51e30a81062"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\val\\background_20261030_165305_6dbb154a_014.jpg",
+      "split": "val",
+      "filename": "background_00319_e69e5fc6661e.jpg",
+      "sha256": "e69e5fc6661e44835c77a4e8dcf229a9a7c2258f1dc518c67451f3f8d766adb5"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\val\\background_20261030_165305_6dbb154a_015.jpg",
+      "split": "val",
+      "filename": "background_00320_03da914c0c87.jpg",
+      "sha256": "03da914c0c8785f5ab9ef8276a2686fdadbedaf044ce812be58bca3234d7e003"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\val\\background_20261030_165305_6dbb154a_016.jpg",
+      "split": "val",
+      "filename": "background_00321_422253162e13.jpg",
+      "sha256": "422253162e131c1527bbd6e2778b8e8b721ce4c1ed4fdf6af7a808eda50738f5"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\val\\background_20261030_165305_6dbb154a_017.jpg",
+      "split": "val",
+      "filename": "background_00322_9ca28d51674a.jpg",
+      "sha256": "9ca28d51674a7d7d32cec042a383fdf8601049b096ae772d433811685467b548"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\val\\background_20261030_165305_6dbb154a_018.jpg",
+      "split": "val",
+      "filename": "background_00323_5245f3e02b62.jpg",
+      "sha256": "5245f3e02b62007ef659f5f4f9ea8f5ef4e6af7ba49a4016f55ed8a455b3b652"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\val\\background_20261030_165305_6dbb154a_019.jpg",
+      "split": "val",
+      "filename": "background_00324_cbf9630f5bd4.jpg",
+      "sha256": "cbf9630f5bd467a53905a262c680598c83f8019c7263d186ac125c6ddb277f09"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\val\\background_20261030_165305_6dbb154a_020.jpg",
+      "split": "val",
+      "filename": "background_00325_497fb1c1ccfe.jpg",
+      "sha256": "497fb1c1ccfe30caf6215a8d92b001194f80bf4c230a551e2965ccd38478eb75"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\val\\background_20261030_165305_6dbb154a_021.jpg",
+      "split": "val",
+      "filename": "background_00326_c7cea4d107d1.jpg",
+      "sha256": "c7cea4d107d16fd25b8060b22d96bd4ae1a9da31ba4324f27eacbd54b0bbdbd3"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162644_fb70ad12_001.jpg",
+      "split": "train",
+      "filename": "banana_00327_e45fb8e113f4.jpg",
+      "sha256": "e45fb8e113f46bc59072cd762ba76dbf62dc702c8b19352d8d9143502341fc57"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162644_fb70ad12_002.jpg",
+      "split": "train",
+      "filename": "banana_00328_b8ad65387b64.jpg",
+      "sha256": "b8ad65387b64e5f41dc768bdb7c153d3fff0603620237c9146d2e18297c5fd93"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162644_fb70ad12_003.jpg",
+      "split": "train",
+      "filename": "banana_00329_fd7da90618d4.jpg",
+      "sha256": "fd7da90618d407fffc5cdb3ba9712d95020204d191db8bb854867cca3ef16a15"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162644_fb70ad12_004.jpg",
+      "split": "train",
+      "filename": "banana_00330_10046cd57bae.jpg",
+      "sha256": "10046cd57baedb63387a7db72fece27db917fa408af07b1809fdbaf2a40398b1"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162644_fb70ad12_005.jpg",
+      "split": "train",
+      "filename": "banana_00331_a9a5774bb571.jpg",
+      "sha256": "a9a5774bb571a0a21e731d2493cf95322c1013ae8fba554e98fbb18115de806b"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162644_fb70ad12_006.jpg",
+      "split": "train",
+      "filename": "banana_00332_05a7b627d561.jpg",
+      "sha256": "05a7b627d561f8a93f6945d8d0186806ec7c07fce575d8309bfe05305a9583f5"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162644_fb70ad12_007.jpg",
+      "split": "train",
+      "filename": "banana_00333_b080989fa362.jpg",
+      "sha256": "b080989fa3621c435d74bcd07ef64e37a93aa7f863015143dd2527ec9d50ec0f"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162644_fb70ad12_008.jpg",
+      "split": "train",
+      "filename": "banana_00334_f24286ce6751.jpg",
+      "sha256": "f24286ce675119d544fc23bdd403dec105328fd09031b2de61cb0f11708fccc4"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162644_fb70ad12_009.jpg",
+      "split": "train",
+      "filename": "banana_00335_3fa8d81647fa.jpg",
+      "sha256": "3fa8d81647fa73a0464092b14f4f7c5dd3f382cb1ec0b71f02e8b408fb98076a"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162644_fb70ad12_010.jpg",
+      "split": "train",
+      "filename": "banana_00336_878f9b957373.jpg",
+      "sha256": "878f9b957373006956e352585c6869eeffe17d316874d7759e8786f1c24667ed"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162644_fb70ad12_011.jpg",
+      "split": "train",
+      "filename": "banana_00337_5b5c8e089af9.jpg",
+      "sha256": "5b5c8e089af951533f1f45744eed9abe3a29acd48b37695556925ade85e3735e"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162644_fb70ad12_012.jpg",
+      "split": "train",
+      "filename": "banana_00338_7fa68f01822b.jpg",
+      "sha256": "7fa68f01822b0daed63c99c11973304cbfddf1b00fb7d262d66e35bdac634b55"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162644_fb70ad12_013.jpg",
+      "split": "train",
+      "filename": "banana_00339_b9b55a975e1a.jpg",
+      "sha256": "b9b55a975e1a27561c4607755991afa91689cc03295099c4d14b6a860ff1c11b"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162644_fb70ad12_014.jpg",
+      "split": "train",
+      "filename": "banana_00340_e307e246e410.jpg",
+      "sha256": "e307e246e41074ef29fce7f99401cfddf6869792fff9946592be52b6d51d4813"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162644_fb70ad12_015.jpg",
+      "split": "train",
+      "filename": "banana_00341_4e5a59f4f3b5.jpg",
+      "sha256": "4e5a59f4f3b59997448462b88274f13bea29cfe78f9bb72bcf81ddafa9cf05ae"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162644_fb70ad12_017.jpg",
+      "split": "train",
+      "filename": "banana_00342_74f74dcb6b79.jpg",
+      "sha256": "74f74dcb6b793a9e574af4a1686c810845ead9893af23880d55a54293534a7a1"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162644_fb70ad12_018.jpg",
+      "split": "train",
+      "filename": "banana_00343_a2c920d68543.jpg",
+      "sha256": "a2c920d68543f0c6520dae1ed73ac1b067f8ed0958c4bdaaa7c8d6f803ed56e5"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162644_fb70ad12_019.jpg",
+      "split": "train",
+      "filename": "banana_00344_d63ca2b58bb9.jpg",
+      "sha256": "d63ca2b58bb9cebbcf3f57eee888b38a2caf94e80afe6a74437e344b757bfe1b"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162644_fb70ad12_020.jpg",
+      "split": "train",
+      "filename": "banana_00345_c4ede4c7509e.jpg",
+      "sha256": "c4ede4c7509ee6c9c779d3803af6887b63bacec71d1731e292cde9f3f11ce865"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162644_fb70ad12_021.jpg",
+      "split": "train",
+      "filename": "banana_00346_b5c195b2b4e1.jpg",
+      "sha256": "b5c195b2b4e173b4f34aed2b7df5c452388f586a63ae072c5abc1bc543a01480"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162644_fb70ad12_022.jpg",
+      "split": "train",
+      "filename": "banana_00347_1496bcbfc844.jpg",
+      "sha256": "1496bcbfc844d2a34517eb4a025a673309e4c47cc1faaaf68d7d46afd30b58ee"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162644_fb70ad12_023.jpg",
+      "split": "train",
+      "filename": "banana_00348_7cc00d4e66f9.jpg",
+      "sha256": "7cc00d4e66f9b9a8465e729c17730506a0bae389957c78d4dd45256598757b9f"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162644_fb70ad12_024.jpg",
+      "split": "train",
+      "filename": "banana_00349_81308404576f.jpg",
+      "sha256": "81308404576fbc4a38140f29163a2bf0c4a46800b2a37fae3f4d53ca3ce3ee78"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162644_fb70ad12_025.jpg",
+      "split": "train",
+      "filename": "banana_00350_b0c47eb61803.jpg",
+      "sha256": "b0c47eb618034e9ab76cb1fa3ed8472ba58b673fd6ac2c69e07acda54b3b9284"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162644_fb70ad12_026.jpg",
+      "split": "train",
+      "filename": "banana_00351_ba97b291f28f.jpg",
+      "sha256": "ba97b291f28f94a8053bc1eeae8cedf01b0870976604255c15b972854b330c72"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162644_fb70ad12_027.jpg",
+      "split": "train",
+      "filename": "banana_00352_4e5020cb1369.jpg",
+      "sha256": "4e5020cb136936cb4651525fc06bb859a27f8b979f1f2f852d182a2e85972be5"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162644_fb70ad12_028.jpg",
+      "split": "train",
+      "filename": "banana_00353_6112714e6bcf.jpg",
+      "sha256": "6112714e6bcfb820630674bd4a352fe49e68c289d31e073df0f6b091b17ceb81"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162644_fb70ad12_029.jpg",
+      "split": "train",
+      "filename": "banana_00354_0da0ff75edd9.jpg",
+      "sha256": "0da0ff75edd922d1766854d98df88db4c3f682e96a8835d406b742e1800f903e"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162644_fb70ad12_030.jpg",
+      "split": "train",
+      "filename": "banana_00355_8d77967e4144.jpg",
+      "sha256": "8d77967e414498e1e1407cc2ef162a00ae5dfd500956030caddb81b1504b5556"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162644_fb70ad12_031.jpg",
+      "split": "train",
+      "filename": "banana_00356_ee5c1c46a320.jpg",
+      "sha256": "ee5c1c46a320ae7cc1433668f2c8fdccc8721ed551b60bd2dc9a6e190f0d2c24"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162644_fb70ad12_032.jpg",
+      "split": "train",
+      "filename": "banana_00357_a2495ffdb9e0.jpg",
+      "sha256": "a2495ffdb9e07ed0c569cf223d4a482521ba32975cf43d8d1a5c916a48403075"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162644_fb70ad12_033.jpg",
+      "split": "train",
+      "filename": "banana_00358_157182fc5705.jpg",
+      "sha256": "157182fc57050e37dd1f00fa0a419ed95b729b468fbf56368cb86d9fa43d295e"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162644_fb70ad12_034.jpg",
+      "split": "train",
+      "filename": "banana_00359_44d07ee32633.jpg",
+      "sha256": "44d07ee32633135489ad97aef3499d0d6a2ecfa79ace9579bf00a5974606f162"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162644_fb70ad12_035.jpg",
+      "split": "train",
+      "filename": "banana_00360_2cb0075567d4.jpg",
+      "sha256": "2cb0075567d428efb2692491ee0374ce00191fbc8eb8a6d1373ce7583d0cefd8"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162644_fb70ad12_036.jpg",
+      "split": "train",
+      "filename": "banana_00361_45c6fdf04adc.jpg",
+      "sha256": "45c6fdf04adcb290fc7d38c8aaf766270fc45400b8dde36bb16b89b062b39a3a"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162644_fb70ad12_037.jpg",
+      "split": "train",
+      "filename": "banana_00362_bea68c0c78f5.jpg",
+      "sha256": "bea68c0c78f59897c1eb1bd693ded400758b976d2da98648598ae6877df169e7"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162644_fb70ad12_038.jpg",
+      "split": "train",
+      "filename": "banana_00363_3444279b5a8d.jpg",
+      "sha256": "3444279b5a8de61d4bd981d92fb11d8b2a5f96c38d36843e5d884066a7977c89"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162644_fb70ad12_039.jpg",
+      "split": "train",
+      "filename": "banana_00364_b7b26e83ac99.jpg",
+      "sha256": "b7b26e83ac99726b5863d3c9d071e50ca8cc52efd964b8c8a3b9afbad963c226"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162644_fb70ad12_040.jpg",
+      "split": "train",
+      "filename": "banana_00365_f128d145458f.jpg",
+      "sha256": "f128d145458ff3b4b064fd7e81ca0b1b8b7f86dbbfd5993dbf4a77e19da15d74"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162644_fb70ad12_041.jpg",
+      "split": "train",
+      "filename": "banana_00366_120c54dce5cd.jpg",
+      "sha256": "120c54dce5cdb309e65026f714617c35f1c8dacb6e429fc8179823ab29f0905a"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162644_fb70ad12_042.jpg",
+      "split": "train",
+      "filename": "banana_00367_cb82e09f62ff.jpg",
+      "sha256": "cb82e09f62ff3473f8a5364b807730642927e00153ef39a912012c6cbd744598"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162644_fb70ad12_043.jpg",
+      "split": "train",
+      "filename": "banana_00368_fa9a38dba382.jpg",
+      "sha256": "fa9a38dba38285a13d2712dae0db3991e6ebcfed5c6b4a1ebe370684f0912d52"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162644_fb70ad12_044.jpg",
+      "split": "train",
+      "filename": "banana_00369_c3e6ed59cc35.jpg",
+      "sha256": "c3e6ed59cc350ec73812d97f5b850923291d2e5248150cc99f89061b1cddd084"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162644_fb70ad12_045.jpg",
+      "split": "train",
+      "filename": "banana_00370_0092433ca132.jpg",
+      "sha256": "0092433ca132a92952b245ca5f61feef60d51aba579f3e895a56dc72c96f4dc9"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162830_2a75c75a_001.jpg",
+      "split": "train",
+      "filename": "banana_00371_bd3f64aa331b.jpg",
+      "sha256": "bd3f64aa331bc6546e36df6210cc878c9420a912bb118c7223ea645ca4eed8d2"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162830_2a75c75a_002.jpg",
+      "split": "train",
+      "filename": "banana_00372_83d980cb0581.jpg",
+      "sha256": "83d980cb058122aac2491ca93ad9e9c9fa50e146a4832ae9e193749fb7558bc9"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162830_2a75c75a_003.jpg",
+      "split": "train",
+      "filename": "banana_00373_06042c36b051.jpg",
+      "sha256": "06042c36b051391bb06794becbc880681ef470f25d573d5fe0c8e79dc2aed1ef"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162830_2a75c75a_004.jpg",
+      "split": "train",
+      "filename": "banana_00374_776af456571f.jpg",
+      "sha256": "776af456571fc3eddaa7a23585db995fe3b49b7844a0e3da8537c5632562301a"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162830_2a75c75a_005.jpg",
+      "split": "train",
+      "filename": "banana_00375_9ec18b65d908.jpg",
+      "sha256": "9ec18b65d908cbc37651896d0b9baad81cefa97cb2dd6bd84600b50ab75a56a0"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162830_2a75c75a_006.jpg",
+      "split": "train",
+      "filename": "banana_00376_023b71d89dc5.jpg",
+      "sha256": "023b71d89dc5c514a3cfad12ae33bb07e6ee207b4d21cc5e32f4a5fea50d5371"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162830_2a75c75a_007.jpg",
+      "split": "train",
+      "filename": "banana_00377_1740cededfc6.jpg",
+      "sha256": "1740cededfc67cb497173ad16d0ed33866d5545e6824cc57f2e782ad95759fa1"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162830_2a75c75a_008.jpg",
+      "split": "train",
+      "filename": "banana_00378_0294f08deae0.jpg",
+      "sha256": "0294f08deae092097a869c901b3cfce173645155a0f468e28dfe4dd2ac0649ba"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162830_2a75c75a_009.jpg",
+      "split": "train",
+      "filename": "banana_00379_872453e898a7.jpg",
+      "sha256": "872453e898a7a6f286e79e273ee194794e516705b883d51ba677dd9402bfe860"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162830_2a75c75a_010.jpg",
+      "split": "train",
+      "filename": "banana_00380_5685299c68ca.jpg",
+      "sha256": "5685299c68ca682bb2fdb17a3608d8970e1abb1458dd94add27e7dbe38ad7a8b"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162830_2a75c75a_011.jpg",
+      "split": "train",
+      "filename": "banana_00381_4f12de73da73.jpg",
+      "sha256": "4f12de73da7328118436a0b4dee5dacc39712555df89a80440c7a78b939a772c"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162830_2a75c75a_012.jpg",
+      "split": "train",
+      "filename": "banana_00382_93f4aa24e9f4.jpg",
+      "sha256": "93f4aa24e9f4333ee227129e01470b9a6a6de960a9fe92c434f915e04313e251"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162830_2a75c75a_013.jpg",
+      "split": "train",
+      "filename": "banana_00383_b638f0d295cd.jpg",
+      "sha256": "b638f0d295cdf919a000f478a67e6569cda09950bf80e863603687147a8db7db"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162830_2a75c75a_014.jpg",
+      "split": "train",
+      "filename": "banana_00384_05d3ab19b88d.jpg",
+      "sha256": "05d3ab19b88d61dc91e7ef47ebee8f8c1def38f70b8e9adda04bd40b42ebb95a"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162830_2a75c75a_015.jpg",
+      "split": "train",
+      "filename": "banana_00385_41a1288e79f6.jpg",
+      "sha256": "41a1288e79f64fc93b4014b3d5e9def629caa3474177c5e7a8496944b09fc4a9"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162830_2a75c75a_016.jpg",
+      "split": "train",
+      "filename": "banana_00386_6f754479ca72.jpg",
+      "sha256": "6f754479ca7254e8ebbfc53602d9a91443662c1a1459590fbb9d6038821cfa90"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162830_2a75c75a_017.jpg",
+      "split": "train",
+      "filename": "banana_00387_b4c1b49c6cd4.jpg",
+      "sha256": "b4c1b49c6cd47b9fb5fa798bfe6a0b82ae61ebd00947c8137d177e97f1b99354"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162830_2a75c75a_018.jpg",
+      "split": "train",
+      "filename": "banana_00388_67f01ea261a5.jpg",
+      "sha256": "67f01ea261a5d6a5b751be2178e16f762b013336aea1de13c71bdabe6d0d2641"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162830_2a75c75a_019.jpg",
+      "split": "train",
+      "filename": "banana_00389_9327672d698d.jpg",
+      "sha256": "9327672d698d9264ca933f43b85a9a0e634492d54c9501cf6327de47252aedd3"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162830_2a75c75a_020.jpg",
+      "split": "train",
+      "filename": "banana_00390_f50f0c01c43d.jpg",
+      "sha256": "f50f0c01c43db7ddeddefbe73c1dd8278dcebc3a26f583280bcc0cc090d28049"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162830_2a75c75a_021.jpg",
+      "split": "train",
+      "filename": "banana_00391_29859993a01b.jpg",
+      "sha256": "29859993a01b9a40a7b7948d969ae2418bc89b3975e1d9aa65482fffdecc75f1"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162830_2a75c75a_022.jpg",
+      "split": "train",
+      "filename": "banana_00392_eb7a2c6d56bf.jpg",
+      "sha256": "eb7a2c6d56bf883faa3c38646e405eccd4a39c892ad2cbf47f62a02eaa2838c1"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162830_2a75c75a_023.jpg",
+      "split": "train",
+      "filename": "banana_00393_e85ee01b14f2.jpg",
+      "sha256": "e85ee01b14f2dd71d9bac1bc16971236df46aa765fd594eb8774105c6d74841c"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162830_2a75c75a_024.jpg",
+      "split": "train",
+      "filename": "banana_00394_c9b74b5340b6.jpg",
+      "sha256": "c9b74b5340b62c65e1fb541669accac8fbe42bc2a82589cadf9e2d74d3984323"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162830_2a75c75a_025.jpg",
+      "split": "train",
+      "filename": "banana_00395_3f08afb90390.jpg",
+      "sha256": "3f08afb90390d21a7f964156effebe263f043dc45017342b063b8dc4d0dedf4b"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162830_2a75c75a_026.jpg",
+      "split": "train",
+      "filename": "banana_00396_447f8cb4b7d5.jpg",
+      "sha256": "447f8cb4b7d555c3a43edd6c5dbad3eeeeeb02852a9aedd84478279c6a2bfc1f"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162830_2a75c75a_027.jpg",
+      "split": "train",
+      "filename": "banana_00397_188c86013c3f.jpg",
+      "sha256": "188c86013c3fd9ed0a1c5b5ce70483b34241bacf84fc8b57fb6d20d8557148f5"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162830_2a75c75a_028.jpg",
+      "split": "train",
+      "filename": "banana_00398_4a7c3b4dfa84.jpg",
+      "sha256": "4a7c3b4dfa84659c97364b21eeeee12755d30b840e3c9f1a6ecfc2f95e1afe59"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162830_2a75c75a_029.jpg",
+      "split": "train",
+      "filename": "banana_00399_5e71d001c8d2.jpg",
+      "sha256": "5e71d001c8d29036acfbc6d2010d60f482e563c79a5c15064c584edaf5dd7bb9"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162830_2a75c75a_030.jpg",
+      "split": "train",
+      "filename": "banana_00400_12bad83a5ef0.jpg",
+      "sha256": "12bad83a5ef01cad020efb82dbfea6d9cd2ce48f591c72587d0ec528ecad17fd"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162830_2a75c75a_031.jpg",
+      "split": "train",
+      "filename": "banana_00401_aa78b0e3df65.jpg",
+      "sha256": "aa78b0e3df657c013630304cb00ae7dd1833bb89347cc87b51b801b66cbcdb56"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162830_2a75c75a_032.jpg",
+      "split": "train",
+      "filename": "banana_00402_992929df9d58.jpg",
+      "sha256": "992929df9d5825cef5978a9e88b4bb6d6adc1b5b116b17075ad468ed1fcb2013"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162830_2a75c75a_033.jpg",
+      "split": "train",
+      "filename": "banana_00403_3a8cb6eff29a.jpg",
+      "sha256": "3a8cb6eff29ae884adb3bef975daf07807a0b1967d67941f2d17ea4eeb616214"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162830_2a75c75a_034.jpg",
+      "split": "train",
+      "filename": "banana_00404_0895b79402b6.jpg",
+      "sha256": "0895b79402b681fa8180eb3f8e839d7a0271bec5900298e28cc979982e2cd226"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162830_2a75c75a_035.jpg",
+      "split": "train",
+      "filename": "banana_00405_61765cc6de24.jpg",
+      "sha256": "61765cc6de242f4cd901eebeabdc3bbd8d81619fdfe72499b12eb3a5e6c3e6bc"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162830_2a75c75a_036.jpg",
+      "split": "train",
+      "filename": "banana_00406_81ced9964b85.jpg",
+      "sha256": "81ced9964b853b3a3cf648e5e1f221f9de7c8910319255bc23d61213b112ac3d"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162830_2a75c75a_037.jpg",
+      "split": "train",
+      "filename": "banana_00407_2acce04329e6.jpg",
+      "sha256": "2acce04329e66af15e974ed6373868e6907dd1a1edec3eeb2ee29f841fc9eccf"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162830_2a75c75a_038.jpg",
+      "split": "train",
+      "filename": "banana_00408_4fed7fd0d726.jpg",
+      "sha256": "4fed7fd0d726c9e801ec082163aedf5d122f7d2280651ebd3fa476c0063950d3"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162830_2a75c75a_039.jpg",
+      "split": "train",
+      "filename": "banana_00409_09cafc5e8fdb.jpg",
+      "sha256": "09cafc5e8fdb0a2e09aacdd798ad46a944390ae676b80eb873c4c54bf26f5e24"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162830_2a75c75a_040.jpg",
+      "split": "train",
+      "filename": "banana_00410_99869af122c3.jpg",
+      "sha256": "99869af122c33b5d59a6086c1057d348ea1ffb6c179bfcfeffd2ee29c5650356"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162830_2a75c75a_041.jpg",
+      "split": "train",
+      "filename": "banana_00411_125b1d8d163c.jpg",
+      "sha256": "125b1d8d163cebc6d38f8f52611bcffa554f178cda5de190454d33fdc4a138f0"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162830_2a75c75a_042.jpg",
+      "split": "train",
+      "filename": "banana_00412_ad589ed12c14.jpg",
+      "sha256": "ad589ed12c142d0f83e144658cb8cd87457a252a0f24f9e08ad45c0a8ef8039e"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162830_2a75c75a_043.jpg",
+      "split": "train",
+      "filename": "banana_00413_e368549fc713.jpg",
+      "sha256": "e368549fc71358b6aeb215e0905803a2cb92f37218114fde6fd1139e9ea89b3b"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162830_2a75c75a_044.jpg",
+      "split": "train",
+      "filename": "banana_00414_f49dae5bc476.jpg",
+      "sha256": "f49dae5bc4764d5145b818e0697412213f466affd72bffa06ec047ec0a29e2aa"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_162830_2a75c75a_045.jpg",
+      "split": "train",
+      "filename": "banana_00415_5f1040d6fd61.jpg",
+      "sha256": "5f1040d6fd61b23149af27a35df19dc25e1c0dafa4531e1b6bbad8965771e13c"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_163058_aa2e8060_001.jpg",
+      "split": "train",
+      "filename": "banana_00416_5255bf71b6b6.jpg",
+      "sha256": "5255bf71b6b647e260e916035475e6c2bd6ff582b19c68d6f7f8300fdb225e9b"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_163058_aa2e8060_002.jpg",
+      "split": "train",
+      "filename": "banana_00417_293434d0b124.jpg",
+      "sha256": "293434d0b12423ec1551d814f830dd1b6170c70334d2c932125a36739ea0b13e"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_163058_aa2e8060_003.jpg",
+      "split": "train",
+      "filename": "banana_00418_b7e1e027861a.jpg",
+      "sha256": "b7e1e027861a07b7599466cc15ebf4d17413bdacaa9d241374531991afd80685"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_163058_aa2e8060_004.jpg",
+      "split": "train",
+      "filename": "banana_00419_75b50cc6c031.jpg",
+      "sha256": "75b50cc6c031b515e26365fa26605f7e14b3035467e1a37d04dd22749f3368d8"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_163058_aa2e8060_005.jpg",
+      "split": "train",
+      "filename": "banana_00420_4d57aa673bee.jpg",
+      "sha256": "4d57aa673bee884ddd79e67cf459e53e3ddf09d6245e332c60aa985b74d0a080"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_163058_aa2e8060_006.jpg",
+      "split": "train",
+      "filename": "banana_00421_44da2a18c7c0.jpg",
+      "sha256": "44da2a18c7c06892b409dc1c72d8cb1e236810d035593794897624aa88474cb4"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_163058_aa2e8060_007.jpg",
+      "split": "train",
+      "filename": "banana_00422_b5fff43cd015.jpg",
+      "sha256": "b5fff43cd015aa2ae6fad40cbc3fff8ca2b4f9708ab04b7eb415a44cd14b1eb7"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_163058_aa2e8060_008.jpg",
+      "split": "train",
+      "filename": "banana_00423_b66472fb85a1.jpg",
+      "sha256": "b66472fb85a1b9a88b43de88770c55380afbefc0f1cec417ecc37c8cf8b14c8d"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_163058_aa2e8060_009.jpg",
+      "split": "train",
+      "filename": "banana_00424_1393c044848c.jpg",
+      "sha256": "1393c044848cc2b105a80c5a9a54592917374325615ccca63b81b891cd5e87a3"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_163058_aa2e8060_010.jpg",
+      "split": "train",
+      "filename": "banana_00425_358a09958680.jpg",
+      "sha256": "358a099586800ca7fd2fefb1d99f2c8823307a9ca622f6f29daac5f03a26a2fd"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_163058_aa2e8060_011.jpg",
+      "split": "train",
+      "filename": "banana_00426_3c3ecc4828eb.jpg",
+      "sha256": "3c3ecc4828ebac8b3b0196e899b51337b3d818a166ee2a4072f8a6ae7145e2c2"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_163058_aa2e8060_012.jpg",
+      "split": "train",
+      "filename": "banana_00427_ef9779a7fa3e.jpg",
+      "sha256": "ef9779a7fa3e4f7e47af2fdee1ae3ce5fad68249500d4df0b27ac0ab633b72e0"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_163058_aa2e8060_013.jpg",
+      "split": "train",
+      "filename": "banana_00428_ab31a1c38845.jpg",
+      "sha256": "ab31a1c38845b257b8e896500dfac38c19b24c8e27923040327491bb81c2293d"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_163058_aa2e8060_014.jpg",
+      "split": "train",
+      "filename": "banana_00429_9a6cff95dda1.jpg",
+      "sha256": "9a6cff95dda10702548b9a8a0fde0f496628c308bd9963be3f622cf52dba35da"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_163058_aa2e8060_015.jpg",
+      "split": "train",
+      "filename": "banana_00430_7bd12d83df87.jpg",
+      "sha256": "7bd12d83df87c4ba31e91605feeb05ba9fe45e5b6335301c0b1a8a7f02c6c6a3"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_163058_aa2e8060_016.jpg",
+      "split": "train",
+      "filename": "banana_00431_63d0958430af.jpg",
+      "sha256": "63d0958430afd964cd11213ada7cf4ff04de3f7c332dc66ae7660e394bae1d9a"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_163058_aa2e8060_017.jpg",
+      "split": "train",
+      "filename": "banana_00432_f800373f101a.jpg",
+      "sha256": "f800373f101a767ed04dda0801d1dd7d36c97f209e6b15fb3ba8a7a58e9120b2"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_163058_aa2e8060_018.jpg",
+      "split": "train",
+      "filename": "banana_00433_411ffc1eaec8.jpg",
+      "sha256": "411ffc1eaec856b7d50afba0dd2a99cc2b2290bb27b0cf01425b9ba1bf64cc95"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_163058_aa2e8060_019.jpg",
+      "split": "train",
+      "filename": "banana_00434_3ab0b1631779.jpg",
+      "sha256": "3ab0b1631779eeb6bd7ae9cda03842e7c0fc29f6d015c42f730ba9e7c05ff5f6"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_163058_aa2e8060_020.jpg",
+      "split": "train",
+      "filename": "banana_00435_758867e17401.jpg",
+      "sha256": "758867e17401f3bb7c8be4edb8517ff7f5e475ccce8cb29773d8feb747f3b22a"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_163058_aa2e8060_021.jpg",
+      "split": "train",
+      "filename": "banana_00436_365f12beb1c0.jpg",
+      "sha256": "365f12beb1c0cc46a976ff9d57079de2f255b179eb979cfcdff51313d0704cef"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_163058_aa2e8060_022.jpg",
+      "split": "train",
+      "filename": "banana_00437_47fd4aaf002f.jpg",
+      "sha256": "47fd4aaf002f1ae7ee6af039ed5ff8fe8391925a62710f6300eb8161fd6cbf04"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_163058_aa2e8060_023.jpg",
+      "split": "train",
+      "filename": "banana_00438_bd68eb3ea4d2.jpg",
+      "sha256": "bd68eb3ea4d206856cd86dc56f9314d3b97331d50ea1034062a461606eca8574"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_163058_aa2e8060_024.jpg",
+      "split": "train",
+      "filename": "banana_00439_0311f2ebad0f.jpg",
+      "sha256": "0311f2ebad0ff09d0ecf9fe942ed14dc4ae03271af9501e7ae646692254ee7cc"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_163058_aa2e8060_025.jpg",
+      "split": "train",
+      "filename": "banana_00440_c7db0677121c.jpg",
+      "sha256": "c7db0677121c6b48d9837bd7407770d3e9d8f8e6e552654341bab821e1f973f9"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_163058_aa2e8060_026.jpg",
+      "split": "train",
+      "filename": "banana_00441_65eb4e29f17a.jpg",
+      "sha256": "65eb4e29f17a166ae0729b5c0ab64808ddb86a9868cf9eb37af9aa82624b06dc"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_163058_aa2e8060_027.jpg",
+      "split": "train",
+      "filename": "banana_00442_c4d9d0ae16cc.jpg",
+      "sha256": "c4d9d0ae16ccc14aa4af95b388edbbd46720c7517799f110b21e057ab8b59637"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_163058_aa2e8060_028.jpg",
+      "split": "train",
+      "filename": "banana_00443_f43200aa5497.jpg",
+      "sha256": "f43200aa54970e3278930cd34505ecc85e013d366d64b245d271524b6a42e2b5"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_163058_aa2e8060_029.jpg",
+      "split": "train",
+      "filename": "banana_00444_fa2733358d2e.jpg",
+      "sha256": "fa2733358d2e6eb73134b298ff85c5211d3907f363816fe9e06f1b8fa7cdf57f"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_163058_aa2e8060_030.jpg",
+      "split": "train",
+      "filename": "banana_00445_69a95b44ebf8.jpg",
+      "sha256": "69a95b44ebf860baae2d6478431b80a091ec3a5fd552442a084796c290f3e904"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_163058_aa2e8060_031.jpg",
+      "split": "train",
+      "filename": "banana_00446_62b0a3943287.jpg",
+      "sha256": "62b0a3943287cbc4033722e202445f97c3257342fc8dc3ae25adff6bd021e0a6"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_163058_aa2e8060_032.jpg",
+      "split": "train",
+      "filename": "banana_00447_66158f5bbb89.jpg",
+      "sha256": "66158f5bbb89fd5070333e6566fa4c9441da3ffe36e386b3f95bba6c7494eee0"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_163058_aa2e8060_033.jpg",
+      "split": "train",
+      "filename": "banana_00448_baef44124517.jpg",
+      "sha256": "baef44124517b8423a8c82c8b837df8aa0e51164ae27ff716b9a31ad2d19d9e8"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_163058_aa2e8060_034.jpg",
+      "split": "train",
+      "filename": "banana_00449_3aa3d032bac4.jpg",
+      "sha256": "3aa3d032bac4a7d698a293b864f16e8729efd851361853710fbc560c4f283430"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_163058_aa2e8060_035.jpg",
+      "split": "train",
+      "filename": "banana_00450_62a54326ad8e.jpg",
+      "sha256": "62a54326ad8ec162badca8d4d9df71de6ba7e8f57ba47f837d3d4912bbb7e09c"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_163058_aa2e8060_036.jpg",
+      "split": "train",
+      "filename": "banana_00451_ef84944f8d2e.jpg",
+      "sha256": "ef84944f8d2ed60af23399c969516acbef33e4f49c25b41cc7c1d12ace24d19d"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_163058_aa2e8060_037.jpg",
+      "split": "train",
+      "filename": "banana_00452_fe5223fd218a.jpg",
+      "sha256": "fe5223fd218a39f6cddfa521d524c97ad460c70aea450c360921527553398d5c"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_163058_aa2e8060_038.jpg",
+      "split": "train",
+      "filename": "banana_00453_77986471779d.jpg",
+      "sha256": "77986471779d21feb08774c443af4738e21a89278a7a5f66bad8ec6385820823"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_163058_aa2e8060_039.jpg",
+      "split": "train",
+      "filename": "banana_00454_87f5ec2eb221.jpg",
+      "sha256": "87f5ec2eb2217f4fa3ef979faa1a8052e07bedda06d6e6d2be6c813285ceddec"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\train\\banana_20261030_163058_aa2e8060_040.jpg",
+      "split": "train",
+      "filename": "banana_00455_811365dae16f.jpg",
+      "sha256": "811365dae16f392f164000cd8bd07784dfeddede86ed80484ff22ecacd64ab1f"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\val\\banana_20261030_163237_c225283a_001.jpg",
+      "split": "val",
+      "filename": "banana_00456_c69353666790.jpg",
+      "sha256": "c693536667902ab7d7d5a48c4f4268e65d3666d899b1ca60242db3a2ea9078b5"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\val\\banana_20261030_163237_c225283a_002.jpg",
+      "split": "val",
+      "filename": "banana_00457_a053410599dc.jpg",
+      "sha256": "a053410599dcbd64fe5ffaaedfb48121ce4b71349264934b9d62cab03021df58"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\val\\banana_20261030_163237_c225283a_003.jpg",
+      "split": "val",
+      "filename": "banana_00458_bff076d1ad60.jpg",
+      "sha256": "bff076d1ad60acf9548ff90e1138337e352dea6036a3f386cad85e871392ab81"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\val\\banana_20261030_163237_c225283a_004.jpg",
+      "split": "val",
+      "filename": "banana_00459_432244500759.jpg",
+      "sha256": "4322445007593ab7e64efda3fd70811bf5d2c1160b43616672551526a701effd"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\val\\banana_20261030_163237_c225283a_005.jpg",
+      "split": "val",
+      "filename": "banana_00460_60b7f319eda1.jpg",
+      "sha256": "60b7f319eda1e0ef3f7cc0ebd2d6e9dd5977eef539513cf43fb0a2442f2af75b"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\val\\banana_20261030_163237_c225283a_006.jpg",
+      "split": "val",
+      "filename": "banana_00461_1503c01a7e86.jpg",
+      "sha256": "1503c01a7e86440cd4519b5e7a9e881065fa332e2447c43048b96df95aa3931c"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\val\\banana_20261030_163237_c225283a_007.jpg",
+      "split": "val",
+      "filename": "banana_00462_73c61a5dbd2c.jpg",
+      "sha256": "73c61a5dbd2cb9fb23ee741ef3fb091b0440e4da5b72dd501679799a60f1d88e"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\val\\banana_20261030_163237_c225283a_008.jpg",
+      "split": "val",
+      "filename": "banana_00463_9a5480566db0.jpg",
+      "sha256": "9a5480566db074a91f652277be10167ddd1c6f150b1c48d6b488d6ae1cadb662"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\val\\banana_20261030_163237_c225283a_009.jpg",
+      "split": "val",
+      "filename": "banana_00464_9d307486743f.jpg",
+      "sha256": "9d307486743f898a5ce55d46d03216748ae941e974bcb6d46868f5427946d23e"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\val\\banana_20261030_163237_c225283a_010.jpg",
+      "split": "val",
+      "filename": "banana_00465_c30887f8c924.jpg",
+      "sha256": "c30887f8c924e639bb07da5da236385f409c6d543f40c72bf7cf7fe036b3ecc5"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\val\\banana_20261030_163237_c225283a_011.jpg",
+      "split": "val",
+      "filename": "banana_00466_e47afc40f1c7.jpg",
+      "sha256": "e47afc40f1c77ad6c028330bf036205752709aec10455b1ff8a5fa60cfc81b3a"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\val\\banana_20261030_163237_c225283a_012.jpg",
+      "split": "val",
+      "filename": "banana_00467_0c95d68b7acb.jpg",
+      "sha256": "0c95d68b7acb5de0b74943500c2a85e384fa96375a0da774ab73b8e34275f270"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\val\\banana_20261030_163237_c225283a_013.jpg",
+      "split": "val",
+      "filename": "banana_00468_c87e1d882617.jpg",
+      "sha256": "c87e1d88261776827cba2fb073be2467d8575a3c74994ab5a28dfc95eed1805f"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\val\\banana_20261030_163237_c225283a_014.jpg",
+      "split": "val",
+      "filename": "banana_00469_ea6dcc88301d.jpg",
+      "sha256": "ea6dcc88301d876021b87087c7900cb433660a77779984373a52831851a52ef9"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\val\\banana_20261030_163237_c225283a_015.jpg",
+      "split": "val",
+      "filename": "banana_00470_d09de24b5517.jpg",
+      "sha256": "d09de24b5517d4c2ceeb949750143f1ee874aa3805c910b97261d86c3d169f4d"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\val\\banana_20261030_163237_c225283a_016.jpg",
+      "split": "val",
+      "filename": "banana_00471_b55a1c1c294c.jpg",
+      "sha256": "b55a1c1c294c3a2bc5435b561a04bab216d21b161d369bcda986fb085a63548b"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\val\\banana_20261030_163237_c225283a_017.jpg",
+      "split": "val",
+      "filename": "banana_00472_6d8966f4781d.jpg",
+      "sha256": "6d8966f4781da2e044f75a99142fdd69b1aaef0713bc69b0ee17861c15ae01c4"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\val\\banana_20261030_163237_c225283a_018.jpg",
+      "split": "val",
+      "filename": "banana_00473_97bb14da64f2.jpg",
+      "sha256": "97bb14da64f242e6089f276bf387bfd6db7d6f34b87108ce9f9576b3c3dc570b"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\val\\banana_20261030_163237_c225283a_019.jpg",
+      "split": "val",
+      "filename": "banana_00474_6c95886c4519.jpg",
+      "sha256": "6c95886c4519c1dcdb05cdd69b88648781992b416f32169ce78f15f5b8689416"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\val\\banana_20261030_163237_c225283a_020.jpg",
+      "split": "val",
+      "filename": "banana_00475_934cb6df2d88.jpg",
+      "sha256": "934cb6df2d88c7bbf01aefb8b8ac57682f09ea35f1a5e8d8ae3dfc30d04051a7"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\val\\banana_20261030_163237_c225283a_021.jpg",
+      "split": "val",
+      "filename": "banana_00476_e883a935757d.jpg",
+      "sha256": "e883a935757dd29d8d297a4e1d9e4c96b0b9c333159051b11844aa2e03d69263"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\val\\banana_20261030_163237_c225283a_022.jpg",
+      "split": "val",
+      "filename": "banana_00477_6a3db802ed03.jpg",
+      "sha256": "6a3db802ed0348b3a0943996f6e65cf87dbae0b0d23a15de46b7dcb1dff010d9"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\val\\banana_20261030_163237_c225283a_023.jpg",
+      "split": "val",
+      "filename": "banana_00478_6585ab4c5ef0.jpg",
+      "sha256": "6585ab4c5ef061a5e28c56b61806a76b53744e4c0b89364138e96cae8345de77"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\val\\banana_20261030_163237_c225283a_024.jpg",
+      "split": "val",
+      "filename": "banana_00479_4ccd59d81d5b.jpg",
+      "sha256": "4ccd59d81d5b9dc7b35b4e0cb637fb8c2759274b75424e419b5f0095f6024f92"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\val\\banana_20261030_163237_c225283a_025.jpg",
+      "split": "val",
+      "filename": "banana_00480_affc6c24eabb.jpg",
+      "sha256": "affc6c24eabbe80b9066e3ea825b6a33ceaf92f9b426785989d2dc17afa028ba"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\val\\banana_20261030_163237_c225283a_026.jpg",
+      "split": "val",
+      "filename": "banana_00481_aa24081b994c.jpg",
+      "sha256": "aa24081b994c018cedc6a1b4876e313aa6d24ba6e4c45eba65e94219e63c91f6"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\val\\banana_20261030_163237_c225283a_027.jpg",
+      "split": "val",
+      "filename": "banana_00482_596089e5c2b2.jpg",
+      "sha256": "596089e5c2b29f79edd9ef5ce29ffcb8e30f8eefd317deda961b0dc84043c025"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\val\\banana_20261030_163237_c225283a_028.jpg",
+      "split": "val",
+      "filename": "banana_00483_8350e8b6dd09.jpg",
+      "sha256": "8350e8b6dd0987020694d9195788cafd664dea2e62eace3b7840e4bbaf47b80a"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\val\\banana_20261030_163237_c225283a_029.jpg",
+      "split": "val",
+      "filename": "banana_00484_1211943558f5.jpg",
+      "sha256": "1211943558f5f493a62f6b19f2cb124a64f54fd2d70d0402e5ff5525a72b7d8a"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\val\\banana_20261030_163237_c225283a_030.jpg",
+      "split": "val",
+      "filename": "banana_00485_7963e29e8b8e.jpg",
+      "sha256": "7963e29e8b8eeb3ed04cc94d579a61904a5b5403ee1d5945750ae3a77c4812db"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\val\\banana_20261030_163237_c225283a_031.jpg",
+      "split": "val",
+      "filename": "banana_00486_d0ca7b3a183e.jpg",
+      "sha256": "d0ca7b3a183ef78e777bbfc38f40cebcb43aecc449f64567012209b34ed25b0e"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\val\\banana_20261030_163237_c225283a_032.jpg",
+      "split": "val",
+      "filename": "banana_00487_6d1d64a4e026.jpg",
+      "sha256": "6d1d64a4e026cb0a2a90bc1c08893af960a5612a38995d4dfa1d100a2d32f23e"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\val\\banana_20261030_163237_c225283a_033.jpg",
+      "split": "val",
+      "filename": "banana_00488_782fdcde5524.jpg",
+      "sha256": "782fdcde5524a0d1721ce17e1e4ec84fd17433dbcec1848bd9747a249a8898dc"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\val\\banana_20261030_163237_c225283a_034.jpg",
+      "split": "val",
+      "filename": "banana_00489_9e5878e6e276.jpg",
+      "sha256": "9e5878e6e276573c3296bb1ca86ccbc95e2f67b705e2d28b5a6ee8d4111c1e49"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\val\\banana_20261030_163237_c225283a_035.jpg",
+      "split": "val",
+      "filename": "banana_00490_6ac0421545f2.jpg",
+      "sha256": "6ac0421545f282d56e0cecaeb56c429017019af28b207330f2763f7bc7d650eb"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\val\\banana_20261030_163237_c225283a_036.jpg",
+      "split": "val",
+      "filename": "banana_00491_37cab9b5bffe.jpg",
+      "sha256": "37cab9b5bffe0f850cefebbb32aac84ab555c4b073762eff800016648a3a8146"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\val\\banana_20261030_163237_c225283a_037.jpg",
+      "split": "val",
+      "filename": "banana_00492_cb68215f8c8b.jpg",
+      "sha256": "cb68215f8c8b3aae0172b6d41017d2287dd8e0d6093cf1107421958e9896a5ab"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\val\\banana_20261030_163237_c225283a_038.jpg",
+      "split": "val",
+      "filename": "banana_00493_754c6068d23d.jpg",
+      "sha256": "754c6068d23d4cdbe52b0cb780867ee87feff6f15163a29fcd170cb79319165d"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\val\\banana_20261030_163237_c225283a_039.jpg",
+      "split": "val",
+      "filename": "banana_00494_575ab77e82e4.jpg",
+      "sha256": "575ab77e82e4e070204b3c26f1e584c9d36bedd9ec968711e4823fe2704a9865"
+    },
+    {
+      "source": "D:\\fruit_ai\\fruit_v4_training\\new_data\\images\\val\\banana_20261030_163237_c225283a_040.jpg",
+      "split": "val",
+      "filename": "banana_00495_18977de6be1e.jpg",
+      "sha256": "18977de6be1e241d47090f1aabb2ec7921c9dad0bb03211d7c66ed933ccf7f76"
+    }
+  ]
+}

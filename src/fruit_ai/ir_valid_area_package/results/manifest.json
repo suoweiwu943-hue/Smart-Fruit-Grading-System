@@ -1,0 +1,62 @@
+[
+  {
+    "id": "ir_001",
+    "original_filename": "ChatGPT 图像 2026年10月31日 09_19_50.png",
+    "width": 628,
+    "height": 772,
+    "fruit_pixels": 254628,
+    "invalid_pixels": 27264,
+    "valid_pixels": 227364,
+    "invalid_percent": 10.71,
+    "valid_percent": 89.29,
+    "invalid_outside_fruit_pixels": 166
+  },
+  {
+    "id": "ir_002",
+    "original_filename": "ChatGPT 图像 2026年10月31日 09_33_47.png",
+    "width": 693,
+    "height": 700,
+    "fruit_pixels": 303019,
+    "invalid_pixels": 13625,
+    "valid_pixels": 289394,
+    "invalid_percent": 4.5,
+    "valid_percent": 95.5,
+    "invalid_outside_fruit_pixels": 0
+  },
+  {
+    "id": "ir_003",
+    "original_filename": "ChatGPT 图像 2026年10月31日 09_33_58.png",
+    "width": 642,
+    "height": 762,
+    "fruit_pixels": 307079,
+    "invalid_pixels": 22692,
+    "valid_pixels": 284387,
+    "invalid_percent": 7.39,
+    "valid_percent": 92.61,
+    "invalid_outside_fruit_pixels": 877
+  },
+  {
+    "id": "ir_004",
+    "original_filename": "ChatGPT 图像 2026年10月31日 09_34_07.png",
+    "width": 727,
+    "height": 838,
+    "fruit_pixels": 325144,
+    "invalid_pixels": 30600,
+    "valid_pixels": 294544,
+    "invalid_percent": 9.41,
+    "valid_percent": 90.59,
+    "invalid_outside_fruit_pixels": 12
+  },
+  {
+    "id": "ir_005",
+    "original_filename": "ChatGPT 图像 2026年10月31日 09_34_15.png",
+    "width": 634,
+    "height": 712,
+    "fruit_pixels": 226625,
+    "invalid_pixels": 30040,
+    "valid_pixels": 196585,
+    "invalid_percent": 13.26,
+    "valid_percent": 86.74,
+    "invalid_outside_fruit_pixels": 535
+  }
+]

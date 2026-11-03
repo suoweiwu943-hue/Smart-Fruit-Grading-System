@@ -1,0 +1,186 @@
+{
+  "old_images": 36,
+  "new_images": 8,
+  "total_images": 44,
+  "signature": "6b344d2d1dccf5d29e4e7248842eac9413eda3425aa369d49cec9671cd46e9c8",
+  "old_damage_labels": "preserved three-class labels",
+  "validation": "training images reused; not independent validation",
+  "mapping": [
+    {
+      "image": "D:\\fruit_ai\\ir_damage_dataset_v3\\images\\train\\correction_v3_001.jpg",
+      "new_name": "old_v3_001"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_dataset_v3\\images\\train\\correction_v3_002.jpg",
+      "new_name": "old_v3_002"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_dataset_v3\\images\\train\\correction_v3_003.jpg",
+      "new_name": "old_v3_003"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_dataset_v3\\images\\train\\correction_v3_004.jpg",
+      "new_name": "old_v3_004"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_dataset_v3\\images\\train\\old_v2_001.png",
+      "new_name": "old_v3_005"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_dataset_v3\\images\\train\\old_v2_002.png",
+      "new_name": "old_v3_006"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_dataset_v3\\images\\train\\old_v2_003.png",
+      "new_name": "old_v3_007"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_dataset_v3\\images\\train\\old_v2_004.png",
+      "new_name": "old_v3_008"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_dataset_v3\\images\\train\\old_v2_005.png",
+      "new_name": "old_v3_009"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_dataset_v3\\images\\train\\old_v2_006.png",
+      "new_name": "old_v3_010"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_dataset_v3\\images\\train\\old_v2_007.png",
+      "new_name": "old_v3_011"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_dataset_v3\\images\\train\\old_v2_008.png",
+      "new_name": "old_v3_012"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_dataset_v3\\images\\train\\old_v2_009.jpg",
+      "new_name": "old_v3_013"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_dataset_v3\\images\\train\\old_v2_010.jpg",
+      "new_name": "old_v3_014"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_dataset_v3\\images\\train\\old_v2_011.jpg",
+      "new_name": "old_v3_015"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_dataset_v3\\images\\train\\old_v2_012.jpg",
+      "new_name": "old_v3_016"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_dataset_v3\\images\\train\\old_v2_013.jpg",
+      "new_name": "old_v3_017"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_dataset_v3\\images\\train\\old_v2_014.jpg",
+      "new_name": "old_v3_018"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_dataset_v3\\images\\train\\old_v2_015.jpg",
+      "new_name": "old_v3_019"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_dataset_v3\\images\\train\\old_v2_016.jpg",
+      "new_name": "old_v3_020"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_dataset_v3\\images\\train\\old_v2_017.jpg",
+      "new_name": "old_v3_021"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_dataset_v3\\images\\train\\old_v2_018.jpg",
+      "new_name": "old_v3_022"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_dataset_v3\\images\\train\\old_v2_019.jpg",
+      "new_name": "old_v3_023"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_dataset_v3\\images\\train\\old_v2_020.jpg",
+      "new_name": "old_v3_024"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_dataset_v3\\images\\train\\old_v2_021.jpg",
+      "new_name": "old_v3_025"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_dataset_v3\\images\\train\\old_v2_022.png",
+      "new_name": "old_v3_026"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_dataset_v3\\images\\train\\old_v2_023.png",
+      "new_name": "old_v3_027"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_dataset_v3\\images\\train\\old_v2_024.png",
+      "new_name": "old_v3_028"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_dataset_v3\\images\\train\\old_v2_025.png",
+      "new_name": "old_v3_029"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_dataset_v3\\images\\train\\old_v2_026.png",
+      "new_name": "old_v3_030"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_dataset_v3\\images\\train\\old_v2_027.png",
+      "new_name": "old_v3_031"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_dataset_v3\\images\\train\\old_v2_028.png",
+      "new_name": "old_v3_032"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_dataset_v3\\images\\train\\old_v2_029.png",
+      "new_name": "old_v3_033"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_dataset_v3\\images\\train\\old_v2_030.png",
+      "new_name": "old_v3_034"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_dataset_v3\\images\\train\\old_v2_031.png",
+      "new_name": "old_v3_035"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_dataset_v3\\images\\train\\old_v2_032.png",
+      "new_name": "old_v3_036"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_v4_package\\images\\train\\correction_v4_001.jpg",
+      "new_name": "correction_v4_001"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_v4_package\\images\\train\\correction_v4_002.jpg",
+      "new_name": "correction_v4_002"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_v4_package\\images\\train\\correction_v4_003.jpg",
+      "new_name": "correction_v4_003"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_v4_package\\images\\train\\correction_v4_004.jpg",
+      "new_name": "correction_v4_004"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_v4_package\\images\\train\\correction_v4_005.jpg",
+      "new_name": "correction_v4_005"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_v4_package\\images\\train\\correction_v4_006.jpg",
+      "new_name": "correction_v4_006"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_v4_package\\images\\train\\correction_v4_007.jpg",
+      "new_name": "correction_v4_007"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_v4_package\\images\\train\\correction_v4_008.jpg",
+      "new_name": "correction_v4_008"
+    }
+  ]
+}

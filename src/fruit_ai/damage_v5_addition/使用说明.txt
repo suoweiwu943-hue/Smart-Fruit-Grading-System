@@ -1,0 +1,18 @@
+1. 完整解压到 D:\fruit_ai\damage_v5_addition，确保 train_damage_v5.py 直接位于此目录。
+2. 停止彩色识别和接收服务，释放GPU。
+3. PowerShell运行：
+& "D:\fruit_ai\.venv\Scripts\python.exe" "D:\fruit_ai\damage_v5_addition\train_damage_v5.py"
+
+从 D:\fruit_ai\runs\ir_damage_v4\weights\best.pt 开始新的微调，不使用resume。
+原数据配置：D:\fruit_ai\ir_damage_dataset_v4\data.yaml。
+新数据配置：D:\fruit_ai\ir_damage_dataset_v5\data.yaml。
+原数据不移动、不覆盖；新训练列表引用原训练图片，另外加入本包7张图片；验证集引用原验证图片。
+请保留原数据集目录；新数据集不是完全独立的副本。
+如果这些水果的其他角度已在验证集，必须先按水果个体整理划分；脚本只能自动拦截完全相同图片，不能识别同一水果的不同角度。
+类别：0 fruit；1 invalid；2 damage。
+参数：epochs=200，batch=2，imgsz=640，device=0，workers=0，overlap_mask=False。
+掩膜独立保留，避免fruit包含invalid/damage时互相覆盖训练目标。
+结果输出 D:\fruit_ai\runs\ir_damage_v5；如已存在，Ultralytics会自动另起目录，以控制台实际输出为准。
+不会自动替换网页使用的v4模型。训练结束后先比较验证集与实际照片结果。
+本机完成了格式转换和合并逻辑测试，没有在用户GPU上训练。
+重复图及不同标注的处理见转换记录.txt；完整原标注见original_annotations.json。

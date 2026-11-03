@@ -1,0 +1,80 @@
+[
+  {
+    "image_id": 1,
+    "uploaded_filename": "infrared_original.jpg",
+    "new_filename": "ir_new_001.jpg",
+    "sha256": "77b96f9fab6ddf7a3c0b9860d37f484c4d32fca6da0964ca422a7ed096a3d512"
+  },
+  {
+    "image_id": 2,
+    "uploaded_filename": "infrared_original(1).jpg",
+    "new_filename": "ir_new_002.jpg",
+    "sha256": "46864047cdb77dfa1ceec490f967d53122a94bc447282c946acee482f44aaf61"
+  },
+  {
+    "image_id": 3,
+    "uploaded_filename": "infrared_original(2).jpg",
+    "new_filename": "ir_new_003.jpg",
+    "sha256": "62c2ac6c30cdc091d7607a5b761e5028543dc613280dd4b9286467b37ea808af"
+  },
+  {
+    "image_id": 4,
+    "uploaded_filename": "infrared_original(3).jpg",
+    "new_filename": "ir_new_004.jpg",
+    "sha256": "1769f1129ec2183c3da7e4241bb7319046cca8a7c7776f05d9eac70acadb2f82"
+  },
+  {
+    "image_id": 5,
+    "uploaded_filename": "infrared_original(4).jpg",
+    "new_filename": "ir_new_005.jpg",
+    "sha256": "ab6ad0816b996f009e7ff0eebf187083ccf4730c9c2c74cace14e7cbb979ec1c"
+  },
+  {
+    "image_id": 6,
+    "uploaded_filename": "infrared_original(5).jpg",
+    "new_filename": "ir_new_006.jpg",
+    "sha256": "b86bb61afc23241cfae039a0d5fc23b50896e083268ae60121e3eca244e83628"
+  },
+  {
+    "image_id": 7,
+    "uploaded_filename": "infrared_original(6).jpg",
+    "new_filename": "ir_new_007.jpg",
+    "sha256": "a3d7d25ee28a79d34675200fa8edc47d58fffd3b8ffe2e455d0efeef284ab941"
+  },
+  {
+    "image_id": 8,
+    "uploaded_filename": "infrared_original(7).jpg",
+    "new_filename": "ir_new_008.jpg",
+    "sha256": "c5f736fe239a09414df660e45680589530ef4c1496204943a012887888a53e5a"
+  },
+  {
+    "image_id": 9,
+    "uploaded_filename": "infrared_original(8).jpg",
+    "new_filename": "ir_new_009.jpg",
+    "sha256": "5bed703b608d91099bf971afe69782a09f224e404f0139a82d4189bfd0335317"
+  },
+  {
+    "image_id": 10,
+    "uploaded_filename": "infrared_original(9).jpg",
+    "new_filename": "ir_new_010.jpg",
+    "sha256": "035f171e351ad6add2e15b6be66c4c0ef5edfffdebc84f5b2a2caff152a523c6"
+  },
+  {
+    "image_id": 11,
+    "uploaded_filename": "infrared_original(10).jpg",
+    "new_filename": "ir_new_011.jpg",
+    "sha256": "d9091d1737c3ff6a433a2a05e6382edd5a68c9b069818bc8ded4ca4b00397539"
+  },
+  {
+    "image_id": 12,
+    "uploaded_filename": "infrared_original(20261031-054548).jpg",
+    "new_filename": "ir_new_012.jpg",
+    "sha256": "99e3ce59a235bfc3cad7fdf0fa99eec554c8fef5668f1ba52f83d94b4882510f"
+  },
+  {
+    "image_id": 13,
+    "uploaded_filename": "infrared_original(20261031-054556).jpg",
+    "new_filename": "ir_new_013.jpg",
+    "sha256": "64502df6a28e6233d5810bc9787ff92ba2d7da4128cfc04ceafed184e9f2634a"
+  }
+]

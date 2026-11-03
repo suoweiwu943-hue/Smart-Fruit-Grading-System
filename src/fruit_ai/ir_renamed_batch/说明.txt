@@ -1,0 +1,6 @@
+﻿13 张原图已改名为 ir_new_001.jpg 至 ir_new_013.jpg。
+labels_renamed.json 为同步修改后的 COCO 标注，请与这些图片配套使用。
+原图字节保持不变；仅修改 JSON 中 images.file_name，标注坐标与类别保持不变。
+annotation_overview.jpg 是标注核对预览，不可当作训练原图。
+rename_mapping.json 记录上传文件名、新文件名和 SHA256。
+第 9 张原标注只有 fruit，未擅自增加 invalid。

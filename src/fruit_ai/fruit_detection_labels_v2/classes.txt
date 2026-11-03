@@ -1,0 +1,6 @@
+apple
+banana
+cherry_tomato
+kiwi
+mandarin
+xiang_pear

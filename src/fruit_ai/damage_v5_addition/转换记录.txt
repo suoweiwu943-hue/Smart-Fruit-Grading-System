@@ -1,0 +1,3 @@
+7张不同图片，24个多边形。
+类别：0 fruit，1 invalid，2 damage。
+7d4d8b77fab5833f3dd7bc4bbeb99a48.jpg 与 3b1589c5aeef3c179e0d9ffb7c243aba.jpg 图片完全相同，标注不同；本包保留前者列表中首次出现的图片及其标注，即 3b1589c5aeef3c179e0d9ffb7c243aba.jpg。原 JSON 另存供复核。

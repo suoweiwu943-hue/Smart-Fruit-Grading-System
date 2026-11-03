@@ -1,0 +1,154 @@
+{
+  "old_images": 32,
+  "new_images": 4,
+  "total_images": 36,
+  "signature": "cd1711e12b239a994d1f9a406c397428306db6a63a704b91fc506eb5bf2eceda",
+  "old_damage_labels": "preserved three-class labels",
+  "validation": "training images reused; not independent validation",
+  "mapping": [
+    {
+      "image": "D:\\fruit_ai\\ir_damage_dataset_v2\\images\\train\\damage_001.png",
+      "new_name": "old_v2_001"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_dataset_v2\\images\\train\\damage_002.png",
+      "new_name": "old_v2_002"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_dataset_v2\\images\\train\\damage_003.png",
+      "new_name": "old_v2_003"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_dataset_v2\\images\\train\\damage_004.png",
+      "new_name": "old_v2_004"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_dataset_v2\\images\\train\\damage_005.png",
+      "new_name": "old_v2_005"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_dataset_v2\\images\\train\\damage_006.png",
+      "new_name": "old_v2_006"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_dataset_v2\\images\\train\\damage_007.png",
+      "new_name": "old_v2_007"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_dataset_v2\\images\\train\\damage_008.png",
+      "new_name": "old_v2_008"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_dataset_v2\\images\\train\\old_v5_001.jpg",
+      "new_name": "old_v2_009"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_dataset_v2\\images\\train\\old_v5_002.jpg",
+      "new_name": "old_v2_010"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_dataset_v2\\images\\train\\old_v5_003.jpg",
+      "new_name": "old_v2_011"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_dataset_v2\\images\\train\\old_v5_004.jpg",
+      "new_name": "old_v2_012"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_dataset_v2\\images\\train\\old_v5_005.jpg",
+      "new_name": "old_v2_013"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_dataset_v2\\images\\train\\old_v5_006.jpg",
+      "new_name": "old_v2_014"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_dataset_v2\\images\\train\\old_v5_007.jpg",
+      "new_name": "old_v2_015"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_dataset_v2\\images\\train\\old_v5_008.jpg",
+      "new_name": "old_v2_016"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_dataset_v2\\images\\train\\old_v5_009.jpg",
+      "new_name": "old_v2_017"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_dataset_v2\\images\\train\\old_v5_010.jpg",
+      "new_name": "old_v2_018"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_dataset_v2\\images\\train\\old_v5_011.jpg",
+      "new_name": "old_v2_019"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_dataset_v2\\images\\train\\old_v5_012.jpg",
+      "new_name": "old_v2_020"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_dataset_v2\\images\\train\\old_v5_013.jpg",
+      "new_name": "old_v2_021"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_dataset_v2\\images\\train\\old_v5_014.png",
+      "new_name": "old_v2_022"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_dataset_v2\\images\\train\\old_v5_015.png",
+      "new_name": "old_v2_023"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_dataset_v2\\images\\train\\old_v5_016.png",
+      "new_name": "old_v2_024"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_dataset_v2\\images\\train\\old_v5_017.png",
+      "new_name": "old_v2_025"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_dataset_v2\\images\\train\\old_v5_018.png",
+      "new_name": "old_v2_026"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_dataset_v2\\images\\train\\old_v5_019.png",
+      "new_name": "old_v2_027"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_dataset_v2\\images\\train\\old_v5_020.png",
+      "new_name": "old_v2_028"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_dataset_v2\\images\\train\\old_v5_021.png",
+      "new_name": "old_v2_029"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_dataset_v2\\images\\train\\old_v5_022.png",
+      "new_name": "old_v2_030"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_dataset_v2\\images\\train\\old_v5_023.png",
+      "new_name": "old_v2_031"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_dataset_v2\\images\\train\\old_v5_024.png",
+      "new_name": "old_v2_032"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_v3_package\\images\\train\\correction_v3_001.jpg",
+      "new_name": "correction_v3_001"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_v3_package\\images\\train\\correction_v3_002.jpg",
+      "new_name": "correction_v3_002"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_v3_package\\images\\train\\correction_v3_003.jpg",
+      "new_name": "correction_v3_003"
+    },
+    {
+      "image": "D:\\fruit_ai\\ir_damage_v3_package\\images\\train\\correction_v3_004.jpg",
+      "new_name": "correction_v3_004"
+    }
+  ]
+}

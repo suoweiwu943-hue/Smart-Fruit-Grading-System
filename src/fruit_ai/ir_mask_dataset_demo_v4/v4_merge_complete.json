@@ -1,0 +1,9 @@
+{
+  "source_image": "ChatGPT 图像 2026年10月31日 10_43_49.png",
+  "old_images": 10,
+  "added_images": 1,
+  "total_images": 11,
+  "fruit_pixels": 159145,
+  "invalid_pixels": 10923,
+  "validation": "training images; not independent"
+}

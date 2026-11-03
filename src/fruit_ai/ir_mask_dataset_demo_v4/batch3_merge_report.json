@@ -1,0 +1,33 @@
+{
+  "old_dataset": "D:\\fruit_ai\\ir_mask_dataset_demo_v2",
+  "new_dataset": "D:\\fruit_ai\\ir_mask_dataset_demo_v3",
+  "old_image_count": 6,
+  "new_images_added": 4,
+  "duplicates_skipped": [],
+  "added_files": [
+    {
+      "original_filename": "ChatGPT 图像 2026年10月31日 10_43_16.png",
+      "new_filename": "new_batch3_001_9cd7bfda.png",
+      "label_filename": "new_batch3_001_9cd7bfda.txt",
+      "sha256": "9cd7bfda550485dba263927a51b549febed97f9298386543909686556eb42f7e"
+    },
+    {
+      "original_filename": "ChatGPT 图像 2026年10月31日 10_43_26.png",
+      "new_filename": "new_batch3_002_3254721d.png",
+      "label_filename": "new_batch3_002_3254721d.txt",
+      "sha256": "3254721d5a3443b313f0053acf38a5b189aedf4c164b6479520b45c065e7cae3"
+    },
+    {
+      "original_filename": "ChatGPT 图像 2026年10月31日 10_43_34.png",
+      "new_filename": "new_batch3_003_21891e01.png",
+      "label_filename": "new_batch3_003_21891e01.txt",
+      "sha256": "21891e01d80520cf90eb9656660cb9ada73c9b865de9fbbe56b5fd9a95185c80"
+    },
+    {
+      "original_filename": "ChatGPT 图像 2026年10月31日 10_43_42.png",
+      "new_filename": "new_batch3_004_a4bd2bc8.png",
+      "label_filename": "new_batch3_004_a4bd2bc8.txt",
+      "sha256": "a4bd2bc83ad52b40731f62687e59d82cbfcb65fe57274c3a34a0090c8d843435"
+    }
+  ]
+}

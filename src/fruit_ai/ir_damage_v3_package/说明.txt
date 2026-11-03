@@ -1,0 +1,5 @@
+﻿将本文件夹放到 D:\fruit_ai\ir_damage_v3_package，运行 train_ir_damage_v3.py。
+脚本读取已有 D:\fruit_ai\ir_damage_dataset_v2 的32张图，与本包4张图合并为新数据集。
+三类标注全部保留；不覆盖v2数据和模型。若发现重复原图，停止而不重复追加。
+annotation_overview.jpg 为人工标注预览，非预测、非训练原图。
+训练集复用于拟合检查，不是独立验证准确率。

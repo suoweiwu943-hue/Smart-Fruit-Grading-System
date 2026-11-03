@@ -1,0 +1,106 @@
+[
+  {
+    "image_id": 1,
+    "original_filename": "37a6038c84d171e20a875e4e43c7596b.png",
+    "filename": "ir_damage_001.png",
+    "annotation_size": [
+      2341,
+      1396
+    ],
+    "uploaded_size": [
+      2048,
+      1221
+    ]
+  },
+  {
+    "image_id": 2,
+    "original_filename": "4c5cd5788a906fd7677b41b899b08398.png",
+    "filename": "ir_damage_002.png",
+    "annotation_size": [
+      2101,
+      1207
+    ],
+    "uploaded_size": [
+      2048,
+      1176
+    ]
+  },
+  {
+    "image_id": 3,
+    "original_filename": "58cce8545e7de8506d6146dfd7a372b1.png",
+    "filename": "ir_damage_003.png",
+    "annotation_size": [
+      2520,
+      1372
+    ],
+    "uploaded_size": [
+      2048,
+      1115
+    ]
+  },
+  {
+    "image_id": 4,
+    "original_filename": "5b7a1ed298dc4ae58c85e4061943863a.png",
+    "filename": "ir_damage_004.png",
+    "annotation_size": [
+      2515,
+      1363
+    ],
+    "uploaded_size": [
+      2048,
+      1109
+    ]
+  },
+  {
+    "image_id": 5,
+    "original_filename": "76b846f724cd0f8e4dc397e8c9396bd0.png",
+    "filename": "ir_damage_005.png",
+    "annotation_size": [
+      2440,
+      1365
+    ],
+    "uploaded_size": [
+      2048,
+      1145
+    ]
+  },
+  {
+    "image_id": 6,
+    "original_filename": "983b90f49d090d4a95cf21636a7c7207.png",
+    "filename": "ir_damage_006.png",
+    "annotation_size": [
+      2196,
+      1387
+    ],
+    "uploaded_size": [
+      2048,
+      1293
+    ]
+  },
+  {
+    "image_id": 7,
+    "original_filename": "a13ef8e5cc29743ab66f39b4f06e9189.png",
+    "filename": "ir_damage_007.png",
+    "annotation_size": [
+      1819,
+      1360
+    ],
+    "uploaded_size": [
+      1819,
+      1360
+    ]
+  },
+  {
+    "image_id": 8,
+    "original_filename": "a937bf2039939d559c1e2ea0483016a6.png",
+    "filename": "ir_damage_008.png",
+    "annotation_size": [
+      2196,
+      1375
+    ],
+    "uploaded_size": [
+      2048,
+      1282
+    ]
+  }
+]

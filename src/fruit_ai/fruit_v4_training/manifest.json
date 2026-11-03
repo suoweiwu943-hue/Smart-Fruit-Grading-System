@@ -1,0 +1,1402 @@
+[
+  {
+    "filename": "banana_20261030_162644_fb70ad12_001.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162644_fb70ad12",
+    "sha256": "e45fb8e113f46bc59072cd762ba76dbf62dc702c8b19352d8d9143502341fc57"
+  },
+  {
+    "filename": "banana_20261030_162644_fb70ad12_002.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162644_fb70ad12",
+    "sha256": "b8ad65387b64e5f41dc768bdb7c153d3fff0603620237c9146d2e18297c5fd93"
+  },
+  {
+    "filename": "banana_20261030_162644_fb70ad12_003.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162644_fb70ad12",
+    "sha256": "fd7da90618d407fffc5cdb3ba9712d95020204d191db8bb854867cca3ef16a15"
+  },
+  {
+    "filename": "banana_20261030_162644_fb70ad12_004.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162644_fb70ad12",
+    "sha256": "10046cd57baedb63387a7db72fece27db917fa408af07b1809fdbaf2a40398b1"
+  },
+  {
+    "filename": "banana_20261030_162644_fb70ad12_005.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162644_fb70ad12",
+    "sha256": "a9a5774bb571a0a21e731d2493cf95322c1013ae8fba554e98fbb18115de806b"
+  },
+  {
+    "filename": "banana_20261030_162644_fb70ad12_006.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162644_fb70ad12",
+    "sha256": "05a7b627d561f8a93f6945d8d0186806ec7c07fce575d8309bfe05305a9583f5"
+  },
+  {
+    "filename": "banana_20261030_162644_fb70ad12_007.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162644_fb70ad12",
+    "sha256": "b080989fa3621c435d74bcd07ef64e37a93aa7f863015143dd2527ec9d50ec0f"
+  },
+  {
+    "filename": "banana_20261030_162644_fb70ad12_008.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162644_fb70ad12",
+    "sha256": "f24286ce675119d544fc23bdd403dec105328fd09031b2de61cb0f11708fccc4"
+  },
+  {
+    "filename": "banana_20261030_162644_fb70ad12_009.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162644_fb70ad12",
+    "sha256": "3fa8d81647fa73a0464092b14f4f7c5dd3f382cb1ec0b71f02e8b408fb98076a"
+  },
+  {
+    "filename": "banana_20261030_162644_fb70ad12_010.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162644_fb70ad12",
+    "sha256": "878f9b957373006956e352585c6869eeffe17d316874d7759e8786f1c24667ed"
+  },
+  {
+    "filename": "banana_20261030_162644_fb70ad12_011.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162644_fb70ad12",
+    "sha256": "5b5c8e089af951533f1f45744eed9abe3a29acd48b37695556925ade85e3735e"
+  },
+  {
+    "filename": "banana_20261030_162644_fb70ad12_012.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162644_fb70ad12",
+    "sha256": "7fa68f01822b0daed63c99c11973304cbfddf1b00fb7d262d66e35bdac634b55"
+  },
+  {
+    "filename": "banana_20261030_162644_fb70ad12_013.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162644_fb70ad12",
+    "sha256": "b9b55a975e1a27561c4607755991afa91689cc03295099c4d14b6a860ff1c11b"
+  },
+  {
+    "filename": "banana_20261030_162644_fb70ad12_014.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162644_fb70ad12",
+    "sha256": "e307e246e41074ef29fce7f99401cfddf6869792fff9946592be52b6d51d4813"
+  },
+  {
+    "filename": "banana_20261030_162644_fb70ad12_015.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162644_fb70ad12",
+    "sha256": "4e5a59f4f3b59997448462b88274f13bea29cfe78f9bb72bcf81ddafa9cf05ae"
+  },
+  {
+    "filename": "banana_20261030_162644_fb70ad12_017.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162644_fb70ad12",
+    "sha256": "74f74dcb6b793a9e574af4a1686c810845ead9893af23880d55a54293534a7a1"
+  },
+  {
+    "filename": "banana_20261030_162644_fb70ad12_018.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162644_fb70ad12",
+    "sha256": "a2c920d68543f0c6520dae1ed73ac1b067f8ed0958c4bdaaa7c8d6f803ed56e5"
+  },
+  {
+    "filename": "banana_20261030_162644_fb70ad12_019.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162644_fb70ad12",
+    "sha256": "d63ca2b58bb9cebbcf3f57eee888b38a2caf94e80afe6a74437e344b757bfe1b"
+  },
+  {
+    "filename": "banana_20261030_162644_fb70ad12_020.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162644_fb70ad12",
+    "sha256": "c4ede4c7509ee6c9c779d3803af6887b63bacec71d1731e292cde9f3f11ce865"
+  },
+  {
+    "filename": "banana_20261030_162644_fb70ad12_021.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162644_fb70ad12",
+    "sha256": "b5c195b2b4e173b4f34aed2b7df5c452388f586a63ae072c5abc1bc543a01480"
+  },
+  {
+    "filename": "banana_20261030_162644_fb70ad12_022.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162644_fb70ad12",
+    "sha256": "1496bcbfc844d2a34517eb4a025a673309e4c47cc1faaaf68d7d46afd30b58ee"
+  },
+  {
+    "filename": "banana_20261030_162644_fb70ad12_023.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162644_fb70ad12",
+    "sha256": "7cc00d4e66f9b9a8465e729c17730506a0bae389957c78d4dd45256598757b9f"
+  },
+  {
+    "filename": "banana_20261030_162644_fb70ad12_024.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162644_fb70ad12",
+    "sha256": "81308404576fbc4a38140f29163a2bf0c4a46800b2a37fae3f4d53ca3ce3ee78"
+  },
+  {
+    "filename": "banana_20261030_162644_fb70ad12_025.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162644_fb70ad12",
+    "sha256": "b0c47eb618034e9ab76cb1fa3ed8472ba58b673fd6ac2c69e07acda54b3b9284"
+  },
+  {
+    "filename": "banana_20261030_162644_fb70ad12_026.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162644_fb70ad12",
+    "sha256": "ba97b291f28f94a8053bc1eeae8cedf01b0870976604255c15b972854b330c72"
+  },
+  {
+    "filename": "banana_20261030_162644_fb70ad12_027.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162644_fb70ad12",
+    "sha256": "4e5020cb136936cb4651525fc06bb859a27f8b979f1f2f852d182a2e85972be5"
+  },
+  {
+    "filename": "banana_20261030_162644_fb70ad12_028.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162644_fb70ad12",
+    "sha256": "6112714e6bcfb820630674bd4a352fe49e68c289d31e073df0f6b091b17ceb81"
+  },
+  {
+    "filename": "banana_20261030_162644_fb70ad12_029.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162644_fb70ad12",
+    "sha256": "0da0ff75edd922d1766854d98df88db4c3f682e96a8835d406b742e1800f903e"
+  },
+  {
+    "filename": "banana_20261030_162644_fb70ad12_030.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162644_fb70ad12",
+    "sha256": "8d77967e414498e1e1407cc2ef162a00ae5dfd500956030caddb81b1504b5556"
+  },
+  {
+    "filename": "banana_20261030_162644_fb70ad12_031.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162644_fb70ad12",
+    "sha256": "ee5c1c46a320ae7cc1433668f2c8fdccc8721ed551b60bd2dc9a6e190f0d2c24"
+  },
+  {
+    "filename": "banana_20261030_162644_fb70ad12_032.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162644_fb70ad12",
+    "sha256": "a2495ffdb9e07ed0c569cf223d4a482521ba32975cf43d8d1a5c916a48403075"
+  },
+  {
+    "filename": "banana_20261030_162644_fb70ad12_033.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162644_fb70ad12",
+    "sha256": "157182fc57050e37dd1f00fa0a419ed95b729b468fbf56368cb86d9fa43d295e"
+  },
+  {
+    "filename": "banana_20261030_162644_fb70ad12_034.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162644_fb70ad12",
+    "sha256": "44d07ee32633135489ad97aef3499d0d6a2ecfa79ace9579bf00a5974606f162"
+  },
+  {
+    "filename": "banana_20261030_162644_fb70ad12_035.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162644_fb70ad12",
+    "sha256": "2cb0075567d428efb2692491ee0374ce00191fbc8eb8a6d1373ce7583d0cefd8"
+  },
+  {
+    "filename": "banana_20261030_162644_fb70ad12_036.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162644_fb70ad12",
+    "sha256": "45c6fdf04adcb290fc7d38c8aaf766270fc45400b8dde36bb16b89b062b39a3a"
+  },
+  {
+    "filename": "banana_20261030_162644_fb70ad12_037.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162644_fb70ad12",
+    "sha256": "bea68c0c78f59897c1eb1bd693ded400758b976d2da98648598ae6877df169e7"
+  },
+  {
+    "filename": "banana_20261030_162644_fb70ad12_038.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162644_fb70ad12",
+    "sha256": "3444279b5a8de61d4bd981d92fb11d8b2a5f96c38d36843e5d884066a7977c89"
+  },
+  {
+    "filename": "banana_20261030_162644_fb70ad12_039.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162644_fb70ad12",
+    "sha256": "b7b26e83ac99726b5863d3c9d071e50ca8cc52efd964b8c8a3b9afbad963c226"
+  },
+  {
+    "filename": "banana_20261030_162644_fb70ad12_040.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162644_fb70ad12",
+    "sha256": "f128d145458ff3b4b064fd7e81ca0b1b8b7f86dbbfd5993dbf4a77e19da15d74"
+  },
+  {
+    "filename": "banana_20261030_162644_fb70ad12_041.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162644_fb70ad12",
+    "sha256": "120c54dce5cdb309e65026f714617c35f1c8dacb6e429fc8179823ab29f0905a"
+  },
+  {
+    "filename": "banana_20261030_162644_fb70ad12_042.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162644_fb70ad12",
+    "sha256": "cb82e09f62ff3473f8a5364b807730642927e00153ef39a912012c6cbd744598"
+  },
+  {
+    "filename": "banana_20261030_162644_fb70ad12_043.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162644_fb70ad12",
+    "sha256": "fa9a38dba38285a13d2712dae0db3991e6ebcfed5c6b4a1ebe370684f0912d52"
+  },
+  {
+    "filename": "banana_20261030_162644_fb70ad12_044.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162644_fb70ad12",
+    "sha256": "c3e6ed59cc350ec73812d97f5b850923291d2e5248150cc99f89061b1cddd084"
+  },
+  {
+    "filename": "banana_20261030_162644_fb70ad12_045.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162644_fb70ad12",
+    "sha256": "0092433ca132a92952b245ca5f61feef60d51aba579f3e895a56dc72c96f4dc9"
+  },
+  {
+    "filename": "banana_20261030_162830_2a75c75a_001.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162830_2a75c75a",
+    "sha256": "bd3f64aa331bc6546e36df6210cc878c9420a912bb118c7223ea645ca4eed8d2"
+  },
+  {
+    "filename": "banana_20261030_162830_2a75c75a_002.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162830_2a75c75a",
+    "sha256": "83d980cb058122aac2491ca93ad9e9c9fa50e146a4832ae9e193749fb7558bc9"
+  },
+  {
+    "filename": "banana_20261030_162830_2a75c75a_003.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162830_2a75c75a",
+    "sha256": "06042c36b051391bb06794becbc880681ef470f25d573d5fe0c8e79dc2aed1ef"
+  },
+  {
+    "filename": "banana_20261030_162830_2a75c75a_004.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162830_2a75c75a",
+    "sha256": "776af456571fc3eddaa7a23585db995fe3b49b7844a0e3da8537c5632562301a"
+  },
+  {
+    "filename": "banana_20261030_162830_2a75c75a_005.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162830_2a75c75a",
+    "sha256": "9ec18b65d908cbc37651896d0b9baad81cefa97cb2dd6bd84600b50ab75a56a0"
+  },
+  {
+    "filename": "banana_20261030_162830_2a75c75a_006.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162830_2a75c75a",
+    "sha256": "023b71d89dc5c514a3cfad12ae33bb07e6ee207b4d21cc5e32f4a5fea50d5371"
+  },
+  {
+    "filename": "banana_20261030_162830_2a75c75a_007.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162830_2a75c75a",
+    "sha256": "1740cededfc67cb497173ad16d0ed33866d5545e6824cc57f2e782ad95759fa1"
+  },
+  {
+    "filename": "banana_20261030_162830_2a75c75a_008.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162830_2a75c75a",
+    "sha256": "0294f08deae092097a869c901b3cfce173645155a0f468e28dfe4dd2ac0649ba"
+  },
+  {
+    "filename": "banana_20261030_162830_2a75c75a_009.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162830_2a75c75a",
+    "sha256": "872453e898a7a6f286e79e273ee194794e516705b883d51ba677dd9402bfe860"
+  },
+  {
+    "filename": "banana_20261030_162830_2a75c75a_010.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162830_2a75c75a",
+    "sha256": "5685299c68ca682bb2fdb17a3608d8970e1abb1458dd94add27e7dbe38ad7a8b"
+  },
+  {
+    "filename": "banana_20261030_162830_2a75c75a_011.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162830_2a75c75a",
+    "sha256": "4f12de73da7328118436a0b4dee5dacc39712555df89a80440c7a78b939a772c"
+  },
+  {
+    "filename": "banana_20261030_162830_2a75c75a_012.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162830_2a75c75a",
+    "sha256": "93f4aa24e9f4333ee227129e01470b9a6a6de960a9fe92c434f915e04313e251"
+  },
+  {
+    "filename": "banana_20261030_162830_2a75c75a_013.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162830_2a75c75a",
+    "sha256": "b638f0d295cdf919a000f478a67e6569cda09950bf80e863603687147a8db7db"
+  },
+  {
+    "filename": "banana_20261030_162830_2a75c75a_014.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162830_2a75c75a",
+    "sha256": "05d3ab19b88d61dc91e7ef47ebee8f8c1def38f70b8e9adda04bd40b42ebb95a"
+  },
+  {
+    "filename": "banana_20261030_162830_2a75c75a_015.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162830_2a75c75a",
+    "sha256": "41a1288e79f64fc93b4014b3d5e9def629caa3474177c5e7a8496944b09fc4a9"
+  },
+  {
+    "filename": "banana_20261030_162830_2a75c75a_016.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162830_2a75c75a",
+    "sha256": "6f754479ca7254e8ebbfc53602d9a91443662c1a1459590fbb9d6038821cfa90"
+  },
+  {
+    "filename": "banana_20261030_162830_2a75c75a_017.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162830_2a75c75a",
+    "sha256": "b4c1b49c6cd47b9fb5fa798bfe6a0b82ae61ebd00947c8137d177e97f1b99354"
+  },
+  {
+    "filename": "banana_20261030_162830_2a75c75a_018.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162830_2a75c75a",
+    "sha256": "67f01ea261a5d6a5b751be2178e16f762b013336aea1de13c71bdabe6d0d2641"
+  },
+  {
+    "filename": "banana_20261030_162830_2a75c75a_019.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162830_2a75c75a",
+    "sha256": "9327672d698d9264ca933f43b85a9a0e634492d54c9501cf6327de47252aedd3"
+  },
+  {
+    "filename": "banana_20261030_162830_2a75c75a_020.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162830_2a75c75a",
+    "sha256": "f50f0c01c43db7ddeddefbe73c1dd8278dcebc3a26f583280bcc0cc090d28049"
+  },
+  {
+    "filename": "banana_20261030_162830_2a75c75a_021.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162830_2a75c75a",
+    "sha256": "29859993a01b9a40a7b7948d969ae2418bc89b3975e1d9aa65482fffdecc75f1"
+  },
+  {
+    "filename": "banana_20261030_162830_2a75c75a_022.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162830_2a75c75a",
+    "sha256": "eb7a2c6d56bf883faa3c38646e405eccd4a39c892ad2cbf47f62a02eaa2838c1"
+  },
+  {
+    "filename": "banana_20261030_162830_2a75c75a_023.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162830_2a75c75a",
+    "sha256": "e85ee01b14f2dd71d9bac1bc16971236df46aa765fd594eb8774105c6d74841c"
+  },
+  {
+    "filename": "banana_20261030_162830_2a75c75a_024.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162830_2a75c75a",
+    "sha256": "c9b74b5340b62c65e1fb541669accac8fbe42bc2a82589cadf9e2d74d3984323"
+  },
+  {
+    "filename": "banana_20261030_162830_2a75c75a_025.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162830_2a75c75a",
+    "sha256": "3f08afb90390d21a7f964156effebe263f043dc45017342b063b8dc4d0dedf4b"
+  },
+  {
+    "filename": "banana_20261030_162830_2a75c75a_026.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162830_2a75c75a",
+    "sha256": "447f8cb4b7d555c3a43edd6c5dbad3eeeeeb02852a9aedd84478279c6a2bfc1f"
+  },
+  {
+    "filename": "banana_20261030_162830_2a75c75a_027.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162830_2a75c75a",
+    "sha256": "188c86013c3fd9ed0a1c5b5ce70483b34241bacf84fc8b57fb6d20d8557148f5"
+  },
+  {
+    "filename": "banana_20261030_162830_2a75c75a_028.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162830_2a75c75a",
+    "sha256": "4a7c3b4dfa84659c97364b21eeeee12755d30b840e3c9f1a6ecfc2f95e1afe59"
+  },
+  {
+    "filename": "banana_20261030_162830_2a75c75a_029.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162830_2a75c75a",
+    "sha256": "5e71d001c8d29036acfbc6d2010d60f482e563c79a5c15064c584edaf5dd7bb9"
+  },
+  {
+    "filename": "banana_20261030_162830_2a75c75a_030.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162830_2a75c75a",
+    "sha256": "12bad83a5ef01cad020efb82dbfea6d9cd2ce48f591c72587d0ec528ecad17fd"
+  },
+  {
+    "filename": "banana_20261030_162830_2a75c75a_031.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162830_2a75c75a",
+    "sha256": "aa78b0e3df657c013630304cb00ae7dd1833bb89347cc87b51b801b66cbcdb56"
+  },
+  {
+    "filename": "banana_20261030_162830_2a75c75a_032.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162830_2a75c75a",
+    "sha256": "992929df9d5825cef5978a9e88b4bb6d6adc1b5b116b17075ad468ed1fcb2013"
+  },
+  {
+    "filename": "banana_20261030_162830_2a75c75a_033.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162830_2a75c75a",
+    "sha256": "3a8cb6eff29ae884adb3bef975daf07807a0b1967d67941f2d17ea4eeb616214"
+  },
+  {
+    "filename": "banana_20261030_162830_2a75c75a_034.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162830_2a75c75a",
+    "sha256": "0895b79402b681fa8180eb3f8e839d7a0271bec5900298e28cc979982e2cd226"
+  },
+  {
+    "filename": "banana_20261030_162830_2a75c75a_035.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162830_2a75c75a",
+    "sha256": "61765cc6de242f4cd901eebeabdc3bbd8d81619fdfe72499b12eb3a5e6c3e6bc"
+  },
+  {
+    "filename": "banana_20261030_162830_2a75c75a_036.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162830_2a75c75a",
+    "sha256": "81ced9964b853b3a3cf648e5e1f221f9de7c8910319255bc23d61213b112ac3d"
+  },
+  {
+    "filename": "banana_20261030_162830_2a75c75a_037.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162830_2a75c75a",
+    "sha256": "2acce04329e66af15e974ed6373868e6907dd1a1edec3eeb2ee29f841fc9eccf"
+  },
+  {
+    "filename": "banana_20261030_162830_2a75c75a_038.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162830_2a75c75a",
+    "sha256": "4fed7fd0d726c9e801ec082163aedf5d122f7d2280651ebd3fa476c0063950d3"
+  },
+  {
+    "filename": "banana_20261030_162830_2a75c75a_039.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162830_2a75c75a",
+    "sha256": "09cafc5e8fdb0a2e09aacdd798ad46a944390ae676b80eb873c4c54bf26f5e24"
+  },
+  {
+    "filename": "banana_20261030_162830_2a75c75a_040.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162830_2a75c75a",
+    "sha256": "99869af122c33b5d59a6086c1057d348ea1ffb6c179bfcfeffd2ee29c5650356"
+  },
+  {
+    "filename": "banana_20261030_162830_2a75c75a_041.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162830_2a75c75a",
+    "sha256": "125b1d8d163cebc6d38f8f52611bcffa554f178cda5de190454d33fdc4a138f0"
+  },
+  {
+    "filename": "banana_20261030_162830_2a75c75a_042.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162830_2a75c75a",
+    "sha256": "ad589ed12c142d0f83e144658cb8cd87457a252a0f24f9e08ad45c0a8ef8039e"
+  },
+  {
+    "filename": "banana_20261030_162830_2a75c75a_043.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162830_2a75c75a",
+    "sha256": "e368549fc71358b6aeb215e0905803a2cb92f37218114fde6fd1139e9ea89b3b"
+  },
+  {
+    "filename": "banana_20261030_162830_2a75c75a_044.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162830_2a75c75a",
+    "sha256": "f49dae5bc4764d5145b818e0697412213f466affd72bffa06ec047ec0a29e2aa"
+  },
+  {
+    "filename": "banana_20261030_162830_2a75c75a_045.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_162830_2a75c75a",
+    "sha256": "5f1040d6fd61b23149af27a35df19dc25e1c0dafa4531e1b6bbad8965771e13c"
+  },
+  {
+    "filename": "banana_20261030_163058_aa2e8060_001.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_163058_aa2e8060",
+    "sha256": "5255bf71b6b647e260e916035475e6c2bd6ff582b19c68d6f7f8300fdb225e9b"
+  },
+  {
+    "filename": "banana_20261030_163058_aa2e8060_002.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_163058_aa2e8060",
+    "sha256": "293434d0b12423ec1551d814f830dd1b6170c70334d2c932125a36739ea0b13e"
+  },
+  {
+    "filename": "banana_20261030_163058_aa2e8060_003.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_163058_aa2e8060",
+    "sha256": "b7e1e027861a07b7599466cc15ebf4d17413bdacaa9d241374531991afd80685"
+  },
+  {
+    "filename": "banana_20261030_163058_aa2e8060_004.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_163058_aa2e8060",
+    "sha256": "75b50cc6c031b515e26365fa26605f7e14b3035467e1a37d04dd22749f3368d8"
+  },
+  {
+    "filename": "banana_20261030_163058_aa2e8060_005.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_163058_aa2e8060",
+    "sha256": "4d57aa673bee884ddd79e67cf459e53e3ddf09d6245e332c60aa985b74d0a080"
+  },
+  {
+    "filename": "banana_20261030_163058_aa2e8060_006.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_163058_aa2e8060",
+    "sha256": "44da2a18c7c06892b409dc1c72d8cb1e236810d035593794897624aa88474cb4"
+  },
+  {
+    "filename": "banana_20261030_163058_aa2e8060_007.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_163058_aa2e8060",
+    "sha256": "b5fff43cd015aa2ae6fad40cbc3fff8ca2b4f9708ab04b7eb415a44cd14b1eb7"
+  },
+  {
+    "filename": "banana_20261030_163058_aa2e8060_008.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_163058_aa2e8060",
+    "sha256": "b66472fb85a1b9a88b43de88770c55380afbefc0f1cec417ecc37c8cf8b14c8d"
+  },
+  {
+    "filename": "banana_20261030_163058_aa2e8060_009.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_163058_aa2e8060",
+    "sha256": "1393c044848cc2b105a80c5a9a54592917374325615ccca63b81b891cd5e87a3"
+  },
+  {
+    "filename": "banana_20261030_163058_aa2e8060_010.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_163058_aa2e8060",
+    "sha256": "358a099586800ca7fd2fefb1d99f2c8823307a9ca622f6f29daac5f03a26a2fd"
+  },
+  {
+    "filename": "banana_20261030_163058_aa2e8060_011.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_163058_aa2e8060",
+    "sha256": "3c3ecc4828ebac8b3b0196e899b51337b3d818a166ee2a4072f8a6ae7145e2c2"
+  },
+  {
+    "filename": "banana_20261030_163058_aa2e8060_012.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_163058_aa2e8060",
+    "sha256": "ef9779a7fa3e4f7e47af2fdee1ae3ce5fad68249500d4df0b27ac0ab633b72e0"
+  },
+  {
+    "filename": "banana_20261030_163058_aa2e8060_013.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_163058_aa2e8060",
+    "sha256": "ab31a1c38845b257b8e896500dfac38c19b24c8e27923040327491bb81c2293d"
+  },
+  {
+    "filename": "banana_20261030_163058_aa2e8060_014.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_163058_aa2e8060",
+    "sha256": "9a6cff95dda10702548b9a8a0fde0f496628c308bd9963be3f622cf52dba35da"
+  },
+  {
+    "filename": "banana_20261030_163058_aa2e8060_015.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_163058_aa2e8060",
+    "sha256": "7bd12d83df87c4ba31e91605feeb05ba9fe45e5b6335301c0b1a8a7f02c6c6a3"
+  },
+  {
+    "filename": "banana_20261030_163058_aa2e8060_016.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_163058_aa2e8060",
+    "sha256": "63d0958430afd964cd11213ada7cf4ff04de3f7c332dc66ae7660e394bae1d9a"
+  },
+  {
+    "filename": "banana_20261030_163058_aa2e8060_017.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_163058_aa2e8060",
+    "sha256": "f800373f101a767ed04dda0801d1dd7d36c97f209e6b15fb3ba8a7a58e9120b2"
+  },
+  {
+    "filename": "banana_20261030_163058_aa2e8060_018.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_163058_aa2e8060",
+    "sha256": "411ffc1eaec856b7d50afba0dd2a99cc2b2290bb27b0cf01425b9ba1bf64cc95"
+  },
+  {
+    "filename": "banana_20261030_163058_aa2e8060_019.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_163058_aa2e8060",
+    "sha256": "3ab0b1631779eeb6bd7ae9cda03842e7c0fc29f6d015c42f730ba9e7c05ff5f6"
+  },
+  {
+    "filename": "banana_20261030_163058_aa2e8060_020.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_163058_aa2e8060",
+    "sha256": "758867e17401f3bb7c8be4edb8517ff7f5e475ccce8cb29773d8feb747f3b22a"
+  },
+  {
+    "filename": "banana_20261030_163058_aa2e8060_021.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_163058_aa2e8060",
+    "sha256": "365f12beb1c0cc46a976ff9d57079de2f255b179eb979cfcdff51313d0704cef"
+  },
+  {
+    "filename": "banana_20261030_163058_aa2e8060_022.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_163058_aa2e8060",
+    "sha256": "47fd4aaf002f1ae7ee6af039ed5ff8fe8391925a62710f6300eb8161fd6cbf04"
+  },
+  {
+    "filename": "banana_20261030_163058_aa2e8060_023.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_163058_aa2e8060",
+    "sha256": "bd68eb3ea4d206856cd86dc56f9314d3b97331d50ea1034062a461606eca8574"
+  },
+  {
+    "filename": "banana_20261030_163058_aa2e8060_024.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_163058_aa2e8060",
+    "sha256": "0311f2ebad0ff09d0ecf9fe942ed14dc4ae03271af9501e7ae646692254ee7cc"
+  },
+  {
+    "filename": "banana_20261030_163058_aa2e8060_025.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_163058_aa2e8060",
+    "sha256": "c7db0677121c6b48d9837bd7407770d3e9d8f8e6e552654341bab821e1f973f9"
+  },
+  {
+    "filename": "banana_20261030_163058_aa2e8060_026.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_163058_aa2e8060",
+    "sha256": "65eb4e29f17a166ae0729b5c0ab64808ddb86a9868cf9eb37af9aa82624b06dc"
+  },
+  {
+    "filename": "banana_20261030_163058_aa2e8060_027.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_163058_aa2e8060",
+    "sha256": "c4d9d0ae16ccc14aa4af95b388edbbd46720c7517799f110b21e057ab8b59637"
+  },
+  {
+    "filename": "banana_20261030_163058_aa2e8060_028.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_163058_aa2e8060",
+    "sha256": "f43200aa54970e3278930cd34505ecc85e013d366d64b245d271524b6a42e2b5"
+  },
+  {
+    "filename": "banana_20261030_163058_aa2e8060_029.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_163058_aa2e8060",
+    "sha256": "fa2733358d2e6eb73134b298ff85c5211d3907f363816fe9e06f1b8fa7cdf57f"
+  },
+  {
+    "filename": "banana_20261030_163058_aa2e8060_030.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_163058_aa2e8060",
+    "sha256": "69a95b44ebf860baae2d6478431b80a091ec3a5fd552442a084796c290f3e904"
+  },
+  {
+    "filename": "banana_20261030_163058_aa2e8060_031.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_163058_aa2e8060",
+    "sha256": "62b0a3943287cbc4033722e202445f97c3257342fc8dc3ae25adff6bd021e0a6"
+  },
+  {
+    "filename": "banana_20261030_163058_aa2e8060_032.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_163058_aa2e8060",
+    "sha256": "66158f5bbb89fd5070333e6566fa4c9441da3ffe36e386b3f95bba6c7494eee0"
+  },
+  {
+    "filename": "banana_20261030_163058_aa2e8060_033.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_163058_aa2e8060",
+    "sha256": "baef44124517b8423a8c82c8b837df8aa0e51164ae27ff716b9a31ad2d19d9e8"
+  },
+  {
+    "filename": "banana_20261030_163058_aa2e8060_034.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_163058_aa2e8060",
+    "sha256": "3aa3d032bac4a7d698a293b864f16e8729efd851361853710fbc560c4f283430"
+  },
+  {
+    "filename": "banana_20261030_163058_aa2e8060_035.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_163058_aa2e8060",
+    "sha256": "62a54326ad8ec162badca8d4d9df71de6ba7e8f57ba47f837d3d4912bbb7e09c"
+  },
+  {
+    "filename": "banana_20261030_163058_aa2e8060_036.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_163058_aa2e8060",
+    "sha256": "ef84944f8d2ed60af23399c969516acbef33e4f49c25b41cc7c1d12ace24d19d"
+  },
+  {
+    "filename": "banana_20261030_163058_aa2e8060_037.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_163058_aa2e8060",
+    "sha256": "fe5223fd218a39f6cddfa521d524c97ad460c70aea450c360921527553398d5c"
+  },
+  {
+    "filename": "banana_20261030_163058_aa2e8060_038.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_163058_aa2e8060",
+    "sha256": "77986471779d21feb08774c443af4738e21a89278a7a5f66bad8ec6385820823"
+  },
+  {
+    "filename": "banana_20261030_163058_aa2e8060_039.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_163058_aa2e8060",
+    "sha256": "87f5ec2eb2217f4fa3ef979faa1a8052e07bedda06d6e6d2be6c813285ceddec"
+  },
+  {
+    "filename": "banana_20261030_163058_aa2e8060_040.jpg",
+    "split": "train",
+    "kind": "banana",
+    "group": "banana_20261030_163058_aa2e8060",
+    "sha256": "811365dae16f392f164000cd8bd07784dfeddede86ed80484ff22ecacd64ab1f"
+  },
+  {
+    "filename": "banana_20261030_163237_c225283a_001.jpg",
+    "split": "val",
+    "kind": "banana",
+    "group": "banana_20261030_163237_c225283a",
+    "sha256": "c693536667902ab7d7d5a48c4f4268e65d3666d899b1ca60242db3a2ea9078b5"
+  },
+  {
+    "filename": "banana_20261030_163237_c225283a_002.jpg",
+    "split": "val",
+    "kind": "banana",
+    "group": "banana_20261030_163237_c225283a",
+    "sha256": "a053410599dcbd64fe5ffaaedfb48121ce4b71349264934b9d62cab03021df58"
+  },
+  {
+    "filename": "banana_20261030_163237_c225283a_003.jpg",
+    "split": "val",
+    "kind": "banana",
+    "group": "banana_20261030_163237_c225283a",
+    "sha256": "bff076d1ad60acf9548ff90e1138337e352dea6036a3f386cad85e871392ab81"
+  },
+  {
+    "filename": "banana_20261030_163237_c225283a_004.jpg",
+    "split": "val",
+    "kind": "banana",
+    "group": "banana_20261030_163237_c225283a",
+    "sha256": "4322445007593ab7e64efda3fd70811bf5d2c1160b43616672551526a701effd"
+  },
+  {
+    "filename": "banana_20261030_163237_c225283a_005.jpg",
+    "split": "val",
+    "kind": "banana",
+    "group": "banana_20261030_163237_c225283a",
+    "sha256": "60b7f319eda1e0ef3f7cc0ebd2d6e9dd5977eef539513cf43fb0a2442f2af75b"
+  },
+  {
+    "filename": "banana_20261030_163237_c225283a_006.jpg",
+    "split": "val",
+    "kind": "banana",
+    "group": "banana_20261030_163237_c225283a",
+    "sha256": "1503c01a7e86440cd4519b5e7a9e881065fa332e2447c43048b96df95aa3931c"
+  },
+  {
+    "filename": "banana_20261030_163237_c225283a_007.jpg",
+    "split": "val",
+    "kind": "banana",
+    "group": "banana_20261030_163237_c225283a",
+    "sha256": "73c61a5dbd2cb9fb23ee741ef3fb091b0440e4da5b72dd501679799a60f1d88e"
+  },
+  {
+    "filename": "banana_20261030_163237_c225283a_008.jpg",
+    "split": "val",
+    "kind": "banana",
+    "group": "banana_20261030_163237_c225283a",
+    "sha256": "9a5480566db074a91f652277be10167ddd1c6f150b1c48d6b488d6ae1cadb662"
+  },
+  {
+    "filename": "banana_20261030_163237_c225283a_009.jpg",
+    "split": "val",
+    "kind": "banana",
+    "group": "banana_20261030_163237_c225283a",
+    "sha256": "9d307486743f898a5ce55d46d03216748ae941e974bcb6d46868f5427946d23e"
+  },
+  {
+    "filename": "banana_20261030_163237_c225283a_010.jpg",
+    "split": "val",
+    "kind": "banana",
+    "group": "banana_20261030_163237_c225283a",
+    "sha256": "c30887f8c924e639bb07da5da236385f409c6d543f40c72bf7cf7fe036b3ecc5"
+  },
+  {
+    "filename": "banana_20261030_163237_c225283a_011.jpg",
+    "split": "val",
+    "kind": "banana",
+    "group": "banana_20261030_163237_c225283a",
+    "sha256": "e47afc40f1c77ad6c028330bf036205752709aec10455b1ff8a5fa60cfc81b3a"
+  },
+  {
+    "filename": "banana_20261030_163237_c225283a_012.jpg",
+    "split": "val",
+    "kind": "banana",
+    "group": "banana_20261030_163237_c225283a",
+    "sha256": "0c95d68b7acb5de0b74943500c2a85e384fa96375a0da774ab73b8e34275f270"
+  },
+  {
+    "filename": "banana_20261030_163237_c225283a_013.jpg",
+    "split": "val",
+    "kind": "banana",
+    "group": "banana_20261030_163237_c225283a",
+    "sha256": "c87e1d88261776827cba2fb073be2467d8575a3c74994ab5a28dfc95eed1805f"
+  },
+  {
+    "filename": "banana_20261030_163237_c225283a_014.jpg",
+    "split": "val",
+    "kind": "banana",
+    "group": "banana_20261030_163237_c225283a",
+    "sha256": "ea6dcc88301d876021b87087c7900cb433660a77779984373a52831851a52ef9"
+  },
+  {
+    "filename": "banana_20261030_163237_c225283a_015.jpg",
+    "split": "val",
+    "kind": "banana",
+    "group": "banana_20261030_163237_c225283a",
+    "sha256": "d09de24b5517d4c2ceeb949750143f1ee874aa3805c910b97261d86c3d169f4d"
+  },
+  {
+    "filename": "banana_20261030_163237_c225283a_016.jpg",
+    "split": "val",
+    "kind": "banana",
+    "group": "banana_20261030_163237_c225283a",
+    "sha256": "b55a1c1c294c3a2bc5435b561a04bab216d21b161d369bcda986fb085a63548b"
+  },
+  {
+    "filename": "banana_20261030_163237_c225283a_017.jpg",
+    "split": "val",
+    "kind": "banana",
+    "group": "banana_20261030_163237_c225283a",
+    "sha256": "6d8966f4781da2e044f75a99142fdd69b1aaef0713bc69b0ee17861c15ae01c4"
+  },
+  {
+    "filename": "banana_20261030_163237_c225283a_018.jpg",
+    "split": "val",
+    "kind": "banana",
+    "group": "banana_20261030_163237_c225283a",
+    "sha256": "97bb14da64f242e6089f276bf387bfd6db7d6f34b87108ce9f9576b3c3dc570b"
+  },
+  {
+    "filename": "banana_20261030_163237_c225283a_019.jpg",
+    "split": "val",
+    "kind": "banana",
+    "group": "banana_20261030_163237_c225283a",
+    "sha256": "6c95886c4519c1dcdb05cdd69b88648781992b416f32169ce78f15f5b8689416"
+  },
+  {
+    "filename": "banana_20261030_163237_c225283a_020.jpg",
+    "split": "val",
+    "kind": "banana",
+    "group": "banana_20261030_163237_c225283a",
+    "sha256": "934cb6df2d88c7bbf01aefb8b8ac57682f09ea35f1a5e8d8ae3dfc30d04051a7"
+  },
+  {
+    "filename": "banana_20261030_163237_c225283a_021.jpg",
+    "split": "val",
+    "kind": "banana",
+    "group": "banana_20261030_163237_c225283a",
+    "sha256": "e883a935757dd29d8d297a4e1d9e4c96b0b9c333159051b11844aa2e03d69263"
+  },
+  {
+    "filename": "banana_20261030_163237_c225283a_022.jpg",
+    "split": "val",
+    "kind": "banana",
+    "group": "banana_20261030_163237_c225283a",
+    "sha256": "6a3db802ed0348b3a0943996f6e65cf87dbae0b0d23a15de46b7dcb1dff010d9"
+  },
+  {
+    "filename": "banana_20261030_163237_c225283a_023.jpg",
+    "split": "val",
+    "kind": "banana",
+    "group": "banana_20261030_163237_c225283a",
+    "sha256": "6585ab4c5ef061a5e28c56b61806a76b53744e4c0b89364138e96cae8345de77"
+  },
+  {
+    "filename": "banana_20261030_163237_c225283a_024.jpg",
+    "split": "val",
+    "kind": "banana",
+    "group": "banana_20261030_163237_c225283a",
+    "sha256": "4ccd59d81d5b9dc7b35b4e0cb637fb8c2759274b75424e419b5f0095f6024f92"
+  },
+  {
+    "filename": "banana_20261030_163237_c225283a_025.jpg",
+    "split": "val",
+    "kind": "banana",
+    "group": "banana_20261030_163237_c225283a",
+    "sha256": "affc6c24eabbe80b9066e3ea825b6a33ceaf92f9b426785989d2dc17afa028ba"
+  },
+  {
+    "filename": "banana_20261030_163237_c225283a_026.jpg",
+    "split": "val",
+    "kind": "banana",
+    "group": "banana_20261030_163237_c225283a",
+    "sha256": "aa24081b994c018cedc6a1b4876e313aa6d24ba6e4c45eba65e94219e63c91f6"
+  },
+  {
+    "filename": "banana_20261030_163237_c225283a_027.jpg",
+    "split": "val",
+    "kind": "banana",
+    "group": "banana_20261030_163237_c225283a",
+    "sha256": "596089e5c2b29f79edd9ef5ce29ffcb8e30f8eefd317deda961b0dc84043c025"
+  },
+  {
+    "filename": "banana_20261030_163237_c225283a_028.jpg",
+    "split": "val",
+    "kind": "banana",
+    "group": "banana_20261030_163237_c225283a",
+    "sha256": "8350e8b6dd0987020694d9195788cafd664dea2e62eace3b7840e4bbaf47b80a"
+  },
+  {
+    "filename": "banana_20261030_163237_c225283a_029.jpg",
+    "split": "val",
+    "kind": "banana",
+    "group": "banana_20261030_163237_c225283a",
+    "sha256": "1211943558f5f493a62f6b19f2cb124a64f54fd2d70d0402e5ff5525a72b7d8a"
+  },
+  {
+    "filename": "banana_20261030_163237_c225283a_030.jpg",
+    "split": "val",
+    "kind": "banana",
+    "group": "banana_20261030_163237_c225283a",
+    "sha256": "7963e29e8b8eeb3ed04cc94d579a61904a5b5403ee1d5945750ae3a77c4812db"
+  },
+  {
+    "filename": "banana_20261030_163237_c225283a_031.jpg",
+    "split": "val",
+    "kind": "banana",
+    "group": "banana_20261030_163237_c225283a",
+    "sha256": "d0ca7b3a183ef78e777bbfc38f40cebcb43aecc449f64567012209b34ed25b0e"
+  },
+  {
+    "filename": "banana_20261030_163237_c225283a_032.jpg",
+    "split": "val",
+    "kind": "banana",
+    "group": "banana_20261030_163237_c225283a",
+    "sha256": "6d1d64a4e026cb0a2a90bc1c08893af960a5612a38995d4dfa1d100a2d32f23e"
+  },
+  {
+    "filename": "banana_20261030_163237_c225283a_033.jpg",
+    "split": "val",
+    "kind": "banana",
+    "group": "banana_20261030_163237_c225283a",
+    "sha256": "782fdcde5524a0d1721ce17e1e4ec84fd17433dbcec1848bd9747a249a8898dc"
+  },
+  {
+    "filename": "banana_20261030_163237_c225283a_034.jpg",
+    "split": "val",
+    "kind": "banana",
+    "group": "banana_20261030_163237_c225283a",
+    "sha256": "9e5878e6e276573c3296bb1ca86ccbc95e2f67b705e2d28b5a6ee8d4111c1e49"
+  },
+  {
+    "filename": "banana_20261030_163237_c225283a_035.jpg",
+    "split": "val",
+    "kind": "banana",
+    "group": "banana_20261030_163237_c225283a",
+    "sha256": "6ac0421545f282d56e0cecaeb56c429017019af28b207330f2763f7bc7d650eb"
+  },
+  {
+    "filename": "banana_20261030_163237_c225283a_036.jpg",
+    "split": "val",
+    "kind": "banana",
+    "group": "banana_20261030_163237_c225283a",
+    "sha256": "37cab9b5bffe0f850cefebbb32aac84ab555c4b073762eff800016648a3a8146"
+  },
+  {
+    "filename": "banana_20261030_163237_c225283a_037.jpg",
+    "split": "val",
+    "kind": "banana",
+    "group": "banana_20261030_163237_c225283a",
+    "sha256": "cb68215f8c8b3aae0172b6d41017d2287dd8e0d6093cf1107421958e9896a5ab"
+  },
+  {
+    "filename": "banana_20261030_163237_c225283a_038.jpg",
+    "split": "val",
+    "kind": "banana",
+    "group": "banana_20261030_163237_c225283a",
+    "sha256": "754c6068d23d4cdbe52b0cb780867ee87feff6f15163a29fcd170cb79319165d"
+  },
+  {
+    "filename": "banana_20261030_163237_c225283a_039.jpg",
+    "split": "val",
+    "kind": "banana",
+    "group": "banana_20261030_163237_c225283a",
+    "sha256": "575ab77e82e4e070204b3c26f1e584c9d36bedd9ec968711e4823fe2704a9865"
+  },
+  {
+    "filename": "banana_20261030_163237_c225283a_040.jpg",
+    "split": "val",
+    "kind": "banana",
+    "group": "banana_20261030_163237_c225283a",
+    "sha256": "18977de6be1e241d47090f1aabb2ec7921c9dad0bb03211d7c66ed933ccf7f76"
+  },
+  {
+    "filename": "background_20261030_102600_d42e970e_001.jpg",
+    "split": "train",
+    "kind": "background",
+    "group": "background_20261030_102600_d42e970e",
+    "sha256": "05509e7e6a3c028aa1fd489d5a21443974f8d473b5e1d06c344ae419fb20dade"
+  },
+  {
+    "filename": "background_20261030_102600_d42e970e_002.jpg",
+    "split": "train",
+    "kind": "background",
+    "group": "background_20261030_102600_d42e970e",
+    "sha256": "63d9d3d4e72d73a3decd1de1547b8641a70c62314cb31cc8381d2f90585b0bd3"
+  },
+  {
+    "filename": "background_20261030_102600_d42e970e_003.jpg",
+    "split": "train",
+    "kind": "background",
+    "group": "background_20261030_102600_d42e970e",
+    "sha256": "13a6779549aa48cc884876186ba967761339cb7f67610656faf091fd6134da60"
+  },
+  {
+    "filename": "background_20261030_102600_d42e970e_004.jpg",
+    "split": "train",
+    "kind": "background",
+    "group": "background_20261030_102600_d42e970e",
+    "sha256": "9e31c9b59a2159c27082fefca23b1bb18c9b9a71678acc7a62695d1f7aa60baa"
+  },
+  {
+    "filename": "background_20261030_102600_d42e970e_005.jpg",
+    "split": "train",
+    "kind": "background",
+    "group": "background_20261030_102600_d42e970e",
+    "sha256": "e2f87fd8ac5caf89722f231486c5312f5e589c69fedea5edc792b48fef40da55"
+  },
+  {
+    "filename": "background_20261030_102600_d42e970e_006.jpg",
+    "split": "train",
+    "kind": "background",
+    "group": "background_20261030_102600_d42e970e",
+    "sha256": "7f3c6e19f6b7965e74321cdf103edca188a55a831ac7c64f5d59721c981e0ad8"
+  },
+  {
+    "filename": "background_20261030_102600_d42e970e_007.jpg",
+    "split": "train",
+    "kind": "background",
+    "group": "background_20261030_102600_d42e970e",
+    "sha256": "05d2e5bf8b36be616d619006cc7ff5be52dfb8a2d0eb1eb5a2ed5a5b30e66f3c"
+  },
+  {
+    "filename": "background_20261030_102600_d42e970e_008.jpg",
+    "split": "train",
+    "kind": "background",
+    "group": "background_20261030_102600_d42e970e",
+    "sha256": "11aa50a67a30876f2b6ca231c4b4501b64d2a74459cbbb93d9ff7cd3ad9954fb"
+  },
+  {
+    "filename": "background_20261030_102600_d42e970e_009.jpg",
+    "split": "train",
+    "kind": "background",
+    "group": "background_20261030_102600_d42e970e",
+    "sha256": "20013d718285455d7e690edfdc8dc25024455228fca9c80aaff3ddf14606d383"
+  },
+  {
+    "filename": "background_20261030_102600_d42e970e_010.jpg",
+    "split": "train",
+    "kind": "background",
+    "group": "background_20261030_102600_d42e970e",
+    "sha256": "e221013695ec26317e6009a72d319e448780681da325b8dc881622ba5f7b361c"
+  },
+  {
+    "filename": "background_20261030_165305_6dbb154a_001.jpg",
+    "split": "val",
+    "kind": "background",
+    "group": "background_20261030_165305_6dbb154a",
+    "sha256": "5563ee2d3c0f6623757a0676101a684b13005e03e54c31c83148252f01f9e478"
+  },
+  {
+    "filename": "background_20261030_165305_6dbb154a_002.jpg",
+    "split": "val",
+    "kind": "background",
+    "group": "background_20261030_165305_6dbb154a",
+    "sha256": "0cbf435fbb752a00cb35b196bb945b86b0ebe0f95b1a4142c94456520eee66e3"
+  },
+  {
+    "filename": "background_20261030_165305_6dbb154a_003.jpg",
+    "split": "val",
+    "kind": "background",
+    "group": "background_20261030_165305_6dbb154a",
+    "sha256": "a9b7ad6bb12ed450a14546a6d4865b228692315dd284605a65694faa54117d0a"
+  },
+  {
+    "filename": "background_20261030_165305_6dbb154a_004.jpg",
+    "split": "val",
+    "kind": "background",
+    "group": "background_20261030_165305_6dbb154a",
+    "sha256": "3c7eb36c69bfe36f5072a1c87699d09e68145fe89b65584bac806a20b29039f8"
+  },
+  {
+    "filename": "background_20261030_165305_6dbb154a_005.jpg",
+    "split": "val",
+    "kind": "background",
+    "group": "background_20261030_165305_6dbb154a",
+    "sha256": "ffe839814a1325ef9c7b4bfc6ead3af9c5ce48303b621630e4b49c3d462ecda2"
+  },
+  {
+    "filename": "background_20261030_165305_6dbb154a_006.jpg",
+    "split": "val",
+    "kind": "background",
+    "group": "background_20261030_165305_6dbb154a",
+    "sha256": "361334cae240b02d7dbe33fc3b7345439d956a9c5850fca5d38817bb0ff13a8d"
+  },
+  {
+    "filename": "background_20261030_165305_6dbb154a_007.jpg",
+    "split": "val",
+    "kind": "background",
+    "group": "background_20261030_165305_6dbb154a",
+    "sha256": "83a388eb387c5f5b6c3ecebcdc8bef83dd248f11581224c677ddfa5820d3c804"
+  },
+  {
+    "filename": "background_20261030_165305_6dbb154a_008.jpg",
+    "split": "val",
+    "kind": "background",
+    "group": "background_20261030_165305_6dbb154a",
+    "sha256": "1b71e763323b9608cf64e095e08da58121cc3f83b5d8bc006a8a97b16612163e"
+  },
+  {
+    "filename": "background_20261030_165305_6dbb154a_009.jpg",
+    "split": "val",
+    "kind": "background",
+    "group": "background_20261030_165305_6dbb154a",
+    "sha256": "3575dc18a17b6cf93ba6cce9ea29299a9e9169f1a842696c3aea956fd06528b4"
+  },
+  {
+    "filename": "background_20261030_165305_6dbb154a_010.jpg",
+    "split": "val",
+    "kind": "background",
+    "group": "background_20261030_165305_6dbb154a",
+    "sha256": "52fd07881096e653412976b1dc5338b30853cf9083214cde964b5ab8e38bc09a"
+  },
+  {
+    "filename": "background_20261030_165305_6dbb154a_011.jpg",
+    "split": "val",
+    "kind": "background",
+    "group": "background_20261030_165305_6dbb154a",
+    "sha256": "06cec3848b4c664534b7ccefb064cdf17774668ddf43706293668ecb259de65e"
+  },
+  {
+    "filename": "background_20261030_165305_6dbb154a_012.jpg",
+    "split": "val",
+    "kind": "background",
+    "group": "background_20261030_165305_6dbb154a",
+    "sha256": "b38656445563f01ec847a1dc093d596d6643d444bc48f9bfe4b523adf9c0a01a"
+  },
+  {
+    "filename": "background_20261030_165305_6dbb154a_013.jpg",
+    "split": "val",
+    "kind": "background",
+    "group": "background_20261030_165305_6dbb154a",
+    "sha256": "5e27e122d9adc3fad239719e9f2b32e763687ae8d01723dc65a4f51e30a81062"
+  },
+  {
+    "filename": "background_20261030_165305_6dbb154a_014.jpg",
+    "split": "val",
+    "kind": "background",
+    "group": "background_20261030_165305_6dbb154a",
+    "sha256": "e69e5fc6661e44835c77a4e8dcf229a9a7c2258f1dc518c67451f3f8d766adb5"
+  },
+  {
+    "filename": "background_20261030_165305_6dbb154a_015.jpg",
+    "split": "val",
+    "kind": "background",
+    "group": "background_20261030_165305_6dbb154a",
+    "sha256": "03da914c0c8785f5ab9ef8276a2686fdadbedaf044ce812be58bca3234d7e003"
+  },
+  {
+    "filename": "background_20261030_165305_6dbb154a_016.jpg",
+    "split": "val",
+    "kind": "background",
+    "group": "background_20261030_165305_6dbb154a",
+    "sha256": "422253162e131c1527bbd6e2778b8e8b721ce4c1ed4fdf6af7a808eda50738f5"
+  },
+  {
+    "filename": "background_20261030_165305_6dbb154a_017.jpg",
+    "split": "val",
+    "kind": "background",
+    "group": "background_20261030_165305_6dbb154a",
+    "sha256": "9ca28d51674a7d7d32cec042a383fdf8601049b096ae772d433811685467b548"
+  },
+  {
+    "filename": "background_20261030_165305_6dbb154a_018.jpg",
+    "split": "val",
+    "kind": "background",
+    "group": "background_20261030_165305_6dbb154a",
+    "sha256": "5245f3e02b62007ef659f5f4f9ea8f5ef4e6af7ba49a4016f55ed8a455b3b652"
+  },
+  {
+    "filename": "background_20261030_165305_6dbb154a_019.jpg",
+    "split": "val",
+    "kind": "background",
+    "group": "background_20261030_165305_6dbb154a",
+    "sha256": "cbf9630f5bd467a53905a262c680598c83f8019c7263d186ac125c6ddb277f09"
+  },
+  {
+    "filename": "background_20261030_165305_6dbb154a_020.jpg",
+    "split": "val",
+    "kind": "background",
+    "group": "background_20261030_165305_6dbb154a",
+    "sha256": "497fb1c1ccfe30caf6215a8d92b001194f80bf4c230a551e2965ccd38478eb75"
+  },
+  {
+    "filename": "background_20261030_165305_6dbb154a_021.jpg",
+    "split": "val",
+    "kind": "background",
+    "group": "background_20261030_165305_6dbb154a",
+    "sha256": "c7cea4d107d16fd25b8060b22d96bd4ae1a9da31ba4324f27eacbd54b0bbdbd3"
+  }
+]

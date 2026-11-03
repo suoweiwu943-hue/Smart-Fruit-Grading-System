@@ -1,0 +1,6 @@
+﻿类别：0 fruit，1 invalid，2 damage。
+8张图片，28个多边形。修正 invaild 拼写；按上传图片实际尺寸同步缩放 COCO 坐标，原图字节不变。
+数据集使用全部8张图训练并在同8张图上检查拟合，不是独立验证准确率。
+不自动合并旧24张图，以免将未检查损伤标注的图误当成无损伤样本。
+annotation_overview.jpg：人工标注核对图，蓝色水果、青色过曝、红色损伤，不是模型预测。
+解压为 D:\fruit_ai\ir_damage_v1_package 后运行 train_ir_damage.py。

@@ -1,0 +1,5 @@
+2026-10-27
+PASS: Icarus Verilog 12 simulation: startup, filtering, hold, ack, rearm, busy, polarity.
+PASS: Flask test client: health, upload, duplicate, invalid id/JPEG, conflicting task ID, image route.
+PASS: Python syntax compilation.
+NOT RUN: Vivado 2026.1 project creation, synthesis, implementation, timing, board/camera/network integration.

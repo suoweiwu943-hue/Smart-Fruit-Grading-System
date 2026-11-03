@@ -1,0 +1,32 @@
+这是一份依据人工标注生成的遮罩检查包，不是已训练的AI模型，也不包含损伤预测。
+
+解压后打开 results/查看效果.html。
+每行显示：原图、灰色覆盖的无效区、仅保留有效果面的图。
+点击图片可打开大图；也可以直接打开 results/overview.jpg 看全部对照。
+
+计算规则：
+实际无效区 = fruit 与 invalid 的交集
+有效果面 = fruit 减去实际无效区
+背景和水果以外的invalid部分自动排除。
+遮罩尺寸与原图一致，白色255代表该区域，黑色0代表不属于该区域。
+
+images：上传原图的字节副本，使用ir_001至ir_005英文别名，未覆盖原件。
+fruit_masks：水果整体二值遮罩。
+invalid_raw_masks：未经裁剪的人工invalid遮罩。
+invalid_masks：已限制在fruit内部的无效遮罩。
+valid_masks：可分析果面遮罩。
+overlays：用于查看的灰色无效区域覆盖图。
+valid_only：背景与无效区置黑的演示图；不要把黑色理解为真实果面颜色或损伤。
+statistics.csv：面积像素及比例；可用Excel打开。
+manifest.json：英文别名与原图名称对应关系。
+annotations_original.json：原始COCO标注保留。
+
+无效比例是实际无效区像素/人工fruit像素，不是损伤比例，不是整果真实表面积比例。
+仅保留的区域也不等于已判断正常，只代表人工未排除的区域。
+现阶段所有结果都依据你画的多边形，不会自动处理新照片。
+若果面原本被fruit轮廓排除，系统不会自动补回；若亮区未被invalid圈到，也不会自动新增。
+五张用于验证流程，不做随机训练验证划分；之后需要更多实物，并按水果编号分组。
+
+build_masks.py是可复用的COCO遮罩生成程序，依赖Pillow，示例：
+D:\fruit_ai\.venv\Scripts\python.exe build_masks.py --json 标注.json --images 原图文件夹 --output 新输出文件夹
+输出文件夹必须不存在。

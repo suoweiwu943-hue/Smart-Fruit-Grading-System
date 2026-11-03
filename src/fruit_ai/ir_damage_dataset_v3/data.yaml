@@ -1,0 +1,7 @@
+path: D:/fruit_ai/ir_damage_dataset_v3
+train: images/train
+val: images/train
+names:
+  0: fruit
+  1: invalid
+  2: damage

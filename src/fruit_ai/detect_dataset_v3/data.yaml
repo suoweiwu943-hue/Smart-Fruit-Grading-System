@@ -1,0 +1,10 @@
+path: D:/fruit_ai/detect_dataset_v3
+train: images/train
+val: images/val
+names:
+  0: apple
+  1: banana
+  2: cherry_tomato
+  3: kiwi
+  4: mandarin
+  5: xiang_pear

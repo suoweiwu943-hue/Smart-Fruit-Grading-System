@@ -1,0 +1,32 @@
+将整个fruit_v4_training文件夹解压到D:\fruit_ai，得到：
+D:\fruit_ai\fruit_v4_training\prepare_v4.py
+D:\fruit_ai\fruit_v4_training\train_v4.py
+D:\fruit_ai\fruit_v4_training\new_data\...
+
+先在PowerShell执行合并：
+D:\fruit_ai\.venv\Scripts\python.exe D:\fruit_ai\fruit_v4_training\prepare_v4.py
+
+合并成功后开始训练：
+D:\fruit_ai\.venv\Scripts\python.exe D:\fruit_ai\fruit_v4_training\train_v4.py
+
+本包有169张香蕉照片及对应标签、31张背景照片及空标签。
+香蕉原图170张，其中banana_20261030_162644_fb70ad12_016.jpg缺少标签，已排除。
+预划分：train香蕉129、背景10；val香蕉40、背景21。
+按采集组划分，不将同组连续帧随机拆到训练和验证两侧。
+如果按N正确分组，每组对应不同实物；如同一根香蕉分了多个组，仍需自行调整组别，当前无法仅靠文件名确认实物身份。
+
+本包不是完整六类旧数据集。合并脚本读取你本机的：
+D:\fruit_ai\detect_dataset_v3
+生成完整六类数据集：
+D:\fruit_ai\detect_dataset_v4
+不修改旧v3，不覆盖已存在的v4目录。
+重复图片按SHA256检查；相同图片不重复加入，新旧标签冲突则停止。
+实际新增数量取决于本机旧数据中已包含的图片，尤其是旧10张背景。
+旧数据的train/val划分保持不变，旧跨集重复图片会报错，不会静默继续。
+脚本默认旧数据使用images/train、images/val及labels/train、labels/val结构。
+
+训练以v3的best.pt为起点，保留六类旧样本；不要只用新增香蕉单独训练来替代六类模型。
+显存不足时将train_v4.py中的batch=8改为batch=4。
+首次训练输出通常为D:\fruit_ai\runs\fruit_detect_v4\weights\best.pt。
+如已有同名训练目录，Ultralytics可能自动加数字后缀，以训练日志为准。
+训练完成后用新模型测试水果和人物、手、空桌面，再修改capture_six.py模型路径。

@@ -1,0 +1,302 @@
+INFO: [Common 17-3922] A valid Vivado Design Suite ENTERPRISE license has been detected. Your current license is active and will expire on 15-dec-2026.
+#-----------------------------------------------------------
+# Vivado v2026.1 (64-bit)
+# SW Build 6511674 on Tue Jun 16 11:02:23 MDT 2026
+# IP Build 6504888 on Tue Jun 09 09:05:25 MDT 2026
+# SharedData Build 6501428 on Mon Jun 08 17:34:18 MDT 2026
+# Start of session at: Tue Nov  3 13:20:51 2026
+# Process ID         : 43548
+# Current directory  : D:/FPGA/fruit_trigger/fruit_trigger
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent17092 D:\FPGA\fruit_trigger\fruit_trigger\fruit_trigger.xpr
+# Log file           : D:/FPGA/fruit_trigger/fruit_trigger/vivado.log
+# Journal file       : D:/FPGA/fruit_trigger/fruit_trigger\vivado.jou
+# Running On         : LAPTOP-K2RFUK17
+# Platform           : Windows 11
+# Operating System   : 26200
+# Processor Detail   : Intel(R) Core(TM) i7-14650HX
+# CPU Frequency      : 2419 MHz
+# CPU Physical cores : 16
+# CPU Logical cores  : 24
+# Host memory        : 16873 MB
+# Swap memory        : 22548 MB
+# Total Virtual      : 39422 MB
+# Available Virtual  : 15568 MB
+#-----------------------------------------------------------
+start_guioopen_project D:/FPGA/fruit_trigger/fruit_trigger/fruit_trigger.xprScanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Vivado2026.1/2026.1/Vivado/data/ip'.
+open_project: Time (s): cpu = 00:00:41 ; elapsed = 00:00:29 . Memory (MB): peak = 1802.535 ; gain = 380.848
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Tue Nov  3 13:29:06 2026...
+g block design file <D:/FPGA/fruit_trigger/fruit_trigger/fruit_trigger.srcs/sources_1/bd/design_1/design_1.bd>...
+Adding component instance block -- xilinx.com:ip:processing_system7:5.5 - processing_system7_0
+Adding component instance block -- xilinx.com:ip:axi_gpio:2.0 - axi_gpio_0
+Adding component instance block -- xilinx.com:ip:smartconnect:1.0 - axi_smc
+Adding component instance block -- xilinx.com:ip:proc_sys_reset:5.0 - rst_ps7_0_50M
+Adding component instance block -- xilinx.com:module_ref:ir_trigger:1.0 - ir_trigger_0
+Adding component instance block -- xilinx.com:ip:axi_iic:2.1 - axi_iic_0
+Successfully read diagram <design_1> from block design file <D:/FPGA/fruit_trigger/fruit_trigger/fruit_trigger.srcs/sources_1/bd/design_1/design_1.bd>
+open_bd_design: Time (s): cpu = 00:00:07 ; elapsed = 00:00:09 . Memory (MB): peak = 1921.602 ; gain = 120.195
+update_compile_order -fileset sources_1
+open_run impl_1
+INFO: [Device 21-403] Loading part xc7z020clg400-1
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.030 . Memory (MB): peak = 2166.629 ; gain = 0.000
+INFO: [Netlist 29-17] Analyzing 148 Unisim elements for replacement
+INFO: [Netlist 29-28] Unisim Transformation completed in 0 CPU seconds
+INFO: [Project 1-479] Netlist was created with Vivado 2026.1
+INFO: [Project 1-570] Preparing netlist for logic optimization
+Read ShapeDB Complete: Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.023 . Memory (MB): peak = 2283.008 ; gain = 0.000
+INFO: [Timing 38-478] Restoring timing data from binary archive.
+INFO: [Timing 38-479] Binary timing data restore complete.
+INFO: [Project 1-856] Restoring constraints from binary archive.
+INFO: [Project 1-853] Binary constraint restore complete.
+INFO: [Designutils 20-5722] Start Reading Physical Databases.
+Reading placement.
+Read Netlist Cache: Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.005 . Memory (MB): peak = 2895.348 ; gain = 0.000
+Reading placer database...
+Read Device Cache: Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.010 . Memory (MB): peak = 2895.348 ; gain = 0.000
+Read PlaceDB: Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.001 . Memory (MB): peak = 2895.348 ; gain = 0.000
+Read placeStorage: Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.137 . Memory (MB): peak = 2908.062 ; gain = 12.715
+Read PulsedLatchDB: Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 2908.062 ; gain = 0.000
+Reading routing.
+Read RouteStorage: Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.049 . Memory (MB): peak = 2908.062 ; gain = 0.000
+Read Physdb Files: Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.241 . Memory (MB): peak = 2908.062 ; gain = 12.715
+Restored from archive | CPU: 0.000000 secs | Memory: 0.000000 MB |
+Finished XDEF File Restore: Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.243 . Memory (MB): peak = 2908.062 ; gain = 12.715
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.002 . Memory (MB): peak = 2908.062 ; gain = 0.000
+INFO: [Project 1-111] Unisim Transformation Summary:
+  A total of 52 instances were transformed.
+  CFGLUT5 => CFGLUT5 (SRL16E, SRLC32E): 44 instances
+  IOBUF => IOBUF (IBUF, OBUFT): 2 instances
+  RAM32M => RAM32M (RAMD32(x6), RAMS32(x2)): 6 instances
+
+open_run: Time (s): cpu = 00:00:25 ; elapsed = 00:00:30 . Memory (MB): peak = 3310.371 ; gain = 1224.199
+WARNING: [Timing 38-436] There are set_bus_skew constraint(s) in this design. Please run report_bus_skew to ensure that bus skew requirements are met.
+report_utilization -hierarchical_min_primitive_count 50 -name utilization_1
+report_timing_summary -delay_type min_max -report_unconstrained -check_timing_verbose -max_paths 10 -input_pins -routable_nets -name timing_1
+INFO: [Timing 38-91] UpdateTimingParams: Speed grade: -1, Delay Type: min_max.
+INFO: [Timing 38-191] Multithreading enabled for timing update using a maximum of 2 CPUs
+WARNING: [Timing 38-436] There are set_bus_skew constraint(s) in this design. Please run report_bus_skew to ensure that bus skew requirements are met.
+check_timing -verbose
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2026 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2026.1 (win64) Build 6511674 Tue Jun 16 11:02:23 MDT 2026
+| Date         : Tue Nov  3 13:41:12 2026
+| Host         : LAPTOP-K2RFUK17 running 64-bit major release  (build 9200)
+| Command      : check_timing -verbose
+| Design       : design_1_wrapper
+| Device       : 7z020-clg400
+| Speed File   : -1  PRODUCTION 1.12 2019-11-22
+| Design State : Routed
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+check_timing report
+
+Table of Contents
+-----------------
+1. checking no_clock (0)
+2. checking constant_clock (0)
+3. checking pulse_width_clock (0)
+4. checking unconstrained_internal_endpoints (0)
+5. checking no_input_delay (3)
+6. checking no_output_delay (2)
+7. checking multiple_clock (0)
+8. checking generated_clocks (0)
+9. checking loops (0)
+10. checking partial_input_delay (0)
+11. checking partial_output_delay (0)
+12. checking latch_loops (0)
+
+1. checking no_clock (0)
+------------------------
+ There are 0 register/latch pins with no clock.
+
+
+2. checking constant_clock (0)
+------------------------------
+ There are 0 register/latch pins with constant_clock.
+
+
+3. checking pulse_width_clock (0)
+---------------------------------
+ There are 0 register/latch pins which need pulse_width check
+
+
+4. checking unconstrained_internal_endpoints (0)
+------------------------------------------------
+ There are 0 pins that are not constrained for maximum delay.
+
+ There are 0 pins that are not constrained for maximum delay due to constant clock.
+
+
+5. checking no_input_delay (3)
+------------------------------
+ There are 3 input ports with no input delay specified. (HIGH)
+
+IIC_0_scl_io
+IIC_0_sda_io
+ir_in
+
+ There are 0 input ports with no input delay but user has a false path constraint.
+
+
+6. checking no_output_delay (2)
+-------------------------------
+ There are 2 ports with no output delay specified. (HIGH)
+
+IIC_0_scl_io
+IIC_0_sda_io
+
+ There are 0 ports with no output delay but user has a false path constraint
+
+ There are 0 ports with no output delay but with a timing clock defined on it or propagating through it
+
+
+7. checking multiple_clock (0)
+------------------------------
+ There are 0 register/latch pins with multiple clocks.
+
+
+8. checking generated_clocks (0)
+--------------------------------
+ There are 0 generated clocks that are not connected to a clock source.
+
+
+9. checking loops (0)
+---------------------
+ There are 0 combinational loops in the design.
+
+
+10. checking partial_input_delay (0)
+------------------------------------
+ There are 0 input ports with partial input delay specified.
+
+
+11. checking partial_output_delay (0)
+-------------------------------------
+ There are 0 ports with partial output delay specified.
+
+
+12. checking latch_loops (0)
+----------------------------
+ There are 0 combinational latch loops in the design through latch input
+
+
+get_cells -hier -filter {NAME =~ *ir_meta* || NAME =~ *ir_sync*}
+design_1_i/ir_trigger_0/inst/ir_meta_reg design_1_i/ir_trigger_0/inst/ir_sync_reg
+report_clocks
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2026 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2026.1 (win64) Build 6511674 Tue Jun 16 11:02:23 MDT 2026
+| Date         : Tue Nov  3 13:44:06 2026
+| Host         : LAPTOP-K2RFUK17 running 64-bit major release  (build 9200)
+| Command      : report_clocks
+| Design       : design_1_wrapper
+| Device       : 7z020-clg400
+| Speed File   : -1  PRODUCTION 1.12 2019-11-22
+| Design State : Routed
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Clock Report
+
+
+Attributes
+  P: Propagated
+  G: Generated
+  A: Auto-derived
+  R: Renamed
+  V: Virtual
+  I: Inverted
+  S: Pin phase-shifted with Latency mode
+
+Clock                                                                                       Period(ns)  Waveform(ns)    Attributes  Sources
+clk_fpga_0                                                                                  20.000      {0.000 10.000}  P           {design_1_i/processing_system7_0/inst/PS7_i/FCLKCLK[0]}
+dbg_hub/inst/BSCANID.u_xsdbm_id/SWITCH_N_EXT_BSCAN.bscan_inst/SERIES7_BSCAN.bscan_inst/TCK  33.000      {0.000 16.500}  P           {dbg_hub/inst/BSCANID.u_xsdbm_id/SWITCH_N_EXT_BSCAN.bscan_inst/SERIES7_BSCAN.bscan_inst/TCK}
+
+
+====================================================
+Generated Clocks
+====================================================
+
+
+
+====================================================
+User Uncertainty
+====================================================
+
+
+
+====================================================
+User Jitter
+====================================================
+
+Clock       Jitter(ns)
+clk_fpga_0  0.600
+
+open_hw_manager
+connect_hw_server -allow_non_jtag
+INFO: [Labtools 27-2285] Connecting to hw_server url TCP:localhost:3121
+INFO: [Labtools 27-2222] Launching hw_server...
+INFO: [Labtools 27-2221] Launch Output:
+
+****** Xilinx hw_server v2026.1
+  **** Build date : May 29 2026 at 14:55:19
+    ** Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+
+
+INFO: [Labtools 27-3415] Connecting to cs_server url TCP:localhost:0
+INFO: [Labtools 27-3417] Launching cs_server...
+INFO: [Labtools 27-2221] Launch Output:
+
+****** Xilinx cs_server v2026.1
+  **** Build Info : #60 | 2026-06-15 19:15 UTC | a9691a9
+    ** Copyright 2017-2022 Xilinx, Inc. All Rights Reserved.
+    ** Copyright 2022-2026 Advanced Micro Devices, Inc. All Rights Reserved.
+
+
+
+connect_hw_server: Time (s): cpu = 00:00:01 ; elapsed = 00:00:10 . Memory (MB): peak = 3770.750 ; gain = 0.000
+open_hw_target
+INFO: [Labtoolstcl 44-466] Opening hw_target localhost:3121/xilinx_tcf/Xilinx/1234-tulA
+open_hw_target: Time (s): cpu = 00:00:00 ; elapsed = 00:00:10 . Memory (MB): peak = 3770.750 ; gain = 0.000
+set_property PROGRAM.FILE {D:/FPGA/fruit_trigger/fruit_trigger/fruit_trigger.runs/impl_1/design_1_wrapper.bit} [get_hw_devices xc7z020_1]
+set_property PROBES.FILE {D:/FPGA/fruit_trigger/fruit_trigger/fruit_trigger.runs/impl_1/design_1_wrapper.ltx} [get_hw_devices xc7z020_1]
+set_property FULL_PROBES.FILE {D:/FPGA/fruit_trigger/fruit_trigger/fruit_trigger.runs/impl_1/design_1_wrapper.ltx} [get_hw_devices xc7z020_1]
+current_hw_device [get_hw_devices xc7z020_1]
+refresh_hw_device [lindex [get_hw_devices xc7z020_1] 0]
+INFO: [Labtools 27-1434] Device xc7z020 (JTAG device index = 1) is programmed with a design that has no supported soft debug core(s) in it.
+WARNING: [Labtools 27-3361] The debug hub core was not detected.
+Resolution: 
+1. Make sure the clock connected to the debug hub (dbg_hub) core is a free running clock and is active.
+2. Make sure the BSCAN_SWITCH_USER_MASK device property in Vivado Hardware Manager reflects the user scan chain setting in the design and refresh the device.  To determine the user scan chain setting in the design, open the implemented design and use 'get_property C_USER_SCAN_CHAIN [get_debug_cores dbg_hub]'.
+For more details on setting the scan chain property, consult the Vivado Debug and Programming User Guide (UG908).
+WARNING: [Labtools 27-3413] Dropping logic core with cellname:'u_ila_0' at location 'uuid_23E7D65A79BC59F7BC47406C1714DFAE' from probes file, since it cannot be found on the programmed device.
+set dev [get_hw_devices xc7z020_1]; set_property PROGRAM.FILE {D:/FPGA/fruit_trigger/fruit_trigger/fruit_trigger.runs/impl_1/design_1_wrapper.bit} $dev; set_property PROBES.FILE {D:/FPGA/fruit_trigger/fruit_trigger/fruit_trigger.runs/impl_1/design_1_wrapper.ltx} $dev; program_hw_devices $dev
+INFO: [Labtools 27-3164] End of startup status: HIGH
+refresh_hw_device [get_hw_devices xc7z020_1]
+INFO: [Labtools 27-2302] Device xc7z020 (JTAG device index = 1) is programmed with a design that has 1 ILA core(s).
+list_property [get_hw_ilas hw_ila_1]
+CELL_NAME CLASS CONTROL.CAPTURE_CONDITION CONTROL.CAPTURE_MODE CONTROL.DATA_DEPTH CONTROL.TRIGGER_CONDITION CONTROL.TRIGGER_MODE CONTROL.TRIGGER_POSITION CONTROL.TRIG_OUT_MODE CONTROL.TSM_FILE CONTROL.WINDOW_COUNT CORE_REFRESH_RATE_MS CORE_UUID HW_CORE INSTANCE_NAME NAME STATIC.ILA_CLOCK_FREQ STATIC.IS_ADVANCED_TRIGGER_MODE_SUPPORTED STATIC.IS_BASIC_CAPTURE_MODE_SUPPORTED STATIC.IS_TRANSITIONAL_CAPTURE_MODE_SUPPORTED STATIC.IS_TRIG_IN_SUPPORTED STATIC.IS_TRIG_OUT_SUPPORTED STATIC.MAX_DATA_DEPTH STATIC.PORTS.COUNT STATIC.PORTS.PORT_0.COMPARATOR_COUNT STATIC.PORTS.PORT_0.IS_DATA STATIC.PORTS.PORT_0.IS_TRIGGER STATIC.PORTS.PORT_0.WIDTH STATIC.PORTS.PORT_1.COMPARATOR_COUNT STATIC.PORTS.PORT_1.IS_DATA STATIC.PORTS.PORT_1.IS_TRIGGER STATIC.PORTS.PORT_1.WIDTH STATIC.PORTS.PORT_2.COMPARATOR_COUNT STATIC.PORTS.PORT_2.IS_DATA STATIC.PORTS.PORT_2.IS_TRIGGER STATIC.PORTS.PORT_2.WIDTH STATIC.PORTS.PORT_3.COMPARATOR_COUNT STATIC.PORTS.PORT_3.IS_DATA STATIC.PORTS.PORT_3.IS_TRIGGER STATIC.PORTS.PORT_3.WIDTH STATIC.TIME_TAG_PORT STATIC.TIME_TAG_WIDTH STATIC.TSM_COUNTER_0_WIDTH STATIC.TSM_COUNTER_1_WIDTH STATIC.TSM_COUNTER_2_WIDTH STATIC.TSM_COUNTER_3_WIDTH STATUS.CORE_STATUS STATUS.DATA_DEPTH STATUS.IS_TRIGGER_AT_STARTUP STATUS.SAMPLE_COUNT STATUS.TRIGGER_POSITION STATUS.TSM_FLAG0 STATUS.TSM_FLAG1 STATUS.TSM_FLAG2 STATUS.TSM_FLAG3 STATUS.TSM_STATE STATUS.WINDOW_COUNT TRIGGER_START_TIME_SECONDS TRIGGER_STOP_TIME_SECONDS
+get_hw_probes -of_objects [get_hw_ilas hw_ila_1]
+IIC_0_scl_i IIC_0_scl_t IIC_0_sda_i IIC_0_sda_t
+set ila [get_hw_ilas hw_ila_1]
+hw_ila_1
+set probe [get_hw_probes IIC_0_scl_t -of_objects $ila]
+IIC_0_scl_t
+set_property TRIGGER_COMPARE_VALUE eq1'b0 $probe
+set_property CONTROL.TRIGGER_CONDITION AND $ila
+run_hw_ila $ila
+INFO: [Labtools 27-1964] The ILA core 'hw_ila_1' trigger was armed at 2026-Nov-03 16:43:00
+set ila [get_hw_ilas hw_ila_1]; stop_hw_ila $ila; upload_hw_ila_data $ila
+invalid command name "stop_hw_ila"
+puts [get_property CONTROL.TRIGGER_CONDITION [get_hw_ilas hw_ila_1]]
+AND
+puts [get_property TRIGGER_COMPARE_VALUE [get_hw_probes IIC_0_scl_t -of_objects [get_hw_ilas hw_ila_1]]]
+eq1'b0
+ERROR: [Labtoolstcl 44-513] HW Target shutdown. Closing target: localhost:3121/xilinx_tcf/Xilinx/1234-tulA
+exit
+INFO: [Common 17-206] Exiting Vivado at Tue Nov  3 16:59:20 2026...

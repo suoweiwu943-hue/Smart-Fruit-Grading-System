@@ -1,0 +1,6 @@
+{
+  "old_images": 11,
+  "added_images": 13,
+  "total_images": 24,
+  "validation": "Training images are reused for validation; not an independent accuracy evaluation."
+}
